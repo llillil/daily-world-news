@@ -1,9 +1,9 @@
 // ============================================================
 // Daily World News - Fetch & Process Script
-// Runs in GitHub Actions, dual API sources with failover
+// Runs in GitHub Actions, GNews API
 // ============================================================
 
-import { writeFileSync, mkdirSync, readdirSync, existsSync, readFileSync } from "fs";
+import { writeFileSync, mkdirSync, readdirSync, existsSync, readFileSync, unlinkSync } from "fs";
 
 // ---- CONFIGURATION ----
 const CONFIG = {
@@ -116,41 +116,7 @@ function checkAuthority(sourceName) {
   return AUTHORITY_SOURCES.some(s => name.includes(s));
 }
 
-// ---- Fetch from NewsAPI (Primary) ----
-async function fetchFromNewsAPI() {
-  const key = process.env.NEWSAPI_KEY;
-  if (!key || key === "YOUR_NEWSAPI_KEY") throw new Error("NewsAPI key not configured");
-
-  // Fetch from multiple categories to maximize coverage
-  const queries = [
-    "world+affairs", "international+politics", "global+conflict",
-    "disaster", "global+economy", "technology+breakthrough"
-  ];
-
-  let allArticles = [];
-  const seen = new Set();
-
-  for (const q of queries) {
-    const url = `https://newsapi.org/v2/everything?q=${q}&language=en&sortBy=publishedAt&pageSize=30&apiKey=${key}`;
-    try {
-      const res = await fetch(url);
-      if (!res.ok) throw new Error(`NewsAPI ${res.status}`);
-      const data = await res.json();
-      for (const art of (data.articles || [])) {
-        const key2 = art.url || art.title;
-        if (seen.has(key2)) continue;
-        seen.add(key2);
-        allArticles.push(art);
-      }
-    } catch (e) {
-      console.warn("NewsAPI query failed:", q, e.message);
-    }
-  }
-
-  return allArticles;
-}
-
-// ---- Fetch from GNews API (Fallback) ----
+// ---- Fetch from GNews API ----
 async function fetchFromGNews() {
   const key = process.env.GNEWS_KEY;
   if (!key || key === "YOUR_GNEWS_KEY") throw new Error("GNews key not configured");
@@ -217,35 +183,18 @@ async function main() {
   console.log("Time:", new Date().toISOString());
 
   let rawArticles = [];
-  let source = "unknown";
+  let source = "GNews";
 
-  // Primary: NewsAPI
   try {
-    console.log("📡 Primary: NewsAPI...");
-    rawArticles = await fetchFromNewsAPI();
-    source = "NewsAPI";
+    console.log("📡 Fetching from GNews API...");
+    rawArticles = await fetchFromGNews();
     console.log(`  Got ${rawArticles.length} articles`);
   } catch (e) {
-    console.error("❌ NewsAPI failed:", e.message);
-  }
-
-  // Fallback: GNews
-  if (rawArticles.length < 5) {
-    try {
-      console.log("📡 Fallback: GNews API...");
-      const gnewsArticles = await fetchFromGNews();
-      if (gnewsArticles.length > rawArticles.length) {
-        rawArticles = gnewsArticles;
-        source = "GNews";
-      }
-      console.log(`  Got ${gnewsArticles.length} articles`);
-    } catch (e) {
-      console.error("❌ GNews failed:", e.message);
-    }
+    console.error("❌ GNews API failed:", e.message);
   }
 
   if (rawArticles.length === 0) {
-    console.error("❌ Both APIs failed. Generating minimal page.");
+    console.error("❌ API fetch failed. Generating minimal page.");
   }
 
   // Process & Filter

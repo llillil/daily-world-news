@@ -4,7 +4,7 @@
 
 **特性：**
 - 🔄 全自动运行，每日北京时间 09:00 更新
-- 🛡️ 双数据源容灾（NewsAPI + GNews）
+- 📡 数据来源：GNews API
 - 🌓 深色/浅色模式切换
 - 🔥 重大紧急事件自动标注置顶
 - 🔍 关键词搜索 + 分类筛选
@@ -21,8 +21,7 @@
 
 ### 2. 获取 API 密钥
 
-- **NewsAPI**（主源）：访问 https://newsapi.org/ 注册免费账号，获取 API Key
-- **GNews**（备用源）：访问 https://gnews.io/ 注册免费账号，获取 API Key
+访问 https://gnews.io/ 注册免费账号，获取 API Key。
 
 ### 3. 配置 GitHub Secrets
 
@@ -30,7 +29,6 @@
 
 | Name | Value |
 |------|-------|
-| `NEWSAPI_KEY` | 你的 NewsAPI Key |
 | `GNEWS_KEY` | 你的 GNews Key |
 
 ### 4. 推送代码
@@ -75,11 +73,9 @@ daily-news/
 └── README.md
 ```
 
-## 🔧 应急手动切换数据源
+## 🔧 应急方案
 
-1. 打开 `.github/workflows/daily-news.yml`
-2. 修改 `NEWSAPI_KEY` 和 `GNEWS_KEY` 对应的 secret 值
-3. 或直接编辑 `fetch_news.mjs`，在 `main()` 函数中调换 API 调用优先级
+如 GNews API 异常，编辑 `fetch_news.mjs` 的 `main()` 函数，替换为其他数据源的抓取逻辑。
 
 ## ⚙️ 修改抓取规则
 
@@ -97,7 +93,6 @@ python -m http.server 8080  # 本地预览
 
 环境变量：
 ```bash
-set NEWSAPI_KEY=你的key
 set GNEWS_KEY=你的key
 node fetch_news.mjs
 ```

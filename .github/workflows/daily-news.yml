@@ -35,7 +35,6 @@ jobs:
       - name: Fetch News
         run: node fetch_news.mjs
         env:
-          NEWSAPI_KEY: ${{ secrets.NEWSAPI_KEY }}
           GNEWS_KEY: ${{ secrets.GNEWS_KEY }}
 
       - name: Commit & Push

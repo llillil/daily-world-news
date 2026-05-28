@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+<title>今日世界重大事件 | 每日更新</title>
+<meta name="description" content="每日自动抓取全球重大新闻：国际政治、地区冲突、重大灾难、全球经济、前沿科技、国际政策。">
+<style>
+:root {
+  --bg: #0f0f14;
+  --card-bg: #1a1a24;
+  --text: #e0e0e0;
+  --text-secondary: #999;
+  --border: #2a2a3a;
+  --accent: #4da6ff;
+  --urgent: #ff4444;
+  --urgent-bg: #ff44441a;
+  --tag-bg: #2a2a3a;
+  --search-bg: #1a1a24;
+  --hover: #252535;
+  --shadow: 0 2px 12px rgba(0,0,0,.3);
+}
+[data-theme="light"] {
+  --bg: #f5f5f8;
+  --card-bg: #ffffff;
+  --text: #222;
+  --text-secondary: #666;
+  --border: #e0e0e5;
+  --accent: #1a73e8;
+  --urgent: #d93025;
+  --urgent-bg: #d9302510;
+  --tag-bg: #e8e8ee;
+  --search-bg: #ffffff;
+  --hover: #eeeef5;
+  --shadow: 0 2px 12px rgba(0,0,0,.08);
+}
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;background:var(--bg);color:var(--text);line-height:1.6;transition:background .3s,color .3s}
+.container{max-width:860px;margin:0 auto;padding:16px 20px 60px}
+
+/* Header */
+.header{padding:20px 0;border-bottom:1px solid var(--border);margin-bottom:24px}
+.header-top{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:12px}
+.header h1{font-size:1.4rem;font-weight:700;color:var(--text)}
+.header h1 span{color:var(--accent)}
+.header-actions{display:flex;gap:8px;align-items:center}
+
+/* Theme Toggle */
+.theme-toggle{background:var(--card-bg);border:1px solid var(--border);color:var(--text);padding:6px 10px;border-radius:8px;cursor:pointer;font-size:.85rem;transition:all .2s}
+.theme-toggle:hover{background:var(--hover)}
+
+/* Search */
+.search-box{position:relative;flex:1;max-width:280px}
+.search-box input{width:100%;padding:8px 12px 8px 34px;border:1px solid var(--border);border-radius:8px;background:var(--search-bg);color:var(--text);font-size:.85rem;outline:none;transition:border .2s}
+.search-box input:focus{border-color:var(--accent)}
+.search-box::before{content:"🔍";position:absolute;left:10px;top:50%;transform:translateY(-50%);font-size:.8rem}
+
+/* AI Summary */
+.summary-card{background:var(--card-bg);border:1px solid var(--border);border-radius:12px;padding:16px 20px;margin-bottom:20px;box-shadow:var(--shadow)}
+.summary-card .label{font-size:.75rem;color:var(--accent);text-transform:uppercase;letter-spacing:1px;margin-bottom:6px;display:flex;align-items:center;gap:6px}
+.summary-card p{font-size:.95rem;line-height:1.7;color:var(--text)}
+
+/* Hero Image */
+.hero-image{margin-bottom:20px;border-radius:12px;overflow:hidden;background:var(--card-bg);border:1px solid var(--border)}
+.hero-image img{width:100%;height:200px;object-fit:cover;display:block}
+.hero-image .no-img{display:flex;align-items:center;justify-content:center;height:120px;color:var(--text-secondary);font-size:.9rem}
+
+/* Category Tabs */
+.tabs{display:flex;gap:6px;margin-bottom:20px;flex-wrap:wrap}
+.tab{padding:6px 14px;border-radius:20px;border:1px solid var(--border);background:var(--card-bg);color:var(--text-secondary);cursor:pointer;font-size:.82rem;transition:all .2s;white-space:nowrap}
+.tab:hover,.tab.active{background:var(--accent);color:#fff;border-color:var(--accent)}
+.tab .count{font-size:.7rem;opacity:.7;margin-left:4px}
+
+/* Archive Dropdown */
+.archive-wrap{position:relative}
+.archive-btn{background:var(--card-bg);border:1px solid var(--border);color:var(--text);padding:6px 12px;border-radius:8px;cursor:pointer;font-size:.85rem;transition:all .2s;display:flex;align-items:center;gap:4px}
+.archive-btn:hover{background:var(--hover)}
+.archive-dropdown{display:none;position:absolute;top:100%;right:0;margin-top:4px;background:var(--card-bg);border:1px solid var(--border);border-radius:8px;min-width:180px;max-height:300px;overflow-y:auto;z-index:100;box-shadow:var(--shadow)}
+.archive-dropdown.show{display:block}
+.archive-dropdown a{display:block;padding:8px 14px;color:var(--text);text-decoration:none;font-size:.85rem;transition:background .2s}
+.archive-dropdown a:hover{background:var(--hover)}
+
+/* News List */
+.news-list{display:flex;flex-direction:column;gap:14px}
+.news-card{background:var(--card-bg);border:1px solid var(--border);border-radius:12px;padding:16px 20px;transition:all .2s;box-shadow:var(--shadow);position:relative}
+.news-card:hover{transform:translateY(-1px);box-shadow:0 4px 20px rgba(0,0,0,.15)}
+.news-card.urgent{border-left:3px solid var(--urgent);background:var(--urgent-bg)}
+.news-card.hidden{display:none}
+
+.card-meta{display:flex;gap:10px;align-items:center;flex-wrap:wrap;margin-bottom:8px;font-size:.78rem;color:var(--text-secondary)}
+.card-meta .time{color:var(--text-secondary)}
+.card-meta .region{font-weight:500}
+.badge{display:inline-block;padding:2px 8px;border-radius:10px;font-size:.7rem;font-weight:600}
+.badge-urgent{background:var(--urgent);color:#fff;animation:pulse 2s infinite}
+.badge-auth{background:#1a8a4a;color:#fff}
+.badge-normal{background:var(--tag-bg);color:var(--text-secondary)}
+.badge-cat{background:var(--accent);color:#fff}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.7}}
+
+.card-title{font-size:1.05rem;font-weight:600;margin-bottom:6px;line-height:1.5}
+.card-title a{color:var(--text);text-decoration:none;transition:color .2s}
+.card-title a:hover{color:var(--accent)}
+.card-desc{font-size:.88rem;color:var(--text-secondary);margin-bottom:10px;line-height:1.6}
+.card-footer{display:flex;justify-content:space-between;align-items:center;flex-wrap:wrap;gap:8px}
+.card-source{font-size:.78rem;color:var(--text-secondary)}
+.card-actions{display:flex;gap:4px}
+.card-actions button{background:var(--tag-bg);border:1px solid var(--border);color:var(--text-secondary);padding:4px 8px;border-radius:6px;cursor:pointer;font-size:.72rem;transition:all .2s}
+.card-actions button:hover{background:var(--accent);color:#fff;border-color:var(--accent)}
+
+/* Stats Footer */
+.stats{text-align:center;padding:30px 0 10px;color:var(--text-secondary);font-size:.82rem;border-top:1px solid var(--border);margin-top:30px}
+.stats-grid{display:flex;justify-content:center;gap:24px;flex-wrap:wrap;margin-bottom:12px}
+.stat-item{text-align:center}
+.stat-num{font-size:1.4rem;font-weight:700;color:var(--accent)}
+.stat-label{font-size:.75rem;color:var(--text-secondary)}
+
+/* Toast */
+.toast{position:fixed;bottom:30px;left:50%;transform:translateX(-50%);background:var(--accent);color:#fff;padding:10px 20px;border-radius:8px;font-size:.85rem;z-index:999;animation:toastIn .3s ease;box-shadow:0 4px 16px rgba(0,0,0,.3)}
+@keyframes toastIn{from{opacity:0;transform:translateX(-50%) translateY(10px)}to{opacity:1;transform:translateX(-50%) translateY(0)}}
+
+/* Empty State */
+.empty-state{text-align:center;padding:60px 20px;color:var(--text-secondary)}
+.empty-state .icon{font-size:3rem;margin-bottom:12px}
+.empty-state p{font-size:.95rem}
+
+/* Loading */
+.loading{text-align:center;padding:60px 20px;color:var(--text-secondary)}
+.loading .spinner{width:36px;height:36px;border:3px solid var(--border);border-top:3px solid var(--accent);border-radius:50%;animation:spin .8s linear infinite;margin:0 auto 16px}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+/* Responsive */
+@media(max-width:600px){
+  .container{padding:12px 16px 40px}
+  .header h1{font-size:1.1rem}
+  .header-top{flex-direction:column;align-items:flex-start}
+  .search-box{max-width:100%}
+  .card-title{font-size:.95rem}
+  .hero-image img{height:140px}
+  .archive-dropdown{left:0;right:auto}
+}
+</style>
+</head>
+<body>
+<div class="container">
+  <!-- Header -->
+  <div class="header">
+    <div class="header-top">
+      <h1>🌍 今日世界重大事件<span> | 每日更新</span></h1>
+      <div class="header-actions">
+        <div class="archive-wrap">
+          <button class="archive-btn" id="archiveBtn">📅 往期 ▾</button>
+          <div class="archive-dropdown" id="archiveDropdown"></div>
+        </div>
+        <button class="theme-toggle" id="themeToggle">🌓</button>
+      </div>
+    </div>
+    <div style="margin-top:12px;">
+      <div class="search-box">
+        <input type="text" id="searchInput" placeholder="搜索关键词...">
+      </div>
+    </div>
+  </div>
+
+  <!-- Loading -->
+  <div class="loading" id="loading">
+    <div class="spinner"></div>
+    <p>正在加载今日新闻...</p>
+  </div>
+
+  <!-- Main Content (hidden until loaded) -->
+  <div id="mainContent" style="display:none">
+
+    <!-- AI Summary -->
+    <div class="summary-card" id="summaryCard">
+      <div class="label">🤖 AI 每日摘要</div>
+      <p id="aiSummary"></p>
+    </div>
+
+    <!-- Hero Image -->
+    <div class="hero-image" id="heroImage">
+      <div class="no-img">📸 今日热点配图</div>
+    </div>
+
+    <!-- Category Tabs -->
+    <div class="tabs" id="categoryTabs">
+      <button class="tab active" data-cat="all">📋 全部<span class="count"></span></button>
+      <button class="tab" data-cat="politics">🏛️ 政治<span class="count"></span></button>
+      <button class="tab" data-cat="conflict">⚔️ 冲突<span class="count"></span></button>
+      <button class="tab" data-cat="disaster">🌪️ 灾难<span class="count"></span></button>
+      <button class="tab" data-cat="economy">💰 经济<span class="count"></span></button>
+      <button class="tab" data-cat="tech">🔬 科技<span class="count"></span></button>
+      <button class="tab" data-cat="policy">📜 政策<span class="count"></span></button>
+    </div>
+
+    <!-- News List -->
+    <div class="news-list" id="newsList"></div>
+
+    <!-- Stats Footer -->
+    <div class="stats" id="statsFooter">
+      <div class="stats-grid">
+        <div class="stat-item"><div class="stat-num" id="statTotal">0</div><div class="stat-label">今日新闻</div></div>
+        <div class="stat-item"><div class="stat-num" id="statUrgent">0</div><div class="stat-label">🔥 紧急</div></div>
+        <div class="stat-item"><div class="stat-num" id="statRead">0</div><div class="stat-label">分钟阅读</div></div>
+        <div class="stat-item"><div class="stat-num" id="statSource">-</div><div class="stat-label">数据来源</div></div>
+      </div>
+      <p>🕐 更新于 <span id="updateTime">--</span> · 全自动抓取 · GitHub Pages 托管</p>
+    </div>
+
+  </div>
+</div>
+
+<script>
+// ---- State ----
+let allArticles = [];
+let currentCategory = "all";
+let currentSearch = "";
+
+// ---- Theme ----
+const themeToggle = document.getElementById("themeToggle");
+const html = document.documentElement;
+const savedTheme = localStorage.getItem("news-theme") || "dark";
+html.setAttribute("data-theme", savedTheme);
+themeToggle.textContent = savedTheme === "dark" ? "☀️ 浅色" : "🌙 深色";
+themeToggle.addEventListener("click", () => {
+  const next = html.getAttribute("data-theme") === "dark" ? "light" : "dark";
+  html.setAttribute("data-theme", next);
+  localStorage.setItem("news-theme", next);
+  themeToggle.textContent = next === "dark" ? "☀️ 浅色" : "🌙 深色";
+});
+
+// ---- Search ----
+document.getElementById("searchInput").addEventListener("input", (e) => {
+  currentSearch = e.target.value.trim().toLowerCase();
+  renderArticles();
+});
+
+// ---- Category Tabs ----
+document.getElementById("categoryTabs").addEventListener("click", (e) => {
+  if (!e.target.classList.contains("tab")) return;
+  document.querySelectorAll(".tab").forEach(t => t.classList.remove("active"));
+  e.target.classList.add("active");
+  currentCategory = e.target.dataset.cat;
+  renderArticles();
+});
+
+// ---- Format helpers ----
+function timeAgo(iso) {
+  const diff = Date.now() - new Date(iso).getTime();
+  const mins = Math.floor(diff / 60000);
+  if (mins < 60) return `${mins}分钟前`;
+  const hrs = Math.floor(mins / 60);
+  if (hrs < 24) return `${hrs}小时前`;
+  const days = Math.floor(hrs / 24);
+  return `${days}天前`;
+}
+
+const catIcons = {politics:"🏛️",conflict:"⚔️",disaster:"🌪️",economy:"💰",tech:"🔬",policy:"📜"};
+const catNames = {politics:"政治",conflict:"冲突",disaster:"灾难",economy:"经济",tech:"科技",policy:"政策"};
+
+// ---- Render Articles ----
+function renderArticles() {
+  const list = document.getElementById("newsList");
+  let filtered = allArticles;
+
+  if (currentCategory !== "all") {
+    filtered = filtered.filter(a => a.category === currentCategory);
+  }
+  if (currentSearch) {
+    filtered = filtered.filter(a =>
+      (a.title + a.description).toLowerCase().includes(currentSearch)
+    );
+  }
+
+  if (filtered.length === 0) {
+    list.innerHTML = `<div class="empty-state"><div class="icon">🔍</div><p>没有匹配 ${currentSearch ? `<b>"${currentSearch}"</b> 的` : '该分类的'}新闻</p></div>`;
+    return;
+  }
+
+  list.innerHTML = filtered.map((a, i) => `
+    <div class="news-card${a.urgent ? ' urgent' : ''}">
+      <div class="card-meta">
+        <span class="time">🕐 ${timeAgo(a.publishedAt)}</span>
+        <span class="region">${a.region}</span>
+        ${a.urgent ? '<span class="badge badge-urgent">🔥 突发</span>' : ''}
+        <span class="badge badge-cat">${catIcons[a.category]||''} ${catNames[a.category]||a.category}</span>
+        ${a.authoritative ? '<span class="badge badge-auth">权威</span>' : '<span class="badge badge-normal">媒体</span>'}
+      </div>
+      <div class="card-title">
+        <a href="${a.url}" target="_blank" rel="noopener">${a.title}</a>
+      </div>
+      <div class="card-desc">${a.description}</div>
+      <div class="card-footer">
+        <span class="card-source">📰 ${a.source}</span>
+        <div class="card-actions">
+          <button onclick="copyLink('${a.url.replace(/'/g,"\\'")}')" title="复制链接">📋 复制</button>
+          <button onclick="shareWechat('${a.title.replace(/'/g,"\\'")}','${a.url.replace(/'/g,"\\'")}')" title="微信分享">💬 微信</button>
+          <a href="${a.url}" target="_blank" style="text-decoration:none"><button style="cursor:pointer">🔗 原文</button></a>
+        </div>
+      </div>
+    </div>
+  `).join("");
+}
+
+// ---- Share Functions ----
+function copyLink(url) {
+  navigator.clipboard.writeText(url).then(() => showToast("✅ 链接已复制！"));
+}
+function shareWechat(title, url) {
+  copyLink(`${title}\n${url}`);
+  showToast("✅ 链接已复制，请粘贴到微信分享");
+}
+function showToast(msg) {
+  const t = document.createElement("div");
+  t.className = "toast";
+  t.textContent = msg;
+  document.body.appendChild(t);
+  setTimeout(() => { t.style.opacity = "0"; setTimeout(() => t.remove(), 300); }, 2000);
+}
+
+// ---- Archive ----
+async function loadArchive() {
+  try {
+    const res = await fetch("archive/manifest.json");
+    if (!res.ok) return [];
+    return await res.json();
+  } catch { return []; }
+}
+
+function renderArchiveDropdown(dates) {
+  const dropdown = document.getElementById("archiveDropdown");
+  if (dates.length === 0) {
+    dropdown.innerHTML = '<a style="color:var(--text-secondary)">暂无存档</a>';
+    return;
+  }
+  dropdown.innerHTML = [
+    '<a href="data.json" style="color:var(--accent);font-weight:600">📌 今日最新</a>',
+    ...dates.map(d => `<a href="archive/${d}.json">📅 ${d}</a>`)
+  ].join("");
+}
+
+document.getElementById("archiveBtn").addEventListener("click", () => {
+  document.getElementById("archiveDropdown").classList.toggle("show");
+});
+document.addEventListener("click", (e) => {
+  if (!e.target.closest(".archive-wrap")) {
+    document.getElementById("archiveDropdown").classList.remove("show");
+  }
+});
+
+// ---- Load Main Data ----
+async function loadData() {
+  try {
+    const res = await fetch("data.json");
+    if (!res.ok) throw new Error("Failed to load");
+    const data = await res.json();
+
+    allArticles = data.articles || [];
+    document.getElementById("aiSummary").textContent = data.aiSummary || "今日暂无摘要。";
+
+    // Hero image - use first article with image
+    const heroImg = document.getElementById("heroImage");
+    const imgArticle = allArticles.find(a => a.imageUrl);
+    if (imgArticle?.imageUrl) {
+      heroImg.innerHTML = `<img src="${imgArticle.imageUrl}" alt="热点配图" onerror="this.parentElement.innerHTML='<div class=no-img>📸 今日热点配图</div>'">`;
+    }
+
+    // Stats
+    document.getElementById("statTotal").textContent = data.stats?.totalArticles || 0;
+    document.getElementById("statUrgent").textContent = data.stats?.urgentCount || 0;
+    document.getElementById("statRead").textContent = data.stats?.estimatedReadMinutes || 0;
+    document.getElementById("statSource").textContent = data.sources || "-";
+    document.getElementById("updateTime").textContent = new Date(data.updatedAt).toLocaleString("zh-CN");
+
+    // Category counts
+    const counts = data.stats?.categories || {};
+    document.querySelectorAll(".tab .count").forEach(el => {
+      const cat = el.parentElement.dataset.cat;
+      el.textContent = cat === "all" ? `(${allArticles.length})` : `(${counts[cat] || 0})`;
+    });
+
+    renderArticles();
+
+    // Archive
+    const archiveDates = await loadArchive();
+    renderArchiveDropdown(archiveDates);
+
+    // Show content
+    document.getElementById("loading").style.display = "none";
+    document.getElementById("mainContent").style.display = "block";
+
+  } catch (e) {
+    console.error(e);
+    document.getElementById("loading").innerHTML =
+      '<div class="empty-state"><div class="icon">⚠️</div><p>数据加载失败，请检查 data.json 文件是否存在</p><p style="font-size:.8rem;margin-top:8px">首次部署后，GitHub Actions 将自动生成数据</p></div>';
+  }
+}
+
+loadData();
+</script>
+</body>
+</html>

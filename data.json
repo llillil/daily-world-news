@@ -1,0 +1,13 @@
+{
+  "date": "2026-05-28",
+  "updatedAt": "2026-05-28T00:00:00.000Z",
+  "sources": "pending",
+  "aiSummary": "⏳ 正在等待首次新闻抓取... GitHub Actions 将在每日北京时间 09:00 自动运行，更新全球重大新闻。首次部署后约 2-3 分钟生效。",
+  "stats": {
+    "totalArticles": 0,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 0,
+    "categories": {}
+  },
+  "articles": []
+}

@@ -1,0 +1,14 @@
+{
+  "name": "daily-world-news",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Daily world news aggregator - automated deployment to GitHub Pages",
+  "scripts": {
+    "fetch": "node fetch_news.mjs"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,20 +1,32 @@
 {
   "date": "2026-05-28",
-  "updatedAt": "2026-05-28T09:21:14.055Z",
+  "updatedAt": "2026-05-28T09:26:29.941Z",
   "sources": "GNews",
-  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Burkina Faso Junta Suspends Student；Russia’s Land Bridge Becomes a；Ex。本日共收录 10 条重要国际新闻。",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Volcanic activity worldwide 27 May；Burkina Faso Junta Suspends Student；Russia’s Land Bridge Becomes a。本日共收录 10 条重要国际新闻。",
   "stats": {
     "totalArticles": 10,
     "urgentCount": 0,
-    "estimatedReadMinutes": 2,
+    "estimatedReadMinutes": 1,
     "categories": {
+      "disaster": 2,
       "politics": 5,
-      "conflict": 3,
-      "disaster": 1,
+      "conflict": 2,
       "policy": 1
     }
   },
   "articles": [
+    {
+      "title": "Volcanic activity worldwide 27 May 2026: Santiaguito volcano, Fuego, Popocatépetl, Semeru, Ibu, Duk...",
+      "description": "Volcanic activity world-wide",
+      "url": "https://www.volcanodiscovery.com/fr/volcano-activity/news/303516/Volcanic-activity-worldwide-27-May-2026-Santiaguito-volcano-Fuego-Popocatepetl-Semeru-Ibu-Duk.html",
+      "imageUrl": "https://volcanodiscovery.de/uploads/pics/2026/05/active-volcano-map2-2026-05-27.jpg",
+      "source": "Volcano Discovery",
+      "authoritative": false,
+      "publishedAt": "2026-05-27T21:22:30Z",
+      "category": "disaster",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
     {
       "title": "Burkina Faso Junta Suspends Student Union, Arrests Leader",
       "description": "Burkina Faso's ruling junta has suspended the country's largest student union, Ugeb, and arrested its leader, Wilfried Bazo, amid a crackdown on independen",
@@ -121,18 +133,6 @@
       "publishedAt": "2026-05-27T21:00:00Z",
       "category": "politics",
       "region": "🇺🇦 乌克兰",
-      "urgent": false
-    },
-    {
-      "title": "Burnham and Streeting hit back at Blair's attack on Labour government",
-      "description": "Sir Tony Blair urged Labour to embrace the “radical centre” in a highly critical 5,700 word essay published on Wednesday",
-      "url": "https://nz.news.yahoo.com/burnham-streeting-hit-back-blairs-205920028.html",
-      "imageUrl": "https://s.yimg.com/os/en/evening_standard_239/be9928ba2c0acb28867314f0da5c490b",
-      "source": "Yahoo News New Zealand",
-      "authoritative": false,
-      "publishedAt": "2026-05-27T20:59:20Z",
-      "category": "conflict",
-      "region": "🇮🇳 印度",
       "urgent": false
     }
   ]

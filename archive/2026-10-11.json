@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-11",
+  "updatedAt": "2026-10-11T06:45:33.897Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：US president Donald Trump says；Canada Outlines Which Foreigners Can；Trump says Ukraine needs 'new。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "politics": 4,
+      "conflict": 4,
+      "disaster": 1,
+      "tech": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "US president Donald Trump says it is time for Ukraine to get rid of Zelenskiy",
+      "description": "Extraordinary intervention came after Russian strikes killed at least 20 people in Ukraine’s Zaporizhzhia region",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/10/russian-attacks-kill-seven-in-ukraine-after-trump-strikes-diesel-deal-with-putin/",
+      "imageUrl": "https://www.irishtimes.com/resizer/v2/KFR34FE5XTXP2KZXTFL2A62JB4.jpg?smart=true&auth=f39904a18d1701ddf556ece505d2be3cad80c93529b2c1aec12e647cf46a713c&width=1200&height=630",
+      "source": "The Irish Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-10T18:45:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Canada Outlines Which Foreigners Can Join Its Military Without Citizenship",
+      "description": "Canada allows eligible permanent residents to apply to join the Canadian Armed Forces without first becoming citizens. Applicants must meet specific conditions.",
+      "url": "https://www.tuko.co.ke/world/africa/642723-canada-outlines-foreigners-join-military-citizenship/",
+      "imageUrl": "https://cdn.tuko.co.ke/images/1200x675/8336dd7c56e1de39.jpeg?v=1",
+      "source": "Tuko News",
+      "authoritative": false,
+      "publishedAt": "2026-10-10T18:45:00Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Trump says Ukraine needs 'new president', warns Zelensky a day after Russia diesel deal",
+      "description": "Trump warned Ukrainian President Volodymyr Zelensky against attacking Russian oil refineries, particularly facilities that produce diesel fuel. | World News",
+      "url": "https://www.hindustantimes.com/world-news/trump-says-ukraine-needs-new-president-warns-zelensky-a-day-after-russia-diesel-deal-101791653488987.html",
+      "imageUrl": "https://www.hindustantimes.com/ht-img/img/2026/10/10/1600x900/logo/FILES-US-POLITICS-TRUMP-3_1768498122949_1768498135702_1791656262478_Gf2E_6b43e4cd-5b54-4dc1-bbbc-ce554d156ece_J0Lk.jpg",
+      "source": "Hindustan Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-10T18:43:29Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Photos: Thousands march across Europe to demand end to Israel’s war on Gaza",
+      "description": "Demonstrations in London, Berlin, and Rome denounce ongoing Israeli attacks on Gaza ‘ceasefire’ anniversary.",
+      "url": "https://www.aljazeera.com/gallery/2026/10/10/photos-thousands-march-across-europe-to-demand-end-to-israels-war-on-gaza",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AFP__20261010__D2UR3ZF__v1__HighRes__776575094-1791652497.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-10T18:35:24Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Hurricane Isaias kills at least four, thousands without power after making landfall in US",
+      "description": "Four people are dead and about 800,000 in south-eastern US states are without power after Hurricane Isaias made landfall, weakening to a post-tropical cyclone.",
+      "url": "https://www.abc.net.au/news/2026-10-11/hurricane-isaias-kills-four/107252334",
+      "imageUrl": "https://live-production.wcms.abc-cdn.net.au/1291a64c4abce619000f5dedfbb38317?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=260&width=862&height=485&imformat=generic",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "authoritative": true,
+      "publishedAt": "2026-10-10T18:30:00Z",
+      "category": "disaster",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "The Ministry of Foreign Affairs urges Latvian citizens not to travel to Saudi Arabia",
+      "description": "Latvian citizens who are already in Saudi Arabia are urged to follow the instructions of local authorities.",
+      "url": "https://news.inbox.eu/150utf8-the-ministry-of-foreign-affairs-urges-latvian-citizens-not-to-travel-to-saudi-arabia?language=en",
+      "imageUrl": "https://news.inbox.eu/w/img/e8/81/e881a736977ca28ae2.webp",
+      "source": "Inbox.eu",
+      "authoritative": false,
+      "publishedAt": "2026-10-10T18:26:10Z",
+      "category": "tech",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "‘Time for a new president’: Trump calls on Zelensky to go amid diesel stoush",
+      "description": "The US president said Ukraine “better damn well stop” striking Russia’s diesel refineries and called for Zelensky to be replaced with someone who would make a deal with Vladimir Putin.",
+      "url": "https://www.smh.com.au/world/north-america/time-for-a-new-president-trump-calls-on-zelensky-to-go-amid-diesel-stoush-20261011-p614g5.html",
+      "imageUrl": "https://static.ffx.io/images/$zoom_0.1348%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_73/t_crop_custom/q_86%2Cf_auto/c9ce4b5be0f7fbd018ee0a696bdff98cf342b6c0",
+      "source": "SMH.com.au",
+      "authoritative": false,
+      "publishedAt": "2026-10-10T18:22:56Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Donald Trump weighs joint strikes on Houthis and calls for Volodymyr Zelensky to be replaced",
+      "description": "Trump's remarks leave open the possibility of direct US military involvement alongside Saudi Arabia against the Houthis. He also added that he thought 'it's time for Ukraine to get a new president.'",
+      "url": "https://www.jpost.com/international/article-911243",
+      "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/741352",
+      "source": "The Jerusalem Post",
+      "authoritative": false,
+      "publishedAt": "2026-10-10T18:20:14Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Houthi attack on Riyadh airport kills 12, wounds 300",
+      "description": "Houthi attack on Riyadh airport kills 12 and wounds more than 300, Saudi authorities say, as flights are diverted and operations suspended. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/middle-east/several-wounded-in-riyadh-airport-attack-operations-suspended-saudi-aviation-authority-says",
+      "imageUrl": "https://cassette.sphdigital.com.sg/image/straitstimes/0c5ff8f8b734fd4f317fbad903ed42086f260bb7b7a7480d09a56615e801ee8f?w=1200",
+      "source": "The Straits Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-10T18:17:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Nine dead, including shooter, in Pennsylvania",
+      "description": "Two children were among the eight people killed at a residential home in Erie. Police have described the mass shooting as one of the worst in the city’s history.",
+      "url": "https://www.smh.com.au/world/north-america/nine-dead-after-mass-shooting-in-pennsylvania-20261011-p614g6.html",
+      "imageUrl": "https://static.ffx.io/images/$zoom_0.5518518518518518%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/f73472317da648c07a8ee273b8633ac9dc6c08a9",
+      "source": "SMH.com.au",
+      "authoritative": false,
+      "publishedAt": "2026-10-10T18:15:34Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    }
+  ]
+}

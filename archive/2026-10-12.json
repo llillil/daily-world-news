@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-12",
+  "updatedAt": "2026-10-12T06:53:22.339Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：War and high debt to；Farage pledges to shut down；Isaias moves north into Appalachians。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "economy": 1,
+      "politics": 5,
+      "disaster": 1,
+      "conflict": 2,
+      "policy": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "War and high debt to dominate IMF-World Bank meetings in Bangkok",
+      "description": "The US-Israel war on Iran and its inflationary impact will dominate the agenda.",
+      "url": "https://www.aljazeera.com/news/2026/10/11/war-and-high-debt-to-dominate-imf-world-bank-meetings-in-bangkok",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acbbd763c85-1791737206.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-11T18:52:18Z",
+      "category": "economy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Farage pledges to shut down asylum system",
+      "description": "Reform to declare a ‘national security emergency’ and deport 90,000 migrants immediately",
+      "url": "https://www.telegraph.co.uk/politics/2026/10/11/farage-pledges-to-shut-down-asylum-system/",
+      "imageUrl": "https://www.telegraph.co.uk/content/dam/politics/2026/10/11/TELEMMGLPICT000506477256_17917465261130_trans_NvBQzQNjv4Bqd8uk6dM6aZEtbziVXNu4-1mnjVKqB1Lzt5OADu6nMNs.jpeg?impolicy=OG-Standard",
+      "source": "The Telegraph",
+      "authoritative": false,
+      "publishedAt": "2026-10-11T18:44:00Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Isaias moves north into Appalachians and mid-Atlantic; Southern California battered by Rachel",
+      "description": "PENSACOLA, Fla. — As people in the Florida Panhandle and southern Alabama cleaned up in the wake of Isaias, the storm’s remnants brought heavy rainfall and the risk of flooding across the central Appa",
+      "url": "https://www.nbcnews.com/weather/hurricanes/florida-alabama-residents-powerless-isaias-moves-north-rcna602773",
+      "imageUrl": "https://media-cldnry.s-nbcnews.com/image/upload/t_nbcnews-fp-1200-630,f_auto,q_auto:best/rockcms/2026-10/261011-isaias-vl-1124a-d09a59.jpg",
+      "source": "NBC News",
+      "authoritative": true,
+      "publishedAt": "2026-10-11T18:40:27Z",
+      "category": "disaster",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Greens call on federal government to block US execution live stream in Australia",
+      "description": "It comes after US Defense Secretary Pete Hegseth said he would make sure the public could watch the December 3 execution of Nidal Malik Hasan.",
+      "url": "https://www.abc.net.au/news/2026-10-12/greens-want-to-block-us-execution-live-stream/107253928",
+      "imageUrl": "https://live-production.wcms.abc-cdn.net.au/dafd3c21ba719a38b1ebde8993527671?impolicy=wcms_watermark_news&cropH=3385&cropW=6018&xPos=0&yPos=2&width=862&height=485&imformat=generic",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "authoritative": true,
+      "publishedAt": "2026-10-11T18:35:55Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Beijing residents dispose of drones ahead of ban on ownership",
+      "description": "Drone owners in Beijing are selling or sending away their aircraft as a ban on possession and storage is set to take effect.",
+      "url": "https://www.abc.net.au/news/2026-10-12/beijing-residents-dispose-drones-ahead-of-ban-on-ownership/107229144",
+      "imageUrl": "https://live-production.wcms.abc-cdn.net.au/df6b41e430791c1c3a9f2a464e4bdf37?impolicy=wcms_watermark_news&cropH=2785&cropW=4951&xPos=49&yPos=450&width=862&height=485&imformat=generic",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "authoritative": true,
+      "publishedAt": "2026-10-11T18:34:54Z",
+      "category": "conflict",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Trump and Rubio weigh firing Kimberly Guilfoyle after reports of improper conduct",
+      "description": "Senior official says president and US secretary of state are ‘extremely pissed off’ by conduct of US envoy to Greece",
+      "url": "https://www.theguardian.com/us-news/2026/oct/11/trump-rubio-weigh-firing-kimberly-guilfoyle",
+      "imageUrl": "https://i.guim.co.uk/img/media/5a425fa0750fe73b3d09fa3a82d4e1dbc9171c16/1057_0_5695_4558/master/5695.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=8385ecb973787a6cfd7508bcfca15d2d",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-10-11T18:34:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "SKOT Impact Academy Launches 3rd Cohort, Deepening Investment in Africa’s Communications Talent",
+      "description": "SKOT Impact Academy is set to commence the third cohort of its six-week, intensive, tuition-free training programme on October 10, 2026.",
+      "url": "https://brandcrunch.com.ng/2026/10/11/skot-impact-academy-launches-3rd-cohort-deepening-investment-in-africas-communications-talent/",
+      "imageUrl": "https://i0.wp.com/brandcrunch.com.ng/wp-content/uploads/2026/10/SAVE_20261011_192111.jpg?fit=1600%2C1066&ssl=1",
+      "source": "BrandCrunch Nigeria",
+      "authoritative": false,
+      "publishedAt": "2026-10-11T18:32:36Z",
+      "category": "policy",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Pakistan imposes emergency rule over Imran Khan's provincial government",
+      "description": "Pakistan's president declared a state of emergency and suspended a provincial government led by the party ‌of jailed former Prime Minister Imran Khan on Sunday, which the federal government said had f",
+      "url": "https://www.reuters.com/world/asia-pacific/pakistan-president-imposes-emergency-province-ruled-by-ex-pm-imran-khans-party-2026-10-11/",
+      "imageUrl": "https://www.reuters.com/resizer/v2/NIRZF3XFYNJQPHMAIW3J2LEEUA.jpg?auth=d05834aa84592ac67ed6cf32f3ee32a5237b4af3e16caa4cb4b54e777b7deb0b&height=1005&width=1920&quality=80&smart=true",
+      "source": "Reuters",
+      "authoritative": true,
+      "publishedAt": "2026-10-11T18:29:43Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "The carnage and consequences of rising extremism in Asia",
+      "description": "A small town is searching for answers after two students were shot dead at school. All signs point to a new wave of extremism in the form of a little-known online community.",
+      "url": "https://www.abc.net.au/news/2026-10-12/online-extremism-rise-in-deadly-school-shootings-philippines/107237852",
+      "imageUrl": "https://live-production.wcms.abc-cdn.net.au/3b9b1ac6b5c4f6e89e7a5e92df3a7ee4?impolicy=wcms_watermark_news&cropH=1080&cropW=1920&xPos=0&yPos=0&width=862&height=485&imformat=generic",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "authoritative": true,
+      "publishedAt": "2026-10-11T18:26:47Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Mandari to get clinic to improve healthcare delivery - Yussif Sulemana",
+      "description": "Deputy Minister for Lands and Natural Resources and Member of Parliament for Bole-Bamboi, Yussif Sulemana, has assured residents of Mandari, a farming",
+      "url": "https://www.adomonline.com/mandari-to-get-clinic-to-improve-healthcare-delivery-yussif-sulemana/",
+      "imageUrl": "https://www.adomonline.com/wp-content/uploads/2026/10/Screenshot-2026-10-11-175551.png",
+      "source": "Adomonline.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-11T18:23:10Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

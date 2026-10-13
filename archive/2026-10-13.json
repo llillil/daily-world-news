@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-13",
+  "updatedAt": "2026-10-13T07:18:31.082Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Hall, Woodford win Nobel prize；Shipping and insurance costs for；Three men rescued after rising。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "economy": 1,
+      "politics": 4,
+      "disaster": 1,
+      "policy": 2,
+      "tech": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Hall, Woodford win Nobel prize for work on how to stabilise economies",
+      "description": "US academics Robert Hall and Michael Woodford won the 2026 Nobel economics prize on Monday for decades of work developing ground-up models currently used ​by central banks and finance ministries acros",
+      "url": "https://www.reuters.com/world/hall-woodford-win-2026-nobel-economics-prize-2026-10-12/",
+      "imageUrl": "https://www.reuters.com/resizer/v2/FAVAB6XRJBJORN6IBCTPBCZQ3A.jpg?auth=3f64290f353a5fade5101e8913229dad45d121b7310d5be3535e34e2a0049cf4&height=1005&width=1920&quality=80&smart=true",
+      "source": "Reuters",
+      "authoritative": true,
+      "publishedAt": "2026-10-12T19:14:14Z",
+      "category": "economy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Shipping and insurance costs for energy flows surge, OPEC, non-OPEC ministers say",
+      "description": "Ministers of OPEC and non-OPEC Participating Countries in the Declaration ​of Cooperation said shipping and ‌insurance costs have surged to unprecedented levels of over one third of the ​commodity val",
+      "url": "https://www.reuters.com/business/energy/shipping-insurance-costs-energy-flows-surge-opec-non-opec-ministers-say-2026-10-12/",
+      "imageUrl": "https://www.reuters.com/resizer/v2/V7YV3MMDAFJZJNENFSKD6SRDB4.jpg?auth=4d78dafcc5bfcad7b80a0b9044c46cb5320abe71215ad6a5e37ea624f367aa9e&height=1005&width=1920&quality=80&smart=true",
+      "source": "Reuters",
+      "authoritative": true,
+      "publishedAt": "2026-10-12T19:12:09Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Three men rescued after rising tide cuts them off",
+      "description": "A helicopter and lifeboat rescued the men after they became stuck in cliff caves in Thornwick Bay.",
+      "url": "https://www.bbc.com/news/articles/cq33x70k35npo",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/6063/live/d5af8b10-c62f-11f1-9a39-31b474234113.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-10-12T19:06:40Z",
+      "category": "disaster",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Blue plaque honour for Leeds poet Tony Harrison's childhood home",
+      "description": "Tony Harrison, who died last year aged 88, grew up in Leeds and is best known for his poem V.",
+      "url": "https://www.bbc.com/news/articles/cmr4y2yl17x7o",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ac34/live/226f37f0-c655-11f1-8600-efb62b613ab5.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-10-12T19:06:02Z",
+      "category": "policy",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Limpopo teenager dies after mob attack over alleged foreign shop robbery",
+      "description": "Community accused of taking law into their own hands after fatal assault",
+      "url": "https://www.timeslive.co.za/news/south-africa/2026-10-12-limpopo-teenager-dies-after-mob-attack-over-alleged-foreign-shop-robbery/",
+      "imageUrl": "https://www.timeslive.co.za/resizer/v2/WW4MGCFKGVGVHB5VMYBJ4UGNRU.jpg?smart=true&auth=04142ad6acab838f8bb19eadc6563aa60acd20a9f01f7015d224b933e34d3832&width=1200&height=630",
+      "source": "TimesLIVE",
+      "authoritative": false,
+      "publishedAt": "2026-10-12T19:04:42Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Carlo Acutis and the 4 Popes",
+      "description": "Carlo went on pilgrimage to see John Paul II, offered up his suffering from cancer for Benedict XVI, was beatified during the pontificate of Pope Francis, and was canonized by Pope Leo XIV.",
+      "url": "https://www.ncregister.com/cna/carlo-acutis-and-the-four-popes-x6lygs1u",
+      "imageUrl": "https://publisher-assets.ncregister.com/pb-ncregister/swp/hv9hms/media/2026101210100_2e03117cc3d4e53a6cabe6dabcadc43e52914291bd2fe905f9b974f8874c20f4.jpg",
+      "source": "National Catholic Register",
+      "authoritative": false,
+      "publishedAt": "2026-10-12T19:02:58Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Lithuanian prime minister says more Ukrainian strikes on Russian data centers could help safeguard European elections from interference",
+      "description": "Lithuanian Prime Minister Mindaugas Sinkevičius suggested more strikes on Russian data centers when asked at the Warsaw Security Forum how European countries could protect their elections from interfe",
+      "url": "https://meduza.io/en/news/2026/10/12/lithuanian-prime-minister-says-more-ukrainian-strikes-on-russian-data-centers-could-help-safeguard-european-elections-from-interference",
+      "imageUrl": "https://meduza.io/imgly/share/1791831772/en/news/2026/10/12/lithuanian-prime-minister-says-more-ukrainian-strikes-on-russian-data-centers-could-help-safeguard-european-elections-from-interference",
+      "source": "Meduza",
+      "authoritative": false,
+      "publishedAt": "2026-10-12T19:02:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Winston Peters’ office accuses Greens of ‘megaphone diplomacy’ over Israel",
+      "description": "Winston Peters’ office has accused the Green Party of “megaphone diplomacy” over Israel, as Greens co-leader Marama Davidson accuses Peters of being “weak”...",
+      "url": "https://www.nzherald.co.nz/nz/politics/winston-peters-office-accuses-greens-of-megaphone-diplomacy-over-israel/VPVDXRFFNFE6FIFED2A7BZODEQ/",
+      "imageUrl": "https://www.nzherald.co.nz/resizer/v2/3OZ5TD5MIJJ7PCXT6VKR6QQKKY.jpg?auth=343e3c7603dbaa48f0e7748de60b64aa98b851e82445f703deeb67971fc6feef&width=1200&height=675&quality=70&focal=376%2C116&smart=false",
+      "source": "NZ Herald",
+      "authoritative": false,
+      "publishedAt": "2026-10-12T19:01:31Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Faith leaders condemn Trump’s firing squad execution. His evangelical adviser is cheering him on",
+      "description": "Top evangelical figures close to the president don’t condemn the idea — or claim that God commands it",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-firing-squad-execution-evangelical-leaders-b3065425.html",
+      "imageUrl": "https://static.independent.co.uk/2026/10/12/17/805456906..?trim=0,16,0,16&width=1200&height=800&crop=1200:800",
+      "source": "The Independent",
+      "authoritative": false,
+      "publishedAt": "2026-10-12T19:01:00Z",
+      "category": "tech",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    }
+  ]
+}

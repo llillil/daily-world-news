@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-14",
+  "updatedAt": "2026-10-14T05:44:10.513Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域，共有 1 条紧急事件需要关注。热点议题包括：Saudi Arabia strikes oil depots；'Pill given to injured pilot':；Savannah Police Department searching for。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 1,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "conflict": 1,
+      "tech": 4,
+      "politics": 5
+    }
+  },
+  "articles": [
+    {
+      "title": "Saudi Arabia strikes oil depots in Yemen as conflict with Houthis escalates",
+      "description": "Civilians warned to leave target area near Sana’a before attacks following deadly strike on Riyadh airport",
+      "url": "https://www.theguardian.com/world/2026/oct/13/saudi-arabia-strikes-strategic-oil-depots-near-yemen-capital",
+      "imageUrl": "https://i.guim.co.uk/img/media/a0e9bef078e7fc1f0f1d0a49f0349b500081ee4b/505_0_3581_2864/master/3581.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=5e2be8ae9f8be853f8896a4735d53065",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-10-13T17:26:00Z",
+      "category": "conflict",
+      "region": "🇩🇪 德国",
+      "urgent": true
+    },
+    {
+      "title": "'Pill given to injured pilot': flydubai passenger makes fresh allegations against crew",
+      "description": "In the conversation with the media outlet, the passenger reportedly spoke about the crew's behaviour while the incident occurred. | World News",
+      "url": "https://www.hindustantimes.com/world-news/pill-given-to-injured-pilot-flydubai-passenger-makes-fresh-allegations-against-crew-101791906940717.html",
+      "imageUrl": "https://www.hindustantimes.com/ht-img/img/2026/10/13/1600x900/logo/ISRAEL-GULF-FLIGHT-0_1791907825758_oYSM_1791907835975_ztD0_95af1f7d-e737-4b89-b322-baea06a40249_H36k.JPG",
+      "source": "Hindustan Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-13T17:39:05Z",
+      "category": "tech",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Savannah Police Department searching for endangered 14-year-old",
+      "description": "The Savannah Police Department is searching for a 14-year-old after she went missing from her home in Savannah Tuesday morning.",
+      "url": "https://www.wbbjtv.com/2026/10/13/14-year-old-endangered-juvenile-found-safe-after-she-went-missing-her-apartment/",
+      "imageUrl": "https://gray-wbbj-prod.gtv-cdn.com/resizer/v2/VVTKEPBUBNCO5OVQUPW4AODYS4.jpg?auth=afc6d6d7dd83811a41e19769fd29935e7a1c3536090c6419f3ff9d106229948e&width=1200&height=600&smart=true",
+      "source": "WBBJ-TV",
+      "authoritative": false,
+      "publishedAt": "2026-10-13T17:38:00Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "This Giant 'Anaemic' Pumpkin Just Smashed A World Record",
+      "description": "Weighing almost 1.3 tonnes - the equivalent of a small car - this world-record-breaking gourd is on display until the end of October, before being turned into cattle feed",
+      "url": "https://www.countryliving.com/uk/travel-ideas/a74118958/giant-anaemic-pumpkin-just-smashed-world-record/",
+      "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/d6a5d784-7ab9-492b-85b8-9e5028fceee1.jpeg?crop=1.00xw:0.752xh;0,0.142xh&resize=1200:*",
+      "source": "Country Living Magazine",
+      "authoritative": false,
+      "publishedAt": "2026-10-13T17:37:30Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Argentina targets UK in legal claim over Falklands oil exploration",
+      "description": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands.",
+      "url": "https://www.bbc.com/news/articles/cmp3g14p3z2ko",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/c36b/live/a481bb50-c72c-11f1-b881-4391ac746e04.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-10-13T17:36:43Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Anthropic warns AI models could soon copy themselves in small devices",
+      "description": "Anthropic in its latest warning said in a post that small AI models may be months away from being capable enough to self-replicate on small devices.",
+      "url": "https://abcnews.com/US/anthropic-warns-ai-models-copy-small-devices/story?id=137220664",
+      "imageUrl": "https://i.abcnewsfe.com/a/03145d1b-b274-4afa-83c5-ee4c748422fe/anthropic-general-pic_1791891903581_hpMain_16x9.jpg?w=1600",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "authoritative": true,
+      "publishedAt": "2026-10-13T17:36:40Z",
+      "category": "tech",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Elon Musk becomes biggest donor of US midterms cycle with $366m spent",
+      "description": "Musk’s midterm donations, mostly for rightwing candidates and causes, surpass his contributions to Trump in 2024",
+      "url": "https://www.theguardian.com/us-news/2026/oct/13/elon-musk-political-donor-midterm-elections",
+      "imageUrl": "https://i.guim.co.uk/img/media/2629e359cb7d8edb68029571b27eb8bb7a602a90/720_0_7200_5760/master/7200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b3c0fc4d7e40ed928ca40a23cc79f3a",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-10-13T17:34:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Kimberly Guilfoyle, U.S. ambassador to Greece, resigns after reports alleging corruption",
+      "description": "U.S. President Donald Trump's ambassador to Greece, Kimberly Guilfoyle, resigned on Tuesday after allegations of improper conduct but insisted she'll \"vigorously defend\" herself.",
+      "url": "https://www.cbc.ca/news/world/us-white-house-guilfoyle-resignation-ambassador-greece-9.7378888",
+      "imageUrl": "https://i.cbc.ca/ais/9fd971ee-c5c6-4c3b-9809-a52a779146c1,1791909652794/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C8640%2C4860%29%3BResize%3D620",
+      "source": "CBC",
+      "authoritative": false,
+      "publishedAt": "2026-10-13T17:33:01Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "HMS Protector towed into Devonport with her future uncertain",
+      "description": "HMS Protector, the Royal Navy's only ice patrol ship, was towed into Devonport by tugs today for, what officials say is to allow \"investigations into a defect take place\". She remains part of the flee",
+      "url": "https://www.navylookout.com/hms-protector-towed-into-devonport-with-her-future-uncertain/",
+      "imageUrl": "https://www.navylookout.com/app/uploads/2026/10/HMS-Protector-towed-into-Devonport-with-her-future-uncertain.webp",
+      "source": "Navy Lookout",
+      "authoritative": false,
+      "publishedAt": "2026-10-13T17:31:40Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Cameroon’s Société Nationale des Hydrocarbures (SNH) Launches 2026 Bid Round at African Energy Week (AEW) African Farmout Forum",
+      "description": "Cameroon’s Société Nationale des Hydrocarbures (SNH) launched the country’s 2026 Bid Round during the African Farmout Forum at African Energy Week in Cape Town, offering six blocks for exploration acr",
+      "url": "https://africa.com/apo/cameroons-societe-nationale-des-hydrocarbures-snh-launches-2026-bid-round-at-african-energy-week-aew-african-farmout-forum",
+      "imageUrl": "https://www.africa-newsroom.com/files/large/b264d9f8612af0d",
+      "source": "Africa.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-13T17:26:15Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-15",
+  "updatedAt": "2026-10-15T05:30:31.495Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Dominic Cummings stuns peers with；Deseret Magazine’s list of 50；Burnham treads carefully in Zelensky。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "politics": 6,
+      "tech": 3,
+      "conflict": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Dominic Cummings stuns peers with rant about Britain’s ‘duff’ political system",
+      "description": "Boris Johnson’s former top adviser re-emerges from obscurity to give abrasive performance before a House of Lords committee",
+      "url": "https://www.irishtimes.com/world/uk/2026/10/14/dominic-cummings-stuns-peers-with-rant-about-britains-duff-political-system/",
+      "imageUrl": "https://www.irishtimes.com/resizer/v2/ZYAINBB2IDXCWBMQXWDE3JQALE.jpg?smart=true&auth=b059085c04efc863b767f59ef8ec0a86b2cc50c00ca73506f11fdef930742ae3&width=1200&height=630",
+      "source": "The Irish Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-14T17:30:24Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Deseret Magazine’s list of 50 ideas changing philanthropy",
+      "description": "Inside 50 organizations reshaping philanthropy locally and globally, including Gail Miller, Jose Andres, Dolly Parton and more.",
+      "url": "https://www.deseret.com/magazine/2026/10/14/fifty-groups-changing-philanthropy/",
+      "imageUrl": "https://www.deseret.com/resizer/v2/XDOEMPH6EFGOHMBNWSUD2XGLJI.jpg?focal=0%2C0&auth=c067e3bc214d510a7163574c9dad99d4a0e626fcdcfab5a2bba0c303c642c5f2&width=630&height=331",
+      "source": "Deseret News",
+      "authoritative": false,
+      "publishedAt": "2026-10-14T17:27:46Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Burnham treads carefully in Zelensky visit, balancing Trump and Ukraine",
+      "description": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president.",
+      "url": "https://www.bbc.com/news/articles/cmx23q4dwvneo",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/2403/live/b90b29e0-c7e9-11f1-9bb8-8794f734d112.png",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-10-14T17:25:18Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "US Rejects over 12,000 American Citizenship Applications in 3 Months, Releases Details",
+      "description": "USCIS approved 76,053 DACA work permits in Q2 2026, but no initial permits were granted as 231,872 applications remained pending as renewals led approvals.",
+      "url": "https://yen.com.gh/world/us/313789-us-rejects-12000-american-citizenship-applications-3-months-releases-details/",
+      "imageUrl": "https://cdn.yen.com.gh/images/1200x675/07c050eb96ac2e94.jpeg?v=1",
+      "source": "Yen News",
+      "authoritative": false,
+      "publishedAt": "2026-10-14T17:24:19Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Navi Pillay Says US Sanctioned ICC As Trump Did Not Get Nobel Peace Prize",
+      "description": "Navi Pillay also said it was no coincidence the US sanctions on the ICC were announced just hours after her Nobel, as a \"reaction to the fact that the award was not given to President Trump.\"",
+      "url": "https://www.ndtv.com/world-news/navi-pillay-says-us-sanctioned-icc-as-trump-did-not-get-nobel-peace-prize-12186543",
+      "imageUrl": "https://c.ndtvimg.com/2026-10/ir9d0vok_navi-pillay_625x300_14_October_26.png?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "authoritative": false,
+      "publishedAt": "2026-10-14T17:22:28Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Judge blocks US sanctions on rights groups helping ICC Gaza war crimes inquiry",
+      "description": "Blow for Trump administration as Dawn and Taag hail ‘important step in unraveling the ICC sanctions regime’",
+      "url": "https://www.theguardian.com/us-news/2026/oct/14/judge-trump-icc-sanctions-gaza-war-crimes",
+      "imageUrl": "https://i.guim.co.uk/img/media/7c36c10cf56d21a46f91f0558bf496c8d1647a26/575_0_5265_4211/master/5265.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=4b33291021f90f0714e7f6c7dab47907",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-10-14T17:21:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Ukraine accuses Elon Musk’s SpaceX of throttling Starlink terminals",
+      "description": "Officials say ability to block Russian drones restricted as Kyiv reels from second night of ballistic missile attacks.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/ukraine-accuses-elon-musks-spacex-of-throttling-starlink-terminals",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6acf8b19-1791986457.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-14T17:20:26Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Kenya’s Health Ministry confirms second Ebola case",
+      "description": "A relative of the first case, 39-year-old man’s infection raises concerns of a cross-border spread.",
+      "url": "https://www.aljazeera.com/news/2026/10/14/kenyas-health-ministry-confirms-second-ebola-case",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6acfac7b8c07-1791995003.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-14T17:20:14Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Mangroves gain ground globally, marking turnaround after decades of loss",
+      "description": "Environmental science and conservation news",
+      "url": "https://news.mongabay.com/2026/10/mangroves-gain-ground-globally-marking-turnaround-after-decades-of-loss/",
+      "imageUrl": "https://imgs.mongabay.com/wp-content/uploads/sites/20/2026/10/14134939/a.-cymatics-in-IgPRUfFP6sU-unsplash-scaled.jpg",
+      "source": "news - Mongabay",
+      "authoritative": false,
+      "publishedAt": "2026-10-14T17:17:29Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "China calls for ceasefire, stronger African",
+      "description": "China on Tuesday called for an immediate cessation of hostilities in eastern Democratic Republic of the Congo (DRC) and stronger African-led mediation efforts, warning of the gap between diplomatic co",
+      "url": "https://www.chinadailyasia.com/hk/article/641101",
+      "imageUrl": "https://www.chinadailyhk.com/upload/main/image/2026/06/19/cbd07f01db7f0b8f3aba1520e00fe2e5.png",
+      "source": "chinadailyhk",
+      "authoritative": false,
+      "publishedAt": "2026-10-14T17:15:38Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    }
+  ]
+}

@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-17",
+  "updatedAt": "2026-10-17T05:16:17.386Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Russia building 'security zone' in；Starlink disruptions are being felt；Saudi。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "politics": 5,
+      "conflict": 4,
+      "tech": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Russia building 'security zone' in Ukraine that won't be part of future peace talks: Putin",
+      "description": "Russian President Vladimir Putin on Friday said Moscow is building a buffer “security zone” inside Ukraine which won’t be a part of any future peace",
+      "url": "https://timesofindia.indiatimes.com/world/europe/russia-building-security-zone-in-ukraine-that-wont-be-part-of-future-peace-talks-putin/articleshow/134999813.cms",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-135000003,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "authoritative": false,
+      "publishedAt": "2026-10-16T17:16:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Starlink disruptions are being felt on the front lines of Ukraine",
+      "description": "For one artillery unit fighting in eastern Ukraine, the US decision this week to reduce services ‌provided by satellite company Starlink to the military had an immediate impact.",
+      "url": "https://www.reuters.com/business/aerospace-defense/starlink-disruptions-are-being-felt-front-lines-ukraine-2026-10-16/",
+      "imageUrl": "https://www.reuters.com/resizer/v2/MQSBBLBN3VMBJD5ME5UMHRJQW4.jpg?auth=f18ca7ddf6200a6adf336744f9c48c0e565fb9212ab93d8055a50f8bb259a57c&height=1005&width=1920&quality=80&smart=true",
+      "source": "Reuters",
+      "authoritative": true,
+      "publishedAt": "2026-10-16T17:15:19Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Saudi-Led Coalition Intercepts Drones, Missiles Targeted At Riyadh",
+      "description": "Since Yemen's civil war flared back to life in July, the Houthis have repeatedly struck Saudi targets including Red Sea tankers, oil facilities and Riyadh's international airport, where 13 people were",
+      "url": "https://www.ndtv.com/world-news/saudi-led-coalition-intercepts-drones-missiles-targeted-at-riyadh-12196793",
+      "imageUrl": "https://c.ndtvimg.com/2026-10/pqkv2njg_riyadh_625x300_14_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "authoritative": false,
+      "publishedAt": "2026-10-16T17:13:57Z",
+      "category": "conflict",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Stalled, Damaged, Disrupted: How War Is Costing Africa’s Railways",
+      "description": "Only 4,000 km of the 30,200 km of new railway lines planned across Africa by 2040 had been built at the time of the Africa Finance Corporation’s 2024",
+      "url": "https://www.ecofinagency.com/news-infrastructures/1610-59859-stalled-damaged-disrupted-how-war-is-costing-africa-s-railways",
+      "imageUrl": "https://www.ecofinagency.com/media/k2/items/cache/3d66bf240af4b747b5d50f8fcc98b368_S.jpg",
+      "source": "Ecofin Agency",
+      "authoritative": false,
+      "publishedAt": "2026-10-16T17:08:26Z",
+      "category": "conflict",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Indian national arrested by ICE for faking US citizenship, voting in 2024 general elections",
+      "description": "The accused, Mukeshkumar Somabhai Chaudhari, was arrested by the US Immigration and Customs Enforcement's (ICE) Homeland Security Investigations (HSI).",
+      "url": "https://www.hindustantimes.com/world-news/indian-national-arrested-by-ice-for-faking-us-citizenship-voting-in-2024-general-elections-101792167253507.html",
+      "imageUrl": "https://www.hindustantimes.com/ht-img/img/2026/10/16/1600x900/logo/Immigration_and_Customs_Enforcement__1792171915487_erm2_1792171915728_OP8h_99d3b177-9781-48cd-b1c3-993b37e84994_x1EF.jpg",
+      "source": "Hindustan Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-16T17:06:49Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Governance Is the Hidden Switch That Decides Whether Finance and Clean",
+      "description": "A new panel study of 35 Sub-Saharan African countries finds that financial deepening only pays development dividends once governance quality crosses a measurable threshold — and that the region's 'ren",
+      "url": "https://bioengineer.org/governance-is-the-hidden-switch-that-decides-whether-finance-and-clean-energy-deliver-development-in-africa/",
+      "imageUrl": "https://bioengineer.org/wp-content/uploads/2026/10/stackrss-featured-7168.png",
+      "source": "Bioengineer.org",
+      "authoritative": false,
+      "publishedAt": "2026-10-16T17:06:24Z",
+      "category": "politics",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    },
+    {
+      "title": "Trump allies pushing for martial law if he loses midterms",
+      "description": "Republicans claim military rule should be imposed if Democrats win to check if election was ‘rigged’",
+      "url": "https://www.telegraph.co.uk/us/politics/2026/10/16/trump-allies-push-martial-law-if-republicans-lose-midterms/",
+      "imageUrl": "https://www.telegraph.co.uk/content/dam/en-us/politics/2026/10/16/TELEMMGLPICT000507645576_17921694067442_trans_NvBQzQNjv4BqLWgiuJgmvihzyj1Yzj48_5Jm9GZkw8oYvB1TEqc4d7o.jpeg?impolicy=OG-Standard",
+      "source": "The Telegraph",
+      "authoritative": false,
+      "publishedAt": "2026-10-16T17:01:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "How UK Ex-Convict Sold Firearms To Criminals In London Since 2017",
+      "description": "A man jailed for his role in the killing of a police officer began selling firearms to criminals across London after his release from prison, a court in the United Kingdom has heard. Faisal Razzaq was",
+      "url": "https://saharareporters.com/2026/10/16/how-uk-ex-convict-sold-firearms-criminals-london-2017",
+      "imageUrl": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+      "source": "Sahara Reporters",
+      "authoritative": false,
+      "publishedAt": "2026-10-16T17:00:41Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Iran's military says oil tanker on fire in Gulf of Oman",
+      "description": "Iran's military reports a non-compliant oil tanker caught fire in the Gulf of Oman while crossing a prohibited zone.",
+      "url": "https://www.thehindu.com/news/international/irans-military-says-oil-tanker-on-fire-in-gulf-of-oman/article71593986.ece",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/e9w8y5/article71593993.ece/alternates/LANDSCAPE_1200/2026-10-12T053632Z_1015040440_RC2E1OAN9NGK_RTRMADP_3_IRAN-CRISIS-OMAN-HORMUZ.JPG",
+      "source": "The Hindu",
+      "authoritative": false,
+      "publishedAt": "2026-10-16T17:00:11Z",
+      "category": "conflict",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "He followed a debunked conspiracy theory to claim a tax refund. So why did the CRA agree to a $40M payout?",
+      "description": "Agency scrambling to recover fraudulent payments issued to ‘sovereign’ groups",
+      "url": "https://ici.radio-canada.ca/rci/en/news/2293213/he-followed-a-debunked-conspiracy-theory-to-claim-a-tax-refund-so-why-did-the-cra-agree-to-a-40m-payout",
+      "imageUrl": "https://images.radio-canada.ca/q_auto,w_635/v1/ici-info/16x9/jonathon-pearce.png",
+      "source": "Radio-Canada",
+      "authoritative": false,
+      "publishedAt": "2026-10-16T16:59:33Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    }
+  ]
+}

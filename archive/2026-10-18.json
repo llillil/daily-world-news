@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-18",
+  "updatedAt": "2026-10-18T05:21:33.244Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Europe has become more decisive,；Why are Latin American countries；Tens of thousands march in。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "tech": 3,
+      "politics": 4,
+      "policy": 2,
+      "conflict": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Europe has become more decisive, but it is not enough: Poikans explained what worries him",
+      "description": "Despite certain changes in the approach of European states to security issues, their actions do not yet inspire confidence in their ability to effectively respond to serious international challenges. ",
+      "url": "https://news.inbox.lv/150vu6i-europe-has-become-more-decisive-but-it-is-not-enough-poikans-explained-what-worries-him?language=en",
+      "imageUrl": "https://news.inbox.eu/w/img/7c/c0/7cc02cfab9f96ad829.webp",
+      "source": "Inbox.lv",
+      "authoritative": false,
+      "publishedAt": "2026-10-17T17:21:30Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Why are Latin American countries building closer ties with Israel?",
+      "description": "A wave of new Latin American leaders reverses measures meant to isolate Israel after its genocidal war on Gaza.",
+      "url": "https://www.aljazeera.com/news/2026/10/17/why-are-latin-american-countries-building-closer-ties-with-israel",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/09/getty_6a9ef5f80f-1788802552.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-17T17:18:19Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Tens of thousands march in Lisbon over housing and living costs",
+      "description": "Tens of thousands of people marched through central ​Lisbon on Saturday to protest against soaring living costs and a deepening housing ‌crisis in Portugal, increasing pressure on the centre-right gov",
+      "url": "https://www.reuters.com/world/tens-thousands-march-lisbon-over-housing-living-costs-2026-10-17/",
+      "imageUrl": "https://www.reuters.com/resizer/v2/466BJJQ7PVGY5O53NZ3KL65MHM.png?auth=b9c3bf166c40a6778eb5672993fde7c30a15f48329026674eff92afd8da1d0ca&height=1005&width=1920&quality=80&smart=true",
+      "source": "Reuters",
+      "authoritative": true,
+      "publishedAt": "2026-10-17T17:11:29Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "UK Closes 2 Pathways Foreigners Use to Stay Longer in Country, Mentions Alternative Routes",
+      "description": "The UK Home Office has published an update to Immigration Rules outlining procedural changes for permission to stay applications with implementation dates.",
+      "url": "https://www.legit.ng/people/1736679-uk-closes-2-pathways-foreigners-stay-longer-country-mentions-alternative-routes/",
+      "imageUrl": "https://cdn.legit.ng/images/1200x675/4c2f5f5ac9658a5a.jpeg?v=1",
+      "source": "Legit.ng",
+      "authoritative": false,
+      "publishedAt": "2026-10-17T17:06:24Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Promises and platitudes: The art of political discourse - Editorial",
+      "description": "Another week in the theatre of leaders’ debates; a trail of policy promises and platitudes to analyse and decode. But one of the most salient observations...",
+      "url": "https://www.nzherald.co.nz/nz/promises-and-platitudes-the-art-of-political-discourse-editorial/premium/WL3O6DUVDBEDTEILTHNUB3NIUQ/",
+      "imageUrl": "https://www.nzherald.co.nz/resizer/v2/6NR4XULVFJD6ZED4EYMRRX4KEU.jpg?auth=a518a81e99881b9d99ebe096b0510a0b1cad5d8e430879c61642adbb2a136ac6&width=1200&height=675&quality=70&focal=3238%2C1373&smart=false",
+      "source": "NZ Herald",
+      "authoritative": false,
+      "publishedAt": "2026-10-17T17:03:58Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Masked settlers attack European diplomats in occupied West Bank",
+      "description": "Belgian foreign minister urges further EU sanctions and links attack to Israel’s ‘illegal settlement policy’",
+      "url": "https://www.theguardian.com/world/2026/oct/17/masked-settlers-attack-european-diplomats-occupied-west-bank",
+      "imageUrl": "https://i.guim.co.uk/img/media/1f5922f2e6b9f6006415da654a8fddcd7b831407/649_932_5661_4529/master/5661.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=06974a17f4601ede2021b3682a3f9686",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-10-17T17:02:00Z",
+      "category": "politics",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Merz warns EU irregular migration battle far from over despite drop",
+      "description": "German Chancellor Friedrich Merz warned Friday that the European Union still faces significant challenges in managing migration, despite a decline in...",
+      "url": "https://www.dailysabah.com/world/europe/merz-warns-eu-irregular-migration-battle-far-from-over-despite-drop",
+      "imageUrl": "https://idsb.tmgrup.com.tr/ly/uploads/images/2026/10/17/thumbs/1200x675/466110.jpg",
+      "source": "Daily Sabah",
+      "authoritative": false,
+      "publishedAt": "2026-10-17T17:00:00Z",
+      "category": "conflict",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "1 probe deals another blow to Indian researchers’ American Dream",
+      "description": "Researchers from India are increasingly deferring PhD admissions in the US due to uncertainty in funding. The J-1 visa probe creates concerns about the viability of staying long enough to complete doc",
+      "url": "https://economictimes.indiatimes.com/nri/study/j-1-probe-deals-another-blow-to-indian-researchers-american-dream/articleshow/135017261.cms?from=mdr",
+      "imageUrl": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-41164,resizemode-75,msid-135017261/nri/study/j-1-probe-deals-another-blow-to-indian-researchers-american-dream.jpg",
+      "source": "The Economic Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-17T16:59:42Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Amsons Agrees $230m Deal for Oryx Tanzania",
+      "description": "Amsons Group has agreed to acquire Oryx Energies Tanzania in a reported US$230 million deal covering fuel, storage, LPG and distribution assets.",
+      "url": "https://uchumi360.com/c/energy-critical-minerals/amsons-group-agrees-buy",
+      "imageUrl": "https://uchumi360.com/uploads/articles/6ad3a7779695e_1792255863.webp",
+      "source": "Uchumi360",
+      "authoritative": false,
+      "publishedAt": "2026-10-17T16:56:05Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "New Russian Security Threats in the Arctic Ocean",
+      "description": "Last month the American, Danish, and Greenlandic governments announced a new approach to their partnership in the Arctic. They signed an agreement that acknowledged the “security challenges in t",
+      "url": "https://www.realclearworld.com/2026/10/17/new_russian_security_threats_in_the_arctic_ocean_1212218.html",
+      "imageUrl": "https://www.realclearworld.com/asset/img/social_media_assets/site_logos/rcw.png",
+      "source": "RealClearWorld",
+      "authoritative": false,
+      "publishedAt": "2026-10-17T16:55:16Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

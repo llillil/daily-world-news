@@ -1,0 +1,140 @@
+{
+  "date": "2026-10-19",
+  "updatedAt": "2026-10-19T05:38:30.615Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政策领域。热点议题包括：Rising fires across Africa’s tropical；Sheikh Abdul Hannan arrested in；Wetin Ecowas and Alliance of。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "policy": 3,
+      "tech": 2,
+      "conflict": 3,
+      "politics": 1,
+      "economy": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Rising fires across Africa’s tropical forests raise fears for Congo basin",
+      "description": "Rising fire activity across Africa’s tropical forests is raising concerns that the Congo Basin could face a fate similar to the Amazon and Indonesia, where fires and deforestation have driven up carbo",
+      "url": "https://www.azernews.az/region/265776.html",
+      "imageUrl": "https://www.azernews.az/media/2026/10/18/ert4563457.png",
+      "source": "AzerNews",
+      "authoritative": false,
+      "publishedAt": "2026-10-18T17:36:00Z",
+      "category": "policy",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Sheikh Abdul Hannan arrested in Qatar over Bangladesh graft charges",
+      "description": "Qatari authorities arrested former Bangladesh air force chief Sheikh Abdul Hannan over graft charges at home. The case involves unexplained assets, suspicious transactions and alleged offshore wealth.",
+      "url": "https://www.indiatoday.in/world/story/sheikh-abdul-hannan-arrested-qatar-bangladesh-graft-charges-3020401-2026-10-18",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202610/bangladeshs-former-air-force-chief-sheikh-abdul-hannan-183520379-16x9_0.png?VersionId=EWLSMIS3maDpv4YyA9qinV8cxjWCM.Rg",
+      "source": "India Today",
+      "authoritative": false,
+      "publishedAt": "2026-10-18T17:35:50Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Wetin Ecowas and Alliance of Sahel States (AES) cooperation discussion mean for West Africa",
+      "description": "Di Alliance of Sahel States (AES) and di West Africa regional bloc Ecowas don agree to establish one joint working groups wey go develop ogbonge cooperation framework agreement wey go guide future rel",
+      "url": "https://www.bbc.com/pidgin/articles/cmeq3y0npx39o",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1200/branded_pidgin/31cf/live/aee51830-cb14-11f1-9a39-31b474234113.png",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-10-18T17:28:45Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Zelenskyy warns Ukraine “cannot stand” if US officially sides with Russia",
+      "description": "Volodymyr Zelenskyy has stated on NBC's Meet the Press that an official US shift to support Russia would be a historic tragedy that would leave Ukraine unable to prevail.",
+      "url": "https://www.pravda.com.ua/eng/news/2026/10/18/8058646/",
+      "imageUrl": "https://uimg.pravda.com.ua/buckets/upstatic/images/doc/6/f/938522/6f6ef577d565de3113ad0e6a7849b13b.jpeg?w=1200&q=85&stamp=1792344703",
+      "source": "Українська правда",
+      "authoritative": false,
+      "publishedAt": "2026-10-18T17:28:00Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Flydubai captain describes blocking axe blows as co-pilot attacked him",
+      "description": "Capt Smit Machchhar said he screamed for help as he reached to open the cockpit door on flight FZ1073",
+      "url": "https://www.theguardian.com/world/2026/oct/18/flydubai-captain-smit-machchhar-blocking-axe-blows-flight-fz1073",
+      "imageUrl": "https://i.guim.co.uk/img/media/c4c21545c40a5e97d346e5c87667ec791987a30b/0_0_3200_2559/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=efb4ae03a0c90a08afa2d6e9cf8414ec",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-10-18T17:27:00Z",
+      "category": "conflict",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Tinubu has turned middle class into beggars - Peter Ameh",
+      "description": "According to the UN report, the surge goes beyond low income to include deprivations in health, education, housing, clean water and basic living standards.",
+      "url": "https://www.vanguardngr.com/2026/10/tinubu-has-turned-middle-class-into-beggars-peter-ameh/",
+      "imageUrl": "https://cdn.vanguardngr.com/wp-content/uploads/2015/06/Peter-Ameh.jpg",
+      "source": "Vanguard News",
+      "authoritative": false,
+      "publishedAt": "2026-10-18T17:24:23Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Egypt’s Farmed Fish Cleared for European Union Market",
+      "description": "Egyptian farmed fish and crustaceans will be eligible for export to all 27 European Union (EU) member states starting 4 November, following Brussels approval of the country’s aquaculture monitoring pl",
+      "url": "https://egyptianstreets.com/2026/10/18/egypts-farmed-fish-cleared-for-european-union-market/",
+      "imageUrl": "https://egyptianstreets.com/wp-content/uploads/2026/10/egypt-fish-farming-and-production--jpeg.jpg",
+      "source": "Egyptian Streets",
+      "authoritative": false,
+      "publishedAt": "2026-10-18T17:21:19Z",
+      "category": "economy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "We still expect a “wet” finish to fall, but the short term is warm and dry",
+      "description": "Patiently waiting for El Niño’s effects in the Brazos Valley",
+      "url": "https://www.kbtx.com/2026/10/18/we-still-expect-wet-fall-short-term-is-warm-dry/",
+      "imageUrl": "https://gray-kbtx-prod.gtv-cdn.com/resizer/v2/DCLSKMRJONHHLO6OTHI7D6SSZM.png?auth=5c2c2d7c0566ef62c918c664793d2b2f347464edd544e24e864ca6596a3d5b46&width=1200&height=600&smart=true",
+      "source": "KBTX News 3",
+      "authoritative": false,
+      "publishedAt": "2026-10-18T17:20:00Z",
+      "category": "conflict",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Trump ‘border czar’ says Ilhan Omar could be ‘of course’ denaturalized and deported",
+      "description": "Officials allege congresswoman, whose home was raided by federal agents, or family violated law to obtain citizenship",
+      "url": "https://www.theguardian.com/us-news/2026/oct/18/tom-homan-trump-ilhan-omar-citizenship-deportation",
+      "imageUrl": "https://i.guim.co.uk/img/media/62774eed1226452588c991829bcceed1df9488f1/377_0_3213_2571/master/3213.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9179f4b4f97b6c160828dd811d36c40f",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-10-18T17:16:00Z",
+      "category": "policy",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Russia sanctions pause to assess impact on India, global energy prices, says Trump official",
+      "description": "Rubio pointed to severe disruptions to global energy prices already caused by the Ukraine war, the Iran war and Houthi military strikes on Saudi Arabia. | World News",
+      "url": "https://www.hindustantimes.com/world-news/us-to-take-60-day-pause-to-assess-russia-sanctions-impact-on-india-global-energy-prices-marco-rubio-101792339679344.html",
+      "imageUrl": "https://www.hindustantimes.com/ht-img/img/2026/10/18/1600x900/logo/Marco_Rubio_1792343485750_zkmd_1792343485893_DQdx_2c1e3ba5-df15-472c-8b88-0dffb0acdace_W7jU.jpg",
+      "source": "Hindustan Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-18T17:15:50Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

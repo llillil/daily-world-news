@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-20",
+  "updatedAt": "2026-10-20T05:37:51.782Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦前沿科技领域。热点议题包括：Israeli police arrest 10 in；Call For Applications: Localization Development；6 ops in 48 hours:。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "economy": 1,
+      "tech": 3,
+      "conflict": 2,
+      "politics": 3
+    }
+  },
+  "articles": [
+    {
+      "title": "Israeli police arrest 10 in connection with West Bank assaults",
+      "description": "The arrests were related to the beating of a Washington Post photographer and an alleged assault on European diplomats, Israeli authorities said.",
+      "url": "https://www.washingtonpost.com/world/2026/10/19/police-arrest-10-after-violent-west-bank-attacks-during-olive-harvest-israel-says/",
+      "imageUrl": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://cloudfront-us-east-1.images.arcpublishing.com/wapo/RW27RHE6YOYQHD64TI4VCMMNO4.JPG&w=1440",
+      "source": "The Washington Post",
+      "authoritative": true,
+      "publishedAt": "2026-10-19T17:35:41Z",
+      "category": "economy",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Call For Applications: Localization Development Accelerator 2027 for",
+      "description": "Locally led organisations in East Africa can apply for the 2027 Localization Development Accelerator (LDA), a nine-month programme designed to strengthen organisational systems, leadership, planning a",
+      "url": "https://msmeafricaonline.com/call-for-applications-localization-development-accelerator-2027-for-locally-led-organisations-in-east-africa/",
+      "imageUrl": "https://msmeafricaonline.com/wp-content/uploads/2026/10/images-61.jpeg",
+      "source": "MSME Africa",
+      "authoritative": false,
+      "publishedAt": "2026-10-19T17:35:38Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "6 ops in 48 hours: Houthis claim to strike Saudi airports, Aramco site & oil field, military facilities",
+      "description": "Yemen’s Iran-linked Houthi rebels on Monday claimed six “qualitative military operations” on Saudi Arabia in the past 48 hours, reportedly targeting",
+      "url": "https://timesofindia.indiatimes.com/world/middle-east/6-ops-in-48-hours-houthis-claim-to-strike-saudi-airports-aramco-site-oil-field-military-facilities/articleshow/135053874.cms",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-135053901,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "authoritative": false,
+      "publishedAt": "2026-10-19T17:32:00Z",
+      "category": "conflict",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    },
+    {
+      "title": "Ebola Outbreak Threatens Regional Health Stability",
+      "description": "Kenya confirmed its eighth Ebola case on October 18, raising concerns over the continued spread of the deadly virus across Central and East Africa. Kenya’s Director-General for Health, Patrick Amot…",
+      "url": "https://theowp.org/ebola-outbreak-threatens-regional-health-stability/",
+      "imageUrl": "https://theowp.org/wp-content/uploads/2026/10/ebola-congo-60-zones-2786-dead-vaccination-begins-16x9-1.webp",
+      "source": "The Organization for World Peace",
+      "authoritative": false,
+      "publishedAt": "2026-10-19T17:31:09Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "France imposes curfews amid unrest and protests",
+      "description": "France imposes curfews after cost-of-living protests turn violent, with arrests, injuries and the Louvre closed in Paris. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/europe/france-announces-first-curfews-as-government-grapples-with-unrest",
+      "imageUrl": "https://cassette.sphdigital.com.sg/image/straitstimes/f6f09e041499e9cf67f6c1307128de5311ff54cb4df9dd91474e062774686e14?w=1200",
+      "source": "The Straits Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-19T17:30:00Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Can religion help Democrats win in red states? These faith leaders hope so",
+      "description": "Republicans have long appealed to Christian conservatives. But is there an opening for Democrats to rally religious voters in right-leaning states?",
+      "url": "https://www.aljazeera.com/features/longform/2026/10/19/can-religion-help-democrats-win-in-red-states-these-faith-leaders-hope-so",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26224761954219-1791926879.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-19T17:27:53Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Brazilian court orders Meta to prove Lula and Bolsonaro get equal treatment",
+      "description": "A judge also doubled the daily fine for noncompliance with a previous court order governing political content.",
+      "url": "https://www.aljazeera.com/news/2026/10/19/brazilian-court-orders-meta-to-prove-lula-and-bolsonaro-get-equal-treatment",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad6334c400a-1792422732.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-19T17:27:53Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Guyana demands a royal apology and reparations ahead of the King’s visit",
+      "description": "King Charles' advisers have made clear that no such apology will be made as he prepares to visit the Caribbean next week. | ITV National News",
+      "url": "https://www.itv.com/news/2026-10-19/guyana-demands-a-royal-apology-and-reparations-ahead-of-the-kings-visit",
+      "imageUrl": "https://images.ctfassets.net/pjshm78m9jt4/4Wd7HOJ5GnP4YE7YnSvofA/0fbb92e09c2015252c0f04f39bbe3e39/FotoJet__64_.jpg?fm=jpg&fit=fill&f=faces&w=1600&h=900&q=80",
+      "source": "ITVX",
+      "authoritative": false,
+      "publishedAt": "2026-10-19T17:26:40Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Can diplomacy stop another Ethiopia-Eritrea war?",
+      "description": "Ethiopia has installed a new administration in conflict-hit Tigray after federal forces pushed back Tigrayan fighters. But tensions with Eritrea continue to raise fears of a wider regional war.",
+      "url": "https://www.dw.com/en/can-diplomacy-stop-another-ethiopia-eritrea-war/a-79705435",
+      "imageUrl": "https://static.dw.com/image/79590595_6.jpg",
+      "source": "DW.com",
+      "authoritative": true,
+      "publishedAt": "2026-10-19T17:26:15Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

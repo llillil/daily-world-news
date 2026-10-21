@@ -1,0 +1,138 @@
+{
+  "date": "2026-10-21",
+  "updatedAt": "2026-10-21T05:40:11.742Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Global: Immigration News Update；France's Macron begins state visit；UK government to make Jackdaw。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "policy": 3,
+      "politics": 6,
+      "conflict": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Global: Immigration News Update - October 20, 2026",
+      "description": "Stay updated with the latest Global Immigration News Update, including Argentina's new citizenship program and Australian visa changes.",
+      "url": "https://corporateimmigrationpartners.com/global-immigration-news-update-october-20-2026/",
+      "imageUrl": "https://corporateimmigrationpartners.com/wp-content/uploads/2026/10/Global-Immigration-News-Update-–-October-20-2026.jpg",
+      "source": "Corporate Immigration Partners, PC",
+      "authoritative": false,
+      "publishedAt": "2026-10-20T17:39:43Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "France's Macron begins state visit to Qatar as part of wider Gulf tour",
+      "description": "Qatar welcomed the French president with full state honours on his arrival in Doha as the two countries are strengthening their strategic ties. Facing protests at home, Macron is seeking energy deals ",
+      "url": "https://www.euronews.com/2026/10/20/frances-macron-begins-state-visit-to-qatar-as-part-of-wider-gulf-tour",
+      "imageUrl": "https://images.euronews.com/articles/stories/09/96/03/39/1200x675_cmsv2_a685cd1d-9610-5369-bedc-fd30112084e1-9960339.jpg",
+      "source": "Euronews.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-20T17:35:53Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "UK government to make Jackdaw gas field announcement",
+      "description": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning.",
+      "url": "https://www.bbc.com/news/articles/cvze4wx3elj1o",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/f31e/live/85d6bcc0-ccac-11f1-8789-fd6bb060c3f9.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-10-20T17:33:42Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Kenya confirms ninth Ebola case amid concerns about regional spread",
+      "description": "A 24-year-old man, who was already being held in quarantine, is the latest to test positive.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/kenya-confirms-ninth-ebola-case",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/ap_6ac81dbf766ac-1791499711.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-20T17:33:29Z",
+      "category": "policy",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    },
+    {
+      "title": "France protests latest: French government to deploy military at weekend protests after warning of ‘firm response’",
+      "description": "Hundreds of thousands of people protested this weekend over declining public services and rising cost-of-living pressures",
+      "url": "https://www.independent.co.uk/news/world/europe/france-paris-curfew-live-updates-protests-riots-arrests-b3069620.html",
+      "imageUrl": "https://static.independent.co.uk/2026/10/19/19/2026-10-19T163154Z_159596279_RC225OABWDOX_RTRMADP_3_FRANCE-PROTEST-ELECTRIC-BIKES.JPG?width=1200&height=800&crop=1200:800",
+      "source": "The Independent",
+      "authoritative": false,
+      "publishedAt": "2026-10-20T17:32:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Brendan Nugent facing three charges over attack against Australian MP Helen Haines",
+      "description": "Victoria Police have laid three charges against 43-year-old Brendan Nugent after he allegedly struck independent MP Helen Haines with his car on Monday.",
+      "url": "https://www.rnz.co.nz/news/world/2045626/brendan-nugent-facing-three-charges-over-attack-against-australian-mp-helen-haines",
+      "imageUrl": "https://media.rnztools.nz/rnz/image/upload/s--4sOOx6e7--/t_tohu-badge-facebook/f_auto/q_auto/4JGFET1_Nugent_avif",
+      "source": "RNZ",
+      "authoritative": false,
+      "publishedAt": "2026-10-20T17:30:30Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Organisers highlight success of AAD 2026",
+      "description": "AAD 2028 is set to take place from 27 September to 1 October.",
+      "url": "https://www.sabcnews.com/sabcnews/organisers-highlight-success-of-aad-2026/",
+      "imageUrl": "https://www.sabcnews.com/sabcnews/wp-content/uploads/2026/10/AAD.jpg",
+      "source": "SABC News",
+      "authoritative": true,
+      "publishedAt": "2026-10-20T17:30:01Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "As Macron visits Gulf, can France forge its own energy-for-security future?",
+      "description": "President Macron’s Gulf visit aims to address rising energy prices and strengthen ties amid regional security concerns.",
+      "url": "https://www.aljazeera.com/news/2026/10/20/as-macron-visits-gulf-can-france-forge-its-own-energy-for-security-future",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/afp_6ad74a0ee714-1792494094.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-20T17:25:29Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Rwanda tipped to host first European migrant return hub",
+      "description": "Rwanda is expected to become the site of a return hub where certain EU countries intend to send migrants who have no right to stay in Europe. An agreement is being discussed and may be finalized as ea",
+      "url": "https://www.arabnews.com/world/rwanda-tipped-to-host-first-european-migrant-return-hub-3007386",
+      "imageUrl": "https://assets.maestronewsroom.com/media/shared/wires/ap/20261013/844443ade298-Rwanda_African_GP_67875--247bf.jpg",
+      "source": "Arab News",
+      "authoritative": false,
+      "publishedAt": "2026-10-20T17:18:22Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "2 men rearrested on suspicion of spying for Iran over suspected plot at U.S.-run air base in England",
+      "description": "Police said a 24-year-old British national and a 25-year-old dual U.K.-Iranian national were arrested under the National Security Act.",
+      "url": "https://www.cbsnews.com/news/raf-fairford-security-incident-arrests-suspected-spying-iran/",
+      "imageUrl": "https://assets3.cbsnewsstatic.com/hub/i/r/2026/09/29/b738f1f2-8b51-47ca-a2bd-f84e896f3cc1/thumbnail/1200x630/b3d34684271f67a2bfb3af7b74d25460/raf-fairford-uk-2297030517.jpg",
+      "source": "CBS News",
+      "authoritative": true,
+      "publishedAt": "2026-10-20T17:17:55Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-23",
+  "updatedAt": "2026-10-23T05:41:19.210Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Savannah mayor signs agreements with；Two years of President Sheinbaum；WHO reports at least 1,500。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "policy": 1,
+      "politics": 5,
+      "tech": 2,
+      "economy": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Savannah mayor signs agreements with Dunkerque and Curaçao",
+      "description": "Savannah is building new global ties, with agreements aimed at tourism, trade, workforce training and maritime cooperation.",
+      "url": "https://www.wjcl.com/article/savannah-mayor-dunkerque-friendship-agreement/74219940",
+      "imageUrl": "https://kubrick.htvapps.com/htv-prod/images/e5fcf646-1953-4701-94fb-a62581680a57.png?crop=1.00xw%3A1.00xh%3B0%2C0&resize=1200%3A*",
+      "source": "WJCL",
+      "authoritative": false,
+      "publishedAt": "2026-10-22T17:41:00Z",
+      "category": "policy",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Two years of President Sheinbaum in Mexico: fewer than a third of her pledges on press freedom fulfilled, almost all of it insufficiant",
+      "description": "1 October 2026 marked two years since Claudia Sheinbaum took office and only 27% of the 22 commitments she made to Reporters Without Borders (RSF) to strengthen press freedom in Mexico have seen any p",
+      "url": "https://rsf.org/en/two-years-president-sheinbaum-mexico-fewer-third-her-pledges-press-freedom-fulfilled-almost-all-it",
+      "imageUrl": "https://rsf.org/sites/default/files/medias/image/2026/10/Claudia%20Sheinbaum%20%281%29.png",
+      "source": "RSF",
+      "authoritative": false,
+      "publishedAt": "2026-10-22T17:34:52Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "WHO reports at least 1,500 killed in new fighting in Yemen",
+      "description": "At least 1,500 people have been killed and more than 6,900 injured in the most recent violence in Yemen that flared up again in August, the World Health Organization (WHO) reported on Thursday. The ca",
+      "url": "https://www.yahoo.com/news/world/articles/reports-least-1-500-killed-173340237.html",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/d4f27e2e10dc944abd84753ab9c61cc7f42224f88ebbffaac3fc15c857cb1967/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fdpa_international_526%2F35b1b8dfa6ed73480b2521a8c7918748.jpg",
+      "source": "Yahoo",
+      "authoritative": false,
+      "publishedAt": "2026-10-22T17:33:40Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Citi’s $60 Oil Call Meets $112 Brent",
+      "description": "Citi sees more upside risk for oil prices despite recovering Middle Eastern crude exports, a considerably less bearish assessment from the bank that predicted $60-to-$65 Brent by year-end just three m",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Citis-60-Oil-Call-Meets-112-Brent.html",
+      "imageUrl": "https://d32r1sh890xpii.cloudfront.net/news/1200x675/2026-10-22_d9hgptc8lm.jpg",
+      "source": "Crude Oil Prices Today | OilPrice.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-22T17:30:00Z",
+      "category": "economy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "UC Santa Cruz Arboretum puts corpse flower bud on display as visitors await rare bloom",
+      "description": "The UC Santa Cruz Arboretum is displaying a developing corpse flower bud as visitors wait for the plant to bloom.",
+      "url": "https://www.ksbw.com/article/uc-santa-cruz-arboretum-corpse-flower-bud/74220096",
+      "imageUrl": "https://kubrick.htvapps.com/htv-prod/images/7171abd1-829a-4558-ba6e-aef76bbf4afb.jpg?crop=1.00xw%3A0.775xh%3B0%2C0.225xh&resize=1200%3A*",
+      "source": "KSBW",
+      "authoritative": false,
+      "publishedAt": "2026-10-22T17:30:00Z",
+      "category": "tech",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Trump says he asked Google CEO to rename Atlantic Ocean on Maps",
+      "description": "Tech company previously complied with president’s demand to rename Gulf of Mexico as Gulf of America",
+      "url": "https://www.theguardian.com/us-news/2026/oct/22/trump-atlantic-ocean-rename-google",
+      "imageUrl": "https://i.guim.co.uk/img/media/88630c0591421f590d0e1642fb602bb4977d7eae/846_306_4619_3694/master/4619.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7b6a372bb9cb9f4e93da1780f48563e4",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-10-22T17:28:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "American tourist plunges almost 1,000 feet to her death in Italy while taking a photo",
+      "description": "A US tourist plunged almost 1,000 feet to her death in Italy after reportedly stepping away from a mountain path to take a photograph.",
+      "url": "https://nypost.com/2026/10/22/world-news/american-tourist-plunges-almost-1000-feet-to-her-death-in-italy-while-taking-a-photo/",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/10/146077414.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "authoritative": false,
+      "publishedAt": "2026-10-22T17:27:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Watch bizarre snake 'cartwheel' away from danger at more than 12 feet per second",
+      "description": "Researchers filmed dwarf reed snakes (Pseudorabdion) from different angles to better understand how the serpents pull off their remarkable rolling behavior.",
+      "url": "https://www.livescience.com/animals/snakes/watch-bizarre-snake-cartwheel-away-from-danger-at-more-than-12-feet-per-second",
+      "imageUrl": "https://cdn.mos.cms.futurecdn.net/mwvsKB8QYTKr8meXnB36aW-1735-80.jpg",
+      "source": "Live Science",
+      "authoritative": true,
+      "publishedAt": "2026-10-22T17:25:38Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Navi Pillay’s Nobel Peace Prize shows Africans shape global order",
+      "description": "Editor’s Note: Former South African Ambassador to the United States Welile Nhlapo wrote the article below about the awarding of the 2026 Nobel Peace Prize to South African jurist Navanethem Navi Pilla",
+      "url": "https://peoplesworld.org/article/navi-pillays-nobel-peace-prize-shows-africans-shape-global-order/",
+      "imageUrl": "https://peoplesworld.org/wp-content/uploads/2026/10/Navanethem-Pillay.png",
+      "source": "People's World",
+      "authoritative": false,
+      "publishedAt": "2026-10-22T17:25:24Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    }
+  ]
+}

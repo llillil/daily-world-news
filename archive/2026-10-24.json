@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-24",
+  "updatedAt": "2026-10-24T05:19:34.324Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Kenya: Trust Summit Adopts 29；Country braces for Storm Boelo；Large food innovation grant sets。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "politics": 5,
+      "policy": 1,
+      "conflict": 2,
+      "tech": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Kenya: Trust Summit Adopts 29-Point Global Trust Action Plan, Backs Nairobi-Based Council",
+      "description": "The inaugural Trust Summit has adopted a 29-point action plan proposing a global financing facility at the United Nations to help rebuild public confidence in institutions, alongside reforms aimed at ",
+      "url": "https://allafrica.com/stories/202610230537.html",
+      "imageUrl": "https://cdn.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+      "source": "allAfrica.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-23T17:19:20Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Country braces for Storm Boelo as Status Orange warnings for six counties for Saturday morning",
+      "description": "The storm is set to track to the northwest of the country, bringing very strong winds to the north and west as well as intense spells of rain for the west and southwest.",
+      "url": "https://www.thejournal.ie/country-braces-storm-boelo-orange-warnings-six-counties-7203665-Oct2026/",
+      "imageUrl": "https://img2.thejournal.ie/article/7203665/river/?height=400&version=7203697",
+      "source": "The Journal",
+      "authoritative": false,
+      "publishedAt": "2026-10-23T17:15:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Large food innovation grant sets stage for AU",
+      "description": "An Africa-Europe research consortium has secured nearly US$7 million in European Union funding to help close the gap between agricultural research...",
+      "url": "https://www.universityworldnews.com/post.php?story=20261023123310969",
+      "imageUrl": "https://www.universityworldnews.com/images/articles/20261023123310969_5.jpg?r=672541392?cb=20949",
+      "source": "University World News",
+      "authoritative": false,
+      "publishedAt": "2026-10-23T17:15:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "New famine risk haunts war-torn Sudan with El Niño-driven drought",
+      "description": "NORTH KORDOFAN, Sudan, Oct 23 (Reuters) – Across Sudan, farmers who have struggled to harvest their crops since a civil war flared in 2023 are now battling a new enemy that could plunge the nation bac",
+      "url": "https://www.cnbcafrica.com/2026/new-famine-risk-haunts-war-torn-sudan-with-el-nino-driven-drought",
+      "imageUrl": "https://cdn.cnbc.africa/wp-content/uploads/2026/08/6FV5H24KKZJH7CYHEBVZ7TKUFY-scaled.jpg",
+      "source": "CNBC Africa",
+      "authoritative": true,
+      "publishedAt": "2026-10-23T17:14:00Z",
+      "category": "policy",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Melania Trump, Pope Leo broker humanitarian ceasefire for ravaged Ukraine city Oleshky",
+      "description": "Melania Trump has secured a ceasefire between Russia and Ukraine in the Russian-controlled city of Oleshky, which will ‌begin on Oct. 29, the White House said on Friday.",
+      "url": "https://www.cbc.ca/news/world/ukraine-war-limited-ceasefire-oleshky-melania-trump-9.7393085",
+      "imageUrl": "https://i.cbc.ca/ais/64c6f6ba-6987-4b23-941a-b0bacc306699,1792768441611/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C135%2C6138%2C3452%29%3BResize%3D620",
+      "source": "CBC",
+      "authoritative": false,
+      "publishedAt": "2026-10-23T17:08:54Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "France, UAE revive Rafale warplane development amid French budget woes",
+      "description": "France and the United Arab Emirates have revived plans to jointly develop an upgraded Rafale fighter ​jet after talks stumbled earlier this year, officials said, giving Paris a fresh opportunity to ad",
+      "url": "https://www.reuters.com/business/aerospace-defense/france-uae-revive-rafale-warplane-development-amid-french-budget-woes-2026-10-23/",
+      "imageUrl": "https://www.reuters.com/resizer/v2/KCXNDOMB4BOT5MI6LNMT532UP4.jpg?auth=bf2976c0876b020eaa5961eb236dbc94e7c3bab508086a092cddcd1734573607&height=1005&width=1920&quality=80&smart=true",
+      "source": "Reuters",
+      "authoritative": true,
+      "publishedAt": "2026-10-23T17:03:44Z",
+      "category": "tech",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    },
+    {
+      "title": "Nigerian Feared Killed By Xenophobic Mob In South Africa As Anti-Immigrant Violence Resurfaces",
+      "description": "A Nigerian living in South Africa told SaharaReporters that the victim was attacked by a mob and killed.",
+      "url": "https://saharareporters.com/2026/10/23/nigerian-feared-killed-xenophobic-mob-south-africa-anti-immigrant-violence-resurfaces",
+      "imageUrl": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+      "source": "Sahara Reporters",
+      "authoritative": false,
+      "publishedAt": "2026-10-23T17:01:52Z",
+      "category": "conflict",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Indian University Installs 354 ‘Anti-Suicide Fans’ In Hostels Amid Concerns Over Student Mental Health",
+      "description": "Veer Narmad South Gujarat University (VNSGU) in Surat, India, has installed 354 specially designed “anti-suicide fans” in its hostel rooms as part of efforts to prevent student suicides. The initiativ",
+      "url": "https://saharareporters.com/2026/10/23/indian-university-installs-354-anti-suicide-fans-hostels-amid-concerns-over-student",
+      "imageUrl": "https://saharareporters.com/themes/custom/octavia_sahara/favicon.ico",
+      "source": "Sahara Reporters",
+      "authoritative": false,
+      "publishedAt": "2026-10-23T17:01:52Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Rwanda: Kagame Defends Strict Dress Codes Amid Rwanda's Dressing Controversy",
+      "description": "Rwandan President Paul Kagame has defended cultural expectations on dressing, arguing that societies have their own standards of acceptable behaviour which should not be abandoned simply because other",
+      "url": "https://allafrica.com/stories/202610230509.html",
+      "imageUrl": "https://cdn.allafrica.com/download/pic/main/main/csiid/00641965:f5d35c7c96d0d8266e01e2bac4f9db0c:arc614x376:w1200.jpg",
+      "source": "allAfrica.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-23T17:00:59Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

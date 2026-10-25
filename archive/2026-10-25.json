@@ -1,0 +1,115 @@
+{
+  "date": "2026-10-25",
+  "updatedAt": "2026-10-25T05:36:30.558Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Cops use tear gas, water；Saudi Says Shrapnel Fell In；Palestinian families displaced as Israeli。本日共收录 8 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 8,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "politics": 3,
+      "conflict": 3,
+      "economy": 1,
+      "tech": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Cops use tear gas, water cannons as over 4 lakh march across country - France protests in videos",
+      "description": "France's interior ministry said nearly 1,000 people had been arrested in nationwide protests on Saturday, with the number likely to rise.",
+      "url": "https://timesofindia.indiatimes.com/world/europe/cops-use-tear-gas-water-cannons-as-over-4-lakh-march-across-country-france-protests-in-videos/articleshow/135175009.cms",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-135175145,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "authoritative": false,
+      "publishedAt": "2026-10-24T17:33:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Saudi Says Shrapnel Fell In Mecca, Medina After Houthi Attack",
+      "description": "This comes hours after the agency warned of \"potential danger\" for four of its western provinces, including Mecca.",
+      "url": "https://www.ndtv.com/world-news/saudi-says-shrapnel-fell-in-mecca-medina-after-houthi-attack-12231192",
+      "imageUrl": "https://c.ndtvimg.com/mecca-mosque_625x300_1528570649754.jpg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "authoritative": false,
+      "publishedAt": "2026-10-24T17:30:38Z",
+      "category": "conflict",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Palestinian families displaced as Israeli forces demolish Hebron home",
+      "description": "The crackdown follows the killing of two Israeli soldiers by two Palestinian gunmen on Friday - and comes just days ahead of Israel's election.",
+      "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/3b86/live/6920a5d0-cfba-11f1-9012-0172b9f73a72.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-10-24T17:21:42Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Zayed Sustainability Prize Picks Finalists from 10,233 Submissions",
+      "description": "Support CleanTechnica's work through a Substack subscription, on Patreon, or on Stripe. Help us produce all of the high-quality, original content we publish week after week despite the challenges of c",
+      "url": "https://cleantechnica.com/2026/10/24/zayed-sustainability-prize-picks-finalists-from-10233-submissions/",
+      "imageUrl": "https://cleantechnica.com/wp-content/uploads/2026/10/2026-2027-Members-of-the-Zayed-Sustainability-Prize.jpg",
+      "source": "CleanTechnica",
+      "authoritative": false,
+      "publishedAt": "2026-10-24T17:13:44Z",
+      "category": "economy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Iran's President Warns of Food Struggles Amid Ongoing War",
+      "description": "Economic strain from the US-Iran conflict leaves many Iranians struggling to put food on the table, says President Masoud Pezeshkian in a recent speech.",
+      "url": "https://gulfnews.com/world/mena/irans-president-says-war-is-leaving-many-struggling-to-put-food-on-the-table-1.500722430",
+      "imageUrl": "https://media.assettype.com/gulfnews%2F2026-10-24%2Fwi120obw%2Ftehran.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop&enlarge=true&overlay=false&overlay_position=bottom&overlay_width=100",
+      "source": "Gulf News",
+      "authoritative": false,
+      "publishedAt": "2026-10-24T17:09:25Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Iran has ramped up efforts to target US personnel, intelligence memo warns",
+      "description": "US intelligence chief Jay Clayton warned that Iran has intensified efforts to target American personnel, with alleged lethal plots reaching advanced stages as Washington adjusts embassy staffing.",
+      "url": "https://www.moneycontrol.com/world/iran-has-ramped-up-efforts-to-target-us-personnel-intelligence-memo-warns-article-14059257.html",
+      "imageUrl": "https://images.moneycontrol.com/static-mcnews/2026/10/20261024170330_Iran-troops.jpg",
+      "source": "Moneycontrol.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-24T17:04:27Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Ukraine’s Starlink back on after Trump dispute",
+      "description": "Zelensky reveals satellite system is now operating normally following disruption to Kyiv’s military operations",
+      "url": "https://www.telegraph.co.uk/world-news/2026/10/24/ukraines-starlink-back-on-after-trump-dispute/",
+      "imageUrl": "https://www.telegraph.co.uk/content/dam/briefs/2026/10/24/TELEMMGLPICT000508322474_17928552408720_trans_NvBQzQNjv4BqWqpbAtgKJyHaMBh-yZTXbdf11FLKtqwYaxK652uKeQE.jpeg?impolicy=OG-Standard",
+      "source": "The Telegraph",
+      "authoritative": false,
+      "publishedAt": "2026-10-24T17:03:00Z",
+      "category": "tech",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Donald Trump says polls are fake and insists his approval rating is really at 60%",
+      "description": "A New York Times/Siena College poll put Trump’s approval at 34 percent, the lowest for a president nearing midterms since Harry Truman in 1946",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/trump-approval-ratings-midterms-b3072742.html",
+      "imageUrl": "https://static.independent.co.uk/2026/10/23/22/2301175119..?trim=0,0,0,0&width=1200&height=800&crop=1200:800",
+      "source": "The Independent",
+      "authoritative": false,
+      "publishedAt": "2026-10-24T17:01:00Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    }
+  ]
+}

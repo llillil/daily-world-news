@@ -1,0 +1,139 @@
+{
+  "date": "2026-10-26",
+  "updatedAt": "2026-10-26T05:43:08.327Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦地区冲突领域。热点议题包括：‘There will not be a；BB to relax lending rules；Healing Streams grand finale today:。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "conflict": 3,
+      "economy": 3,
+      "tech": 2,
+      "politics": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "‘There will not be a strike today’: Trump rules out attack on Iran",
+      "description": "Responding to a reporter’s question during a press interaction outside the White House, Trump said, “The answer is no. There will not be a strike today.”",
+      "url": "https://www.moneycontrol.com/europe/?url=https://www.moneycontrol.com/world/there-will-not-be-a-strike-today-trump-rules-out-attack-on-iran-article-14059614.html",
+      "imageUrl": "https://images.moneycontrol.com/static-mcnews/2026/10/20261023211442_donaldtrumprtr14.png",
+      "source": "Moneycontrol.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:40:25Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "BB to relax lending rules for Tk 1,700cr City Group bailout",
+      "description": "Eight private commercial banks are set to receive regulatory relief to extend Tk 1,700 crore in fresh loans to debt-laden City Group, in a move aimed at keeping its operations running and ensuring sup",
+      "url": "https://www.thedailystar.net/business/economy/news/bb-relax-lending-rules-tk-1700cr-city-group-bailout-4307291",
+      "imageUrl": "https://www.thedailystar.net/themes/custom/swallow/favicon.ico",
+      "source": "The Daily Star",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:38:12Z",
+      "category": "economy",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Healing Streams grand finale today: Global expectations soar for extraordinary miracles",
+      "description": "The grand finale of the 18th edition of the Healing Streams Live Healing Services is today! Following two days of remarkable revelations from the Word…",
+      "url": "https://dailypost.ng/2026/10/25/healing-streams-grand-finale-today-global-expectations-soar-for-extraordinary-miracles/",
+      "imageUrl": "https://dailypost.ng/cms-api/media/file/healing%20stream.jpg",
+      "source": "Daily Post Nigeria",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:33:55Z",
+      "category": "tech",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Pharma exports need stronger logistics to compete globally",
+      "description": "The United States’ decision to apply a zero additional tariff rate to specified specialty pharmaceutical products and associated ingredients from Bangladesh presents a significant opportunity.",
+      "url": "https://www.thedailystar.net/business/economy/news/pharma-exports-need-stronger-logistics-compete-globally-4307276",
+      "imageUrl": "https://www.thedailystar.net/sites/default/files/styles/social_share/public/2026-06/Syed-Ershad-Ahmed.jpg",
+      "source": "The Daily Star",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:33:49Z",
+      "category": "economy",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "CENTCOM Chief Brad Cooper flies over Hormuz during Middle East visit",
+      "description": "\"We remain intensely focused on keeping commercial traffic flowing as we work with our teammates in the US interagency, Gulf Cooperation Council, and shipping industry,\" he said.",
+      "url": "https://www.jpost.com/middle-east/article-912824",
+      "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/743508",
+      "source": "The Jerusalem Post",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:21:41Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Intensive int’l and UN efforts to end Sudan war",
+      "description": "A Geneva meeting involving 21 countries has highlighted immediate confidence-building measures, including prisoner exchanges and...",
+      "url": "https://www.dabangasudan.org/en/all-news/article/intensive-intl-and-un-efforts-to-end-sudan-war",
+      "imageUrl": "https://www.dabangasudan.org/wp-content/uploads/2026/10/الرباعي-9croppedة.jpg",
+      "source": "Radio Dabanga",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:21:01Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Drone warfare is evolving faster than armies can adapt, experts warn",
+      "description": "RIGA — It takes an average of just six weeks for opposing forces to develop a countermeasure to new technology deployed on the battlefield in Ukraine. That rapid pace of innovation, driven by drones a",
+      "url": "https://lethbridgenewsnow.com/2026/10/25/drone-warfare-is-evolving-faster-than-armies-can-adapt-experts-warn/",
+      "imageUrl": "https://media-cdn.socastsrm.com/wpRssService/imageRedirect?url=http%3A%2F%2Fmapi.cp.org%2Fasset-photos%2F7de7b08f-558f-41bd-95dc-cbebc1365f2a%2F68a4d5c5ee84028ce46650f4aaf216cf382a196aa28bbd6130429b2efeb6d051.jpg",
+      "source": "Lethbridge News Now",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:15:46Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Russia completes $53 million military investment in another African country after supplying it with six Mi-28 attack helicopters",
+      "description": "Russia has completed a $53 million military assistance programme in Uganda, four years after supplying the East African country with six Mi-28 attack helicopters, despite reports of military equipment",
+      "url": "https://africa.businessinsider.com/local/markets/russia-completes-dollar53-million-military-investment-in-another-african-country/d9k47qr",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/n05ktkuTURBXy8zY2JiYTYyYS02NGJmLTQwYmUtODQzYy0xMzc2OTM0MzQ2MDMuanBlZ5KVAwAqzQfQzQRlkwXNBLDNAnY",
+      "source": "Business Insider Africa",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:12:17Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Iran says US talks ‘meaningless’ until 7 conditions met as Qatari mediators arrive in Tehran",
+      "description": "Iran has indicated that negotiations with Washington cannot move forward unless its previously stated conditions are accepted. | India News",
+      "url": "https://www.hindustantimes.com/india-news/iran-says-us-talks-meaningless-until-7-conditions-met-as-qatari-mediators-arrive-in-tehran-101792945652451.html",
+      "imageUrl": "https://www.hindustantimes.com/ht-img/img/2026/10/25/1600x900/logo/IRAN-CRISIS-CABLES-PLAN-0_1792947112265_6Tik_1792947128101_UklE_e4447438-19f3-45f0-b783-caa41439bf5d_BCnq.JPG",
+      "source": "Hindustan Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:06:07Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "COP31 Climate finance promises need money behind them",
+      "description": "Climate activists highlight the need for climate finance in their poster. Picture Credit: Pexels / Markus Spiske  The world has made bold promises to tackle climate change. At COP31, attention must tu",
+      "url": "https://wwf.panda.org/discover/our_focus/climate_and_energy_practice/?16463966/COP31-climate-finance-promises-need-money-behind-them",
+      "imageUrl": "https://wwfeu.awsassets.panda.org/img/wwf_logo_750_x_600_741023.jpg",
+      "source": "Panda.org",
+      "authoritative": false,
+      "publishedAt": "2026-10-25T17:03:59Z",
+      "category": "economy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

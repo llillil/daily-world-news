@@ -1,0 +1,127 @@
+{
+  "date": "2026-10-27",
+  "updatedAt": "2026-10-27T05:55:50.851Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Riyadh airport reopening faces turbulence；Rubio to host G20 Foreign；Nicki Minaj flirting with Trump’s。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "conflict": 2,
+      "politics": 3,
+      "tech": 3,
+      "economy": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Riyadh airport reopening faces turbulence as Houthis claim new strikes",
+      "description": "A trickle of flights landed and departed from the Saudi capital on Monday as the Houthis continued to threaten aviation in the Gulf state.",
+      "url": "https://www.al-monitor.com/originals/2026/10/riyadh-airport-reopening-faces-turbulence-houthis-claim-new-strikes",
+      "imageUrl": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-10/GettyImages-2299431511.jpg?h=1d34674f&itok=slDWGZ7q",
+      "source": "Al-Monitor",
+      "authoritative": false,
+      "publishedAt": "2026-10-26T17:52:31Z",
+      "category": "conflict",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Rubio to host G20 Foreign Ministers’ meet in Atlanta on Oct 30-31",
+      "description": "Rubio hosts G20 Foreign Ministers’ Meeting in Atlanta (Oct 30-31) to advance cooperation on economic and security challenges ahead of December summits.",
+      "url": "https://www.thehindu.com/news/international/rubio-to-host-g20-foreign-ministers-meet-in-atlanta-on-oct-30-31/article71628615.ece",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/ajj75w/article71628619.ece/alternates/LANDSCAPE_1200/India-US-interiGA5GN7U61.5.jpg.jpg",
+      "source": "The Hindu",
+      "authoritative": false,
+      "publishedAt": "2026-10-26T17:52:02Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Nicki Minaj flirting with Trump’s third-term fantasy is no joke",
+      "description": "At a rally heavily featuring comments about the rapper’s ‘ass’, Trump and Minaj revealed something dark at the heart of modern-day MAGA, writes Holly Baxter",
+      "url": "https://www.independent.co.uk/news/world/americas/us-politics/nicki-minaj-trump-rally-ass-midterms-b3073550.html",
+      "imageUrl": "https://static.independent.co.uk/2026/10/26/16/2301982735..?trim=226,0,226,0&width=1200&height=800&crop=1200:800",
+      "source": "The Independent",
+      "authoritative": false,
+      "publishedAt": "2026-10-26T17:52:00Z",
+      "category": "tech",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "'Ethnic cleansing' concerns over West Bank operation",
+      "description": "Israeli military operation in the occupied West Bank city of Hebron raises serious concerns of \"ethnic cleansing\", the United Nations has warned.",
+      "url": "https://www.rte.ie/news/middle-east/2026/1026/1596883-west-bank/",
+      "imageUrl": "https://www.rte.ie/images/00253c5a-1600.jpg",
+      "source": "RTE.ie",
+      "authoritative": false,
+      "publishedAt": "2026-10-26T17:51:06Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Qatar Sets 2 Salary Requirements for Expatriates Seeking Family Residence Visas",
+      "description": "Qatar’s family sponsorship rules detail private-sector salary thresholds, government housing criteria and documents for expatriates’ family residence visas.",
+      "url": "https://yen.com.gh/world/asia/314506-qatar-sets-2-salary-requirements-expatriates-seeking-family-residence-visas/",
+      "imageUrl": "https://cdn.yen.com.gh/images/1200x675/4f6a0085751cb9a6.jpeg?v=1",
+      "source": "Yen News",
+      "authoritative": false,
+      "publishedAt": "2026-10-26T17:49:55Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Bessent says Iran economy will contract by more than 25%",
+      "description": "US Treasury Secretary Scott Bessent, in an interview with Iran International, warned Iranians to stock up on gasoline and heating fuel ahead of expected shortages, predicting the economy would shrink ",
+      "url": "https://www.iranintl.com/en/202610265347",
+      "imageUrl": "https://i.iranintl.com/images/rdk9umy0/production/94dcf1780c533913e0e08a9cc316e4761fe359a8-3750x2109.jpg?rect=0,71,3750,1969&w=1200&h=630&q=66&fit=max&auto=format",
+      "source": "Iran International",
+      "authoritative": false,
+      "publishedAt": "2026-10-26T17:49:00Z",
+      "category": "economy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "FBI considering espionage case against Saudi OpenAI suspect: Report",
+      "description": "Engineer Abdulrahman Alfozan is accused of secretly recording conversations in the company's San Francisco conference room",
+      "url": "https://www.middleeasteye.net/news/fbi-considering-espionage-case-against-saudi-openai-suspect",
+      "imageUrl": "https://www.middleeasteye.net/sites/default/files/images-story/Abdulrahman_Alfozan_OPENAI-SPYING-FBI%281%29_0.jpg",
+      "source": "Middle East Eye",
+      "authoritative": false,
+      "publishedAt": "2026-10-26T17:42:00Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "‘Democracy always’: Lula vows no return to dictatorship in Brazil after election win",
+      "description": "Leaders and governments worldwide congratulate Lula on dramatic comeback seen as an important signal to rest of Latin America",
+      "url": "https://www.theguardian.com/world/2026/oct/26/brazil-lula-vow-democracy-always-election-win",
+      "imageUrl": "https://i.guim.co.uk/img/media/61f49e5040906378f0ae4214a76205303bb7569f/2636_594_6004_4803/master/6004.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=86c90987afea62ade1d3ec5440c3553d",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-10-26T17:39:00Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Who’s Afraid of Gen Z Socialism?",
+      "description": "From France to India, young people have led the current wave of protests. Rather than deny the importance of generational politics, we can see it as a way that people make sense of their life chances ",
+      "url": "https://www.yahoo.com/news/world/articles/afraid-gen-z-socialism-173405372.html",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/ef6bf178d0a9bab18583ce34a82874ccb77cecac6e7d110350ef8630fac8c060/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fjacobin_644%2F1abf3481c32865de36c2d80aaf87e11b.jpg",
+      "source": "Yahoo",
+      "authoritative": false,
+      "publishedAt": "2026-10-26T17:34:05Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    }
+  ]
+}

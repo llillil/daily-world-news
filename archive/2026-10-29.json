@@ -1,0 +1,126 @@
+{
+  "date": "2026-10-29",
+  "updatedAt": "2026-10-29T06:42:26.894Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：President Paul Kagame Is Dead；Fuel costs force US cruise；Bahrain Explains Power to Reject。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "politics": 5,
+      "tech": 3,
+      "conflict": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "President Paul Kagame Is Dead Right: Human Lives Should Not Be Lost At The Cost Of Creating Jobs Through Distribution Of Sub-standard Alcohol",
+      "description": "Dear President Paul Kagame, thank you for standing firm on your decision to ban importing of cheap, sub-standard and suspect alcoholic drinks into Rwanda. Your",
+      "url": "https://www.thenigerianvoice.com/news/375794/president-paul-kagame-is-dead-right-human-lives-should-not.html",
+      "imageUrl": "https://cdn.thenigerianvoice.com/images/content/1028202674009_img_9486.jpeg",
+      "source": "Nigerian Voice",
+      "authoritative": false,
+      "publishedAt": "2026-10-28T18:40:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Fuel costs force US cruise ship to suspend multiyear voyage in Cambodia",
+      "description": "Hundreds of passengers are stranded after the ship’s three-and-a-half-year voyage is cut short due to fuel costs.",
+      "url": "https://www.aljazeera.com/news/2026/10/28/fuel-costs-force-us-cruise-ship-to-suspend-multi-year-voyage-in-cambodia",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/AP26301261611872-1793214717.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-28T18:37:36Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Bahrain Explains Power to Reject Collective Employment Contracts Within 30 Days",
+      "description": "Bahrain granted the Labour Ministry authority to contest or reject collective contracts, while approval was deemed granted after 30 days of inaction.",
+      "url": "https://www.legit.ng/world/1738403-bahrain-explains-power-reject-collective-employment-contracts-30-days/",
+      "imageUrl": "https://cdn.legit.ng/images/1200x675/29f6c54e51cc7bb5.jpeg?v=1",
+      "source": "Legit News",
+      "authoritative": false,
+      "publishedAt": "2026-10-28T18:36:42Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Trump Responds After Bombshell Report on Alaska’s Two Dan Sullivans Dispute",
+      "description": "A New York Times report alleged Democrats were involved in recruiting Daniel J. Sullivan to run against Senator Dan Sullivan.",
+      "url": "https://www.newsweek.com/alaskas-two-dan-sullivans-controversy-just-got-more-complicated-12631913",
+      "imageUrl": "https://assets.newsweek.com/wp-content/uploads/2026/10/Copy-of-3-2-Split-Screen-6-2.png?w=1200&crop=1",
+      "source": "Newsweek",
+      "authoritative": false,
+      "publishedAt": "2026-10-28T18:35:00Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Spain train crash: Pedro Sánchez declares three days of mourning after at least 68 are killed",
+      "description": "Collision between two high-speed trains on Wednesday is second major rail crash in country this year",
+      "url": "https://www.irishtimes.com/world/europe/2026/10/28/spain-train-crash-sanchez-declares-three-days-of-mourning-after-at-least-68-are-killed/",
+      "imageUrl": "https://www.irishtimes.com/resizer/v2/KRGEB2NQUANXEVTVI2HN6UBRW4.jpg?smart=true&auth=6ada47249dc5403bec1921616b33f01bff12b1f10e45cd0fdfba7a057ac5041d&width=1200&height=630",
+      "source": "The Irish Times",
+      "authoritative": false,
+      "publishedAt": "2026-10-28T18:30:02Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Supreme Court wants to hear from Hillary Clinton before deciding on Trump’s petition",
+      "description": "The justices could decide later this year whether to review the president’s conspiracy appeal against his 2016 opponent.",
+      "url": "https://www.aol.com/articles/supreme-court-wants-hear-hillary-182343000.html",
+      "imageUrl": "https://hermes.media.static.aol.com/media/2026/10/28/8c9bed42-1f80-3ed8-a3c0-260f04d06559/740d2aa6-9af1-43fe-ad5c-a87185477c1f.webp",
+      "source": "AOL.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-28T18:23:49Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Moonshot 2026: ‘Africans deserve better protection’ - Tech experts faults companies, govt over digital safety",
+      "description": "Chioma Agwuegbo, executive director of TechHerNG, has called on technology companies to prioritise users' safety, privacy and rights, warning that the rapid development of digital tools without adequa",
+      "url": "https://www.vanguardngr.com/2026/10/moonshot-2026-africans-deserve-better-protection-tech-experts-faults-companies-govt-over-digital-safety/",
+      "imageUrl": "https://cdn.vanguardngr.com/wp-content/uploads/2026/10/monshot.jpeg",
+      "source": "Vanguard News",
+      "authoritative": false,
+      "publishedAt": "2026-10-28T18:21:18Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Ghanaian artists Appiah, Boateng shine as Absa L’Atelier marks 40 years",
+      "description": "Accra, Oct. 28, GNA – Two Ghanaian artists, Ezra Appiah and Reginald Boateng, are gaining international recognition as Absa L’Atelier Art marks its 40th anniversary, highlighting the growing visibilit",
+      "url": "https://gna.org.gh/2026/10/ghanaian-artists-appiah-boateng-shine-as-absa-latelier-marks-40-years/",
+      "imageUrl": "https://gna.org.gh/web/wp-content/uploads/2026/10/d45c6288-ac3c-43ed-b361-17f13110c8e6.jpeg",
+      "source": "Ghana News Agency",
+      "authoritative": false,
+      "publishedAt": "2026-10-28T18:20:26Z",
+      "category": "tech",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "“Kasongo Is Second Place”: Funny Nicknames for African Leaders Leave Social Media Users in Stitches",
+      "description": "A viral infographic of African leaders’ nicknames, from Tinubu’s “T-Pain” to Ramaphosa’s “Cupcake”, sparks laughter and debate across Africa on LinkedIn.",
+      "url": "https://www.tuko.co.ke/world/africa/644860-kasongo-second-place-funny-nicknames-african-leaders-leave-social-media-users-stitches/",
+      "imageUrl": "https://cdn.tuko.co.ke/images/1200x675/8286100ec210da9e.jpeg?v=1",
+      "source": "Tuko News",
+      "authoritative": false,
+      "publishedAt": "2026-10-28T18:18:21Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

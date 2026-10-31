@@ -1,0 +1,128 @@
+{
+  "date": "2026-10-31",
+  "updatedAt": "2026-10-31T06:34:12.700Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Oman rescues 25 from burning；Iran Used Limpet Mine Placed；Uganda signals Somalia military exit。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "politics": 3,
+      "conflict": 3,
+      "policy": 1,
+      "tech": 1,
+      "disaster": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Oman rescues 25 from burning oil tanker in Strait of Hormuz",
+      "description": "Incident comes as Iran says three oil tankers were halted while attempting to use ‘unauthorised routes’ to cross Hormuz.",
+      "url": "https://www.aljazeera.com/news/2026/10/30/oman-rescues-25-from-burning-oil-tanker-in-strait-of-hormuz",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/10/reuters_6ade0e68-1792937577.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-10-30T18:33:52Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Iran Used Limpet Mine Placed On Ship's Hull In Latest Strait Of Hormuz Attack: Report",
+      "description": "More air defenses, ships, troops, ammo and supplies are flowing into the Middle East as the clock ticks down to the potential start of a new air campaign against Iran.",
+      "url": "https://www.twz.com/news-features/iran-used-limpet-mine-placed-on-ships-hull-in-latest-strait-of-hormuz-attack-report",
+      "imageUrl": "https://www.twz.com/wp-content/uploads/2026/10/Strait-hormuz-blockade-mines.jpg?w=1200",
+      "source": "TWZ",
+      "authoritative": false,
+      "publishedAt": "2026-10-30T18:33:46Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Uganda signals Somalia military exit as rifts hurt war on Shabaab",
+      "description": "Chief of Defence Forces Muhoozi Kainerugaba says the Uganda People’s Defence Forces had begun withdrawing from Somalia.",
+      "url": "https://www.theeastafrican.co.ke/tea/news/east-africa/uganda-signals-somalia-military-exit-5652996",
+      "imageUrl": "https://www.theeastafrican.co.ke/resource/image/5653000/landscape_ratio3x2/1200/800/7acf80e483ae96affb533268695a0ec6/GJ/muhoozi-1-.jpg",
+      "source": "The EastAfrican",
+      "authoritative": false,
+      "publishedAt": "2026-10-30T18:30:00Z",
+      "category": "conflict",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Widow of Israeli murdered in Egypt terror attack dies after three years of anguish",
+      "description": "Mor Shamli's husband Alon was murdered by an Egyptian police officer in Alexandria on October 8, 2023; her family says she never recovered from the trauma, while in January she wrote of unbearable gri",
+      "url": "https://www.ynetnews.com/article/s1311zvfafg",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/01/13/By11r11EvXHWx/By11r11EvXHWx_264_283_579_326_0_large.jpg",
+      "source": "Ynetnews",
+      "authoritative": false,
+      "publishedAt": "2026-10-30T18:29:31Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Indigenous Peoples Push for Influence in Biodiversity Decisions",
+      "description": "COP17 adopted operating arrangements for a permanent body to strengthen Indigenous participation in global biodiversity decisions.",
+      "url": "https://colombiaone.com/2026/10/30/cop17-indigenous-participation-biodiversity-decisions/",
+      "imageUrl": "https://colombiaone.com/wp-content/uploads/2026/10/Press_Conference-CBD-COP17-Yerevan-CC-BY-NC-4.0.jpg",
+      "source": "ColombiaOne.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-30T18:24:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Saudi Coalition Says Intercepted Drone Over Riyadh, Missile In South",
+      "description": "Earlier on Friday, the coalition said it had intercepted and destroyed a Houthi drone in the Mecca region, with the group denying it targeted Islam's holiest city.",
+      "url": "https://www.ndtv.com/world-news/saudi-coalition-says-intercepted-drone-over-riyadh-missile-in-south-12261198",
+      "imageUrl": "https://c.ndtvimg.com/2026-10/pqkv2njg_riyadh_625x300_14_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "authoritative": false,
+      "publishedAt": "2026-10-30T18:09:45Z",
+      "category": "conflict",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Canada aims to become EU's first 'associate member' by June 2027, Carney says",
+      "description": "Mark Carney has set June 2027 as the deadline to make Canada the European Union's first-ever \"associate member\". The category, which has no precedent, has been fiercely opposed by Germany.",
+      "url": "https://www.euronews.com/2026/10/30/canada-aims-to-become-eus-first-associate-member-by-june-2027-carney-says",
+      "imageUrl": "https://images.euronews.com/articles/stories/09/97/40/24/1200x675_cmsv2_eda06cd1-c36a-5cac-8a84-4a9f7911d721-9974024.jpg",
+      "source": "Euronews.com",
+      "authoritative": false,
+      "publishedAt": "2026-10-30T18:09:25Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Why Canada is ending ‘avalanche dog’ operations in the Rocky Mountains",
+      "description": "Canada has taken a significant step to stop using avalanche rescue dogs in the Rocky Mountains-a move that has fueled public outrage and raised concerns about high-altitude extraction missions.The...",
+      "url": "https://www.thenews.com.pk/latest/1421916-why-canada-is-ending-avalanche-dog-operations-in-the-rocky-mountains",
+      "imageUrl": "https://www.thenews.com.pk/assets/uploads/2026-10-30/1421916_110245_updates.jpg",
+      "source": "The News International",
+      "authoritative": false,
+      "publishedAt": "2026-10-30T18:02:00Z",
+      "category": "disaster",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Lithuania receives first Thales GM200 MM/C radar",
+      "description": "According to the Lithuanian Ministry of National Defence, Lithuania has received its first Thales GM200 MM/C multifunction radar system, designed to detect",
+      "url": "https://defensehere.com/en/lithuania-receives-first-thales-gm200-mm-c-radar/",
+      "imageUrl": "https://defensehere.com/wp-content/uploads/2026/10/HV3XQOvX0AE8Fp8-3.jpg",
+      "source": "Defensehere",
+      "authoritative": false,
+      "publishedAt": "2026-10-30T18:00:42Z",
+      "category": "politics",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    }
+  ]
+}

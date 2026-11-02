@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-02",
+  "updatedAt": "2026-11-02T07:08:26.634Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：France opens ‘attempted murder’ probe；Smart glasses are becoming more；Bulgaria's acting President Yotova leads。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "conflict": 2,
+      "politics": 7
+    }
+  },
+  "articles": [
+    {
+      "title": "France opens ‘attempted murder’ probe into petrol bomb attacks on police",
+      "description": "No arrests made after several security officers were reportedly injured during incidents at Saturday’s protests.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/france-opens-attempted-murder-probe-into-molotov-attacks-on-police",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6ae780295f69-1793556521.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-11-01T19:01:42Z",
+      "category": "conflict",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Smart glasses are becoming more popular - how are schools planning to deal with them?",
+      "description": "One teaching union told The Journal that they would have “serious concerns about the usage of recording devices in classroom settings”.",
+      "url": "https://www.thejournal.ie/smart-glasses-privacy-concerns-europe-7205956-Nov2026/",
+      "imageUrl": "https://img2.thejournal.ie/article/7205956/river/?height=400&version=7209910",
+      "source": "The Journal",
+      "authoritative": false,
+      "publishedAt": "2026-11-01T19:01:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Bulgaria's acting President Yotova leads in exit polls of runoff election",
+      "description": "According to the exit polls, the candidate from the ruling centre-left party is set to win 52 per cent of the vote in the run-off election in Bulgaria. Her pro-Western challenger, Andrey Gyurov, trail",
+      "url": "https://www.euronews.com/2026/11/01/bulgarias-acting-president-yotova-leads-in-exit-polls-of-runoff-election",
+      "imageUrl": "https://images.euronews.com/articles/stories/09/97/56/64/1200x675_cmsv2_706f815e-cb76-52d7-aa2a-cc46de82649b-9975664.jpg",
+      "source": "Euronews.com",
+      "authoritative": false,
+      "publishedAt": "2026-11-01T18:59:50Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Peaceful protests in Germany spiral into violence and looting",
+      "description": "Thousands joined largely orderly demonstrations earlier in the day, before violence erupted in Frankfurt, Berlin, Cologne and Hamburg.",
+      "url": "https://www.bbc.com/news/videos/cqgm0der7zkmo",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/0c8f/live/e077e4c0-d61f-11f1-beec-49c9509fcdec.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-11-01T18:51:56Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "UM6P Launches Digital Farming School in Côte d’Ivoire With OCP Africa Support",
+      "description": "UM6P and Côte d’Ivoire’s National Polytechnic Institute Félix Houphouët-Boigny (INP-HB) have launched a new school in Yamoussoukro",
+      "url": "https://www.moroccoworldnews.com/2026/11/344671/um6p-launches-digital-farming-school-in-cote-divoire-with-ocp-africa-support/",
+      "imageUrl": "https://www.moroccoworldnews.com/wp-content/uploads/2026/11/Inauguration-DFS-scaled.jpg",
+      "source": "Morocco World News",
+      "authoritative": false,
+      "publishedAt": "2026-11-01T18:42:02Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Sullivan vows to honour Alaska race outcome, US judge dismisses DOJ lawsuit",
+      "description": "Senator Sullivan’s pledge contrasts with the Trump administration’s effort to challenge Alaska’s election certification.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/sullivan-vows-to-honour-alaska-race-outcome-us-judge-dismisses-doj-lawsuit",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/08/AFP__20220913__1423463527__v2__HighRes__PelosiHoldsCeremonialSwearingInForMembersEle-2-1786989788.jpg?resize=1200%2C630",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-11-01T18:40:41Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Democrat Haley Stevens endorses GOP candidate for Michigan Senate after spat with El-Sayed",
+      "description": "Abdul El-Sayed’s former opponent in U.S. Senate primary stuns party officials by endorsing Republican Mike Rogers",
+      "url": "https://www.theglobeandmail.com/world/us-politics/article-haley-stevens-el-sayed-midterm-senate/",
+      "imageUrl": "https://www.theglobeandmail.com/resizer/v2/3XF2RS25ZNBWTNAA53YZCIIVNU.jpg?auth=1831269f9e015a1c77037c520e47ced9b24341951e4f69760be7ca85931ef9e0&width=1200&height=800&quality=80&smart=true",
+      "source": "The Globe and Mail",
+      "authoritative": false,
+      "publishedAt": "2026-11-01T18:40:15Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Al Jazeera marks 30 years of transforming news in Middle East and beyond",
+      "description": "The anniversary coincides with a significant restructuring of Al Jazeera Media Network’s Arabic-language news services.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/al-jazeera-celebrates-30-years-of-transforming-news-in-region-and-beyond",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2020/12/6N0A3830.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-11-01T18:28:07Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Israel’s first ambassador to Somaliland presents credentials in Hargeisa",
+      "description": "Israel expands ties with the breakaway territory as Somalia challenges its motives and war intensifies in Yemen.",
+      "url": "https://www.aljazeera.com/news/2026/11/1/israels-first-ambassador-to-somaliland-presents-credentials-in-hargeisa",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/HWCG4FWWIAAqF2x-1793553454.jpeg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-11-01T18:27:39Z",
+      "category": "conflict",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    }
+  ]
+}

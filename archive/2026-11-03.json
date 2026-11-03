@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-03",
+  "updatedAt": "2026-11-03T07:30:11.567Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦地区冲突领域。热点议题包括：Humiliated Putin’s Crisis Explodes in；Corruption in the Crosshairs: The；Egypt, Sudan reject unilateral Ethiopian。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "conflict": 3,
+      "politics": 3,
+      "tech": 1,
+      "policy": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "Humiliated Putin’s Crisis Explodes in His Face",
+      "description": "Russia’s warplanes are using shoddy imported fuel.",
+      "url": "https://www.thedailybeast.com/humiliated-putins-crisis-explodes-in-his-face",
+      "imageUrl": "https://media.thedailybeast.com/resizer/v2/DZOLNL46E5ANJFDNPUSIGJAJWI.jpg?auth=8898ee93063c7af126db195eee05c6e9e8161b30d54e34c2c6df9c85da41df87&width=1200&height=630&focal=4065%2C2287",
+      "source": "The Daily Beast",
+      "authoritative": false,
+      "publishedAt": "2026-11-02T19:21:06Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Corruption in the Crosshairs: The Debate Over Transparency and Saving Face",
+      "description": "Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks",
+      "url": "https://warontherocks.com/corruption-in-the-crosshairs-the-debate-over-transparency-and-saving-face/",
+      "imageUrl": "https://warontherocks.com/wp-content/uploads/wotr-og-images/wotr-og-48389-0b29cea07292.jpg",
+      "source": "War on the Rocks",
+      "authoritative": false,
+      "publishedAt": "2026-11-02T19:19:38Z",
+      "category": "conflict",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Egypt, Sudan reject unilateral Ethiopian dam management, reaffirm 1959 Nile water rights",
+      "description": "Egypt and Sudan on Monday reiterated their rejection of unilateral actions in the Eastern Nile Basin, warning that Ethiopia’s management of its dam on the Blue Nile without a binding legal framework p",
+      "url": "https://dailynewsegypt.com/2026/11/02/egypt-sudan-reject-unilateral-ethiopian-dam-management-reaffirm-1959-nile-water-rights/",
+      "imageUrl": "https://images.dailynewsegypt.com/2026/11/WhatsApp-Image-2026-11-02-at-8.37.19-AM.jpeg",
+      "source": "Daily News Egypt",
+      "authoritative": false,
+      "publishedAt": "2026-11-02T19:17:52Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Prosecutors hint at plans to retry Lindsay Clancy on murder charges",
+      "description": "Judge William Sullivan said if the case is headed to a retrial, that could happen as soon as March 2027.",
+      "url": "https://www.bbc.co.uk/news/articles/cjly0rgk34y2o",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/72a8/live/8b822d30-d6f2-11f1-8f53-6322e2737253.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-11-02T19:13:54Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Legal challenge to Australia's social media ban to start in High Court",
+      "description": "A rights group will argue the world-leading policy robs under-16s of their right to free communication.",
+      "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/7af5/live/6a1bb4a0-d67e-11f1-ac3d-edfeb9f7d0aa.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-11-02T19:12:59Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Dangote Eyes Egypt for Next Phase of African Industrial",
+      "description": "Egyptian Minister Leads High-Powered Delegation to Dangote, Explores Multi-Sector Investment Opportunities",
+      "url": "https://freshangleng.com/42298/dangote-eyes-egypt-for-next-phase-of-african-industrial-expansion",
+      "imageUrl": "http://freshangleng.com/articleimg/9c0f0114-3bdc-484b-821a-4b08fde391b7.jpg",
+      "source": "Fresh Angle",
+      "authoritative": false,
+      "publishedAt": "2026-11-02T19:11:46Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Mary Robinson chosen to lead climate change organisation",
+      "description": "Former President of Ireland Mary Robinson has been elected to lead an international organisation that is helping developing countries attract billions of dollars in investment to build cleaner, more s",
+      "url": "https://www.rte.ie/news/world/2026/1102/1597695-mary-robinson-climate/",
+      "imageUrl": "https://www.rte.ie/images/0014bad4-1600.jpg",
+      "source": "RTE.ie",
+      "authoritative": false,
+      "publishedAt": "2026-11-02T19:10:59Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "African Countries Mentioned in New ActionAid Report on how Debt is A Solution with Huge Potential Benefits for the Climate",
+      "description": "By Wallace Mawire",
+      "url": "https://panafricanvisions.com/2026/11/african-countries-mentioned-in-new-actionaid-report-on-how-debt-is-a-solution-with-huge-potential-benefits-for-the-climate/",
+      "imageUrl": "https://panafricanvisions.com/wp-content/uploads/2026/11/teresa-905x1024.jpg",
+      "source": "pan african visions",
+      "authoritative": false,
+      "publishedAt": "2026-11-02T19:08:16Z",
+      "category": "policy",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "African Union Calls for Action to Protect Women from AI and Technology-Facilitated Violence",
+      "description": "By Abraham KebedeOctober 30, 2026The African Union has called for technology-facilitated gender-based violence (TFGBV) and threats linked to artificial intelligence (AI) to be integrated into Women, P",
+      "url": "https://www.genocidewatch.com/single-post/african-union-calls-for-action-to-protect-women-from-ai-and-technology-facilitated-violence",
+      "imageUrl": "https://static.wixstatic.com/media/5ae0cd_98538231a17b45608966a559786d7af2~mv2.jpg/v1/fill/w_1000,h_666,al_c,q_85,usm_0.66_1.00_0.01/5ae0cd_98538231a17b45608966a559786d7af2~mv2.jpg",
+      "source": "Genocide Watch",
+      "authoritative": false,
+      "publishedAt": "2026-11-02T19:08:12Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

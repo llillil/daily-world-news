@@ -1,0 +1,124 @@
+{
+  "date": "2026-11-04",
+  "updatedAt": "2026-11-04T07:11:55.982Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：UK doubles ILR waiting period；Monusco’s mandate must not be；Trump says U.S. cutting $3.8。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "politics": 9
+    }
+  },
+  "articles": [
+    {
+      "title": "UK doubles ILR waiting period to 10 years for most migrants",
+      "description": "The United Kingdom Government has announced plans to double the standard qualifying period for migrants seeking Indefinite Leave to Remain (ILR) from five",
+      "url": "https://thenationonlineng.net/uk-doubles-ilr-waiting-period-to-10-years-for-most-migrants/",
+      "imageUrl": "https://cdn.thenationonlineng.net/wp-content/uploads/2026/09/14125622/UK.png",
+      "source": "The Nation Newspaper",
+      "authoritative": false,
+      "publishedAt": "2026-11-03T19:11:51Z",
+      "category": "politics",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    },
+    {
+      "title": "Monusco’s mandate must not be renewed",
+      "description": "The United Nations Organization Stabilization Mission in the Democratic Republic of the Congo (MONUSCO), along with its predecessor, MONUC, represents one of the longest, most expensive, and structura",
+      "url": "https://panafricanreview.com/the-case-against-mandate-renewal-how-has-monusco-failed-to-stabilize-the-democratic-republic-of-the-congo/",
+      "imageUrl": "https://panafricanreview.com/wp-content/uploads/2026/11/Image.png",
+      "source": "Pan African Review",
+      "authoritative": false,
+      "publishedAt": "2026-11-03T19:11:46Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Trump says U.S. cutting $3.8 billion annual security assistance to Israel",
+      "description": "Trump says U.S. will end $3.8B annual Israel security aid, citing autonomy and Netanyahu plan, amid backlash and political context.",
+      "url": "https://www.thehindu.com/news/international/trump-says-us-cutting-38-billion-annual-security-assistance-to-israel/article71662755.ece",
+      "imageUrl": "https://th-i.thgim.com/public/incoming/6zxlmx/article71652124.ece/alternates/LANDSCAPE_1200/AP10_29_2026_000008A.jpg",
+      "source": "The Hindu",
+      "authoritative": false,
+      "publishedAt": "2026-11-03T19:10:33Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "US Midterm Election Live Results 2026",
+      "description": "Follow the results of the 2026 US midterm elections and who controls the House and Senate, updated as races are called.",
+      "url": "https://www.abc.net.au/news/2026-11-04/us-midterm-election-results-2026/107235570",
+      "imageUrl": "https://live-production.wcms.abc-cdn.net.au/4e9486d7d195472cb16b60e4ac767ff6?impolicy=wcms_watermark_news&cropH=900&cropW=1600&xPos=0&yPos=83&width=862&height=485&imformat=generic",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "authoritative": true,
+      "publishedAt": "2026-11-03T19:10:18Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Yemen gov’t accuses IRGC, Hezbollah of sending 21 experts to back Houthis",
+      "description": "Yemeni interior minister says foreign involvement expanded beyond arms and training to directing military operations.",
+      "url": "https://www.aljazeera.com/news/2026/11/3/yemen-govt-accuses-irgc-hezbollah-of-sending-21-experts-to-back-houthis",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/reuters_6aea2303-1793729283.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-11-03T19:09:49Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Get-there-itis: Expert spots crucial error before Learjet crash in Florida",
+      "description": "A Learjet 60 crashed in Florida after encountering severe weather during its journey from Texas to the Bahamas. Experts are examining storm avoidance, icing and a climb attempt, while investigators ha",
+      "url": "https://www.indiatoday.in/world/us-news/story/florida-learjet-crash-storm-icing-climb-attempt-and-get-there-itis-under-scrutiny-3031801-2026-11-04",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/florida-crash-030344493-16x9_0.png?VersionId=irJhEUgekD4s4nP3jKzwwWkXMdPCN_MT",
+      "source": "India Today",
+      "authoritative": false,
+      "publishedAt": "2026-11-03T19:09:35Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Civil Society Groups Urge NASS To Pass Alcohol Control Bill, Cite Child Exposure, Rising Health Risks",
+      "description": "Civil society organisations have called on the National Assembly to urgently pass the National Alcohol Control Bill, 2026, warning that increasing exposure of children and young people to alcohol is w",
+      "url": "https://independent.ng/civil-society-groups-urge-nass-to-pass-alcohol-control-bill-cite-child-exposure-rising-health-risks/",
+      "imageUrl": "https://independent.ng/wp-content/uploads/2026/11/IMG-20261103-WA0089.jpg",
+      "source": "Independent Newspaper Nigeria",
+      "authoritative": false,
+      "publishedAt": "2026-11-03T19:09:31Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "What Voters Care About As US Midterms Go Underway",
+      "description": "With polling data suggesting the Democratic Party is on track to capture a majority in the House of Representatives and perhaps even in the Senate, many left-leaning voters said they were hopeful abou",
+      "url": "https://www.ndtv.com/world-news/what-voters-care-about-as-us-midterms-go-underway-12278990",
+      "imageUrl": "https://c.ndtvimg.com/2026-10/uondveno_us-midterms-senate-reuters_625x300_27_October_26.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "authoritative": false,
+      "publishedAt": "2026-11-03T19:06:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Japan Opens 18 Job Sectors to Foreign Workers Under Skilled Worker Programme",
+      "description": "Japan’s Specified Skilled Worker (i) programme covers 18 jobs for foreign nationals, from nursing care and construction to agriculture and logistics warehousing.",
+      "url": "https://www.tuko.co.ke/world/645524-japan-opens-18-job-sectors-foreign-workers-skilled-worker-programme/",
+      "imageUrl": "https://cdn.tuko.co.ke/images/1200x675/50acfd67bee629ad.jpeg?v=1",
+      "source": "Tuko News",
+      "authoritative": false,
+      "publishedAt": "2026-11-03T19:02:07Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

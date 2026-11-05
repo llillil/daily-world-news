@@ -1,0 +1,140 @@
+{
+  "date": "2026-11-05",
+  "updatedAt": "2026-11-05T07:38:46.366Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：The first death from influenza；Michael Bogdan Scholarship for Healthcare；After midterms, midtown Manhattan 'happy'。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "disaster": 1,
+      "politics": 5,
+      "tech": 2,
+      "economy": 1,
+      "conflict": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "The first death from influenza this season registered in Latvia",
+      "description": "Influenza activity remains below the epidemic threshold. A week earlier, the incidence was 9.2 cases per 100,000 residents.",
+      "url": "https://news.inbox.eu/150yf1s-the-first-death-from-influenza-this-season-registered-in-latvia?language=en",
+      "imageUrl": "https://news.inbox.eu/w/img/bb/26/bb26a25534b77c1304.webp",
+      "source": "Inbox.eu",
+      "authoritative": false,
+      "publishedAt": "2026-11-04T19:34:41Z",
+      "category": "disaster",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Michael Bogdan Scholarship for Healthcare Announces Open Call for Undergraduate Applicants Nationwide",
+      "description": "Michael Bogdan Scholarship for Healthcare Announces Open Call for Undergraduate Applicants Nationwide",
+      "url": "https://www.manilatimes.net/2026/11/05/tmt-newswire/globenewswire/michael-bogdan-scholarship-for-healthcare-announces-open-call-for-undergraduate-applicants-nationwide/2462122",
+      "imageUrl": "https://manilatimes.net/manilatimes/uploads/images/2026/11/05/1292728.jpg",
+      "source": "The Manila Times",
+      "authoritative": false,
+      "publishedAt": "2026-11-04T19:31:43Z",
+      "category": "politics",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    },
+    {
+      "title": "After midterms, midtown Manhattan 'happy' for the new 'check' on Trump",
+      "description": "New Yorkers and visitors in Manhattan voiced optimism on Wednesday (November 4) after Democrats made gains in midterm congressional elections, with some saying",
+      "url": "https://www.abs-cbn.com/news/world/2026/11/5/after-midterms-midtown-manhattan-happy-for-the-new-check-on-trump-0201",
+      "imageUrl": "https://od2-image-api.abs-cbn.com/prod/20261104161140/5733d00f2e1a41a0b9ce9a983ce7f84bdf2dfa4b2593fb1342cb8cad45391e68.png?w=1200&h=800",
+      "source": "ABS-CBN",
+      "authoritative": false,
+      "publishedAt": "2026-11-04T19:30:00Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "2026 Midterm Election Results Live: Democrats take Congress",
+      "description": "Democrats continue to stack wins in House as Republicans start blame game after midterm rout. Follow for the latest updates.",
+      "url": "https://www.cnn.com/2026/11/04/politics/live-news/midterm-election-congress",
+      "imageUrl": "https://media.cnn.com/api/v1/images/stellar/prod/2026-11-04t181903z-2063892830-rc25hoadtk1m-rtrmadp-3-usa-trump.jpg?c=16x9&q=w_800,c_fill",
+      "source": "CNN",
+      "authoritative": true,
+      "publishedAt": "2026-11-04T19:28:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Somalia Enters A New Era Of Self-Reliance Following UNTMIS Closure",
+      "description": "A historic UN peacekeeping mission in Somalia has come to an end with the official closure of the United Nations Transitional Assistance Mission in Somalia (UNTMIS) on October 31, 2026. The closure…",
+      "url": "https://theowp.org/somalia-enters-a-new-era-of-self-reliance-following-untmis-closure/",
+      "imageUrl": "https://theowp.org/wp-content/uploads/2026/11/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvZmw2OTQzNzEyMTE2LWltYWdlLWtwcW9ocGgyLmpwZw-1.jpg",
+      "source": "The Organization for World Peace",
+      "authoritative": false,
+      "publishedAt": "2026-11-04T19:24:06Z",
+      "category": "politics",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Somalia Says Ugandan Forces Not Fully Withdrawing",
+      "description": "National Security Adviser Awes Hagi Yusuf says redeploying troops are under bilateral deal",
+      "url": "https://www.dawan.africa/news/somalia-says-ugandan-forces-not-fully-withdrawing",
+      "imageUrl": "https://www.dawan.africa/news-image?url=https%3A%2F%2Futfs.io%2Ff%2Fv9D9ylrdiyZgLHhfZCnljC1mk3ZFPfJOWauEDo8dbMK7UwBc",
+      "source": "Dawan Africa",
+      "authoritative": false,
+      "publishedAt": "2026-11-04T19:22:37Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Nathalia Filgueiras: NASA chief defends Learjet co-pilot after crash",
+      "description": "It didn’t take long for a sick theory to emerge on social media after the crash of a luxury jet that killed a Texas tech entrepreneur and his family.",
+      "url": "https://www.news.com.au/travel/travel-updates/incidents/internet-trolls-target-20yearold-female-copilot-as-nasa-chief-slams-fatal-crash-theories/news-story/0a4ac8f4819133eb72867b480947ab88",
+      "imageUrl": "https://content.api.news/v3/images/bin/4b55e17231bf7330af05e8b1982d3e94",
+      "source": "News.com.au",
+      "authoritative": false,
+      "publishedAt": "2026-11-04T19:21:26Z",
+      "category": "tech",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "GiveDirectly Tests Whether Cash Transfers Can Drive Economic Growth in Malawi",
+      "description": "In its largest program yet, GiveDirectly will enroll about 120,000 rural Malawi households by the end of 2026 for one-time cash worth about 85% of local GDP.",
+      "url": "https://www.einpresswire.com/article/954536797/givedirectly-tests-whether-cash-transfers-can-drive-economic-growth-in-malawi",
+      "imageUrl": "https://img.einnews.com/facebook/1242109/econ-growth-learning-agenda.png",
+      "source": "EIN Presswire",
+      "authoritative": false,
+      "publishedAt": "2026-11-04T19:21:00Z",
+      "category": "economy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "UK Supreme Court hears appeal against Palestine Action’s proscription",
+      "description": "Rights activists say UK decision against Palestine Action is a ‘misuse of terrorism powers’.",
+      "url": "https://www.aljazeera.com/news/2026/11/4/uk-supreme-court-hears-appeal-against-palestine-actions-proscription",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aeb13c0566c-1793790912.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-11-04T19:18:46Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Which Guns And Optics Are Best According To Battle-Tested Ukrainian Soldiers",
+      "description": "Ukrainian troops explain their affinity for HK416s and locally-built UAR-15s rifles, Holosun and Eotech optics, and much more.",
+      "url": "https://www.twz.com/land/which-guns-and-optics-are-best-according-to-battle-tested-ukrainian-soldiers",
+      "imageUrl": "https://www.twz.com/wp-content/uploads/2026/11/HK416-ukraine-Guns.jpg?w=1200",
+      "source": "TWZ",
+      "authoritative": false,
+      "publishedAt": "2026-11-04T19:17:22Z",
+      "category": "conflict",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    }
+  ]
+}

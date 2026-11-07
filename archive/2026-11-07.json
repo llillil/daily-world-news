@@ -1,0 +1,138 @@
+{
+  "date": "2026-11-07",
+  "updatedAt": "2026-11-07T06:47:35.593Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Putin Urges African Nations to；Israel, Middle East wouldn't exist；Thomas Markle Sr arrested and。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "politics": 7,
+      "conflict": 2,
+      "disaster": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Putin Urges African Nations to Adopt Russian-Backed Alternative Payment System",
+      "description": "Russian President Vladimir Putin and officials presented A7, a new international payment platform, to African leaders at the Russia-Africa Summit, highlighting its speed, low cost, and independence fr",
+      "url": "https://ng.headtopics.com/news/putin-urges-african-nations-to-adopt-russian-backed-89623577",
+      "imageUrl": "https://ng.headtopics.com/statics/icons/ht/android-icon-36x36.png",
+      "source": "Head Topics",
+      "authoritative": false,
+      "publishedAt": "2026-11-06T18:46:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Israel, Middle East wouldn't exist if I didn't stop Iran from having nuke: Trump",
+      "description": "Donald Trump made the claim in a post on his Truth Social platform, saying the role he played in stopping Iran's nuclear ambitions was widely known but rarely acknowledged.",
+      "url": "https://www.indiatoday.in/world/story/trump-says-israel-entire-middle-east-would-not-exist-if-he-did-not-stop-iran-from-having-nuclear-weapon-3034166-2026-11-07",
+      "imageUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/story/202611/donald-trump-061806410-16x9_0.png?VersionId=dvovlmXXQbCc7U3lyP4HRN_opOqex_rk",
+      "source": "India Today",
+      "authoritative": false,
+      "publishedAt": "2026-11-06T18:42:50Z",
+      "category": "conflict",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Thomas Markle Sr arrested and charged with possession of child sex abuse materials",
+      "description": "Thomas Markle, the estranged father of Meghan, Duchess of Sussex, has been arrested and charged with possessing child sex abuse material, following the alleged discovery of the items at properties lin",
+      "url": "https://www.news.com.au/entertainment/celebrity-life/thomas-markle-arrested-by-fbi/news-story/e36795c914b501287bb2f37f5ee0dcd6",
+      "imageUrl": "https://content.api.news/v3/images/bin/221cb6fe0f3831dbb47904cb2693533c",
+      "source": "News.com.au",
+      "authoritative": false,
+      "publishedAt": "2026-11-06T18:41:56Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "New data suggests Peltola likely to win Alaska, voters not confused by 2 Dan Sullivans",
+      "description": "Read more here.",
+      "url": "https://www.democracydocket.com/news-alerts/new-data-suggests-peltola-likely-to-win-alaska-voters-not-confused-by-2-dan-sullivans/",
+      "imageUrl": "https://www.democracydocket.com/wp-content/uploads/2026/10/AP26011486023368-1536x1024.jpg",
+      "source": "Democracy Docket",
+      "authoritative": false,
+      "publishedAt": "2026-11-06T18:28:03Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "EU rejects Trump’s 'big beautiful' security deal with Russia and 'all of Europe'",
+      "description": "European leaders push back against Washington’s proposal for a broader security framework, warning that Moscow cannot dictate the continent’s future as US-led peace negotiations over Ukraine prepare t",
+      "url": "https://www.euronews.com/2026/11/06/eu-rejects-trumps-big-beautiful-security-deal-with-russia-and-all-of-europe",
+      "imageUrl": "https://images.euronews.com/articles/stories/09/98/20/53/1200x675_cmsv2_0e051b46-e7f8-5dab-a34f-221eca074797-9982053.jpg",
+      "source": "Euronews.com",
+      "authoritative": false,
+      "publishedAt": "2026-11-06T18:26:43Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Hakim Adi’s “Pan-Africanism and Communism”: A pro-Stalinist attempt to erase the Trotskyist alternative - Part Five",
+      "description": "Part five of a 10-part series on British historian Hakim Adi’s book on the Communist International and Africa examines how it erases Leon Trotsky’s role in founding the International and his theory of",
+      "url": "https://www.wsws.org/en/articles/2026/11/06/mgbv-n06.html",
+      "imageUrl": "https://www.wsws.org/asset/64833f0e-d366-43ff-8b4c-6f6b03c6f863?rendition=1600x900",
+      "source": "World Socialist Web Site",
+      "authoritative": false,
+      "publishedAt": "2026-11-06T18:21:54Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "\"Israel Would Not Exist If I Did Not Stop Iran From Having Nuke\": Trump",
+      "description": "This is not the first time he has credited himself for Israel's survival. In an interview with Fox News, he said, \"Frankly, if I weren't president of the United States, Israel today would not exist.\"",
+      "url": "https://www.ndtv.com/world-news/israel-would-not-exist-if-i-did-not-stop-iran-from-having-nuke-trump-12294716",
+      "imageUrl": "https://c.ndtvimg.com/2025-04/hbl5vgno_trump-benjamin-netanyahu_625x300_08_April_25.jpeg?im=FeatureCrop,algorithm=dnn,width=1600,height=900",
+      "source": "NDTV",
+      "authoritative": false,
+      "publishedAt": "2026-11-06T18:21:52Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Badger rescuer criticised by wildlife welfare charities",
+      "description": "Three charities say the case of Harriet the badger raises serious animal welfare concerns.",
+      "url": "https://www.bbc.com/news/articles/cm20vvdp5dw6o",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/320a/live/51adb920-da04-11f1-84c1-dbcae60402d7.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-11-06T18:20:49Z",
+      "category": "disaster",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Participants from 11 countries attend SRFTI media training",
+      "description": "SRFTI hosts a 3-week ITEC broadcast news training for 11 countries (Oct 26–Nov 13), with tours of Doordarshan Kolkata and UNESCO Santiniketan.",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/participants-from-11-countries-attend-srfti-media-training/articleshow/135617958.cms",
+      "imageUrl": "https://static.toiimg.com/thumb/msid-135617957,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg",
+      "source": "The Times of India",
+      "authoritative": false,
+      "publishedAt": "2026-11-06T18:19:00Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Asia-Pacific’s Energy Security Push Could Reshape Millions of Jobs, but Workers Face an Unequal Transition",
+      "description": "The Middle East crisis could accelerate Asia-Pacific's shift away from imported fossil fuels, creating new employment opportunities in renewable energy, storage and electrification. But the Internatio",
+      "url": "https://www.devdiscourse.com/article/business/4002074-asia-pacifics-energy-security-push-could-reshape-millions-of-jobs-but-workers-face-an-unequal-transition",
+      "imageUrl": "https://www.devdiscourse.com/img?imageUrl=https://devdiscourse.blob.core.windows.net/devnews/05_11_2026_17_44_18_3028718.png&width=920&format=jpeg",
+      "source": "Devdiscourse",
+      "authoritative": false,
+      "publishedAt": "2026-11-06T18:18:31Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

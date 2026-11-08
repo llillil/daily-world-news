@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-08",
+  "updatedAt": "2026-11-08T06:53:43.691Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Iran steps up diplomatic outreach；Singapore Adds 8 New Occupations；Paraguay’s ousted president charged over。本日共收录 8 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 8,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "politics": 5,
+      "economy": 1,
+      "conflict": 1,
+      "tech": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Iran steps up diplomatic outreach as Araghchi contacts 12 fo",
+      "description": "Iran steps up diplomatic outreach as Araghchi contacts 12 foreign ministers; Tehran warns US of a “devastating response” if war resumes.",
+      "url": "https://www.pakistantoday.com.pk/2026/11/07/iran-steps-up-diplomatic-outreach-warns-us-against-renewed-war",
+      "imageUrl": "https://www.pakistantoday.com.pk/uploads/Araghchi-contacts-1794077376131-7ldct2.jpg",
+      "source": "Pakistan Today",
+      "authoritative": false,
+      "publishedAt": "2026-11-07T18:52:02Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Singapore Adds 8 New Occupations to Work Permit List, Sets Salary and Hiring Conditions",
+      "description": "Singapore widened access to work permit system, opening new opportunities for foreign workers in additional sectors while employers prepare to adjust hiring plans.",
+      "url": "https://www.tuko.co.ke/world/646022-singapore-adds-8-occupations-work-permit-list-sets-salary-hiring-conditions/",
+      "imageUrl": "https://cdn.tuko.co.ke/images/1200x675/a0bd08516c086c3a.jpeg?v=1",
+      "source": "Tuko News",
+      "authoritative": false,
+      "publishedAt": "2026-11-07T18:43:07Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Paraguay’s ousted president charged over banking scandal",
+      "description": "Santiago Pena was impeached over the collapse of Ueno Bank, which left millions unable to access their accounts.",
+      "url": "https://www.aljazeera.com/economy/2026/11/7/paraguays-ousted-president-charged-over-banking-scandal",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6aef5ef13c2a-1794072305.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-11-07T18:38:33Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Woman finds dead baby in relative's basement freezer as police investigate",
+      "description": "The body was found in a basement apartment in western Spain",
+      "url": "https://www.birminghammail.co.uk/news/world-news/woman-finds-dead-baby-late-34879236",
+      "imageUrl": "https://i2-prod.birminghammail.co.uk/article34879209.ece/ALTERNATES/s1200d/0_Aerial-view-Allariz-village-homes-green-mountains.jpg",
+      "source": "Birmingham Live",
+      "authoritative": false,
+      "publishedAt": "2026-11-07T18:34:44Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Pope Leo urges South America to bridge divides on Uruguay stop of 12-day tour",
+      "description": "Leo urged South American countries to ​set an example ⁠for international cooperation.",
+      "url": "https://www.reuters.com/world/americas/pope-leo-urges-south-america-bridge-divides-uruguay-argentina-border-2026-11-07/",
+      "imageUrl": "https://www.reuters.com/resizer/v2/L5GJQSQKR5MVBN5LOZOSOCX2FA.jpg?auth=3370e18544e5d5725b93224a488d537d8923d41397bd10ea26d4ab352be0d603&height=1005&width=1920&quality=80&smart=true",
+      "source": "Reuters",
+      "authoritative": true,
+      "publishedAt": "2026-11-07T18:32:13Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Year Residence Permit for Parents of Golden Visa Investors",
+      "description": "Dubai has published the cost and four application steps for Golden Visa investors seeking a 10-year residence permit for their parents to live in the UAE.",
+      "url": "https://www.tuko.co.ke/world/646021-dubai-announces-cost-10-year-residence-permit-parents-golden-visa-investors/",
+      "imageUrl": "https://cdn.tuko.co.ke/images/1200x675/1a40818061832547.jpeg?v=1",
+      "source": "Tuko News",
+      "authoritative": false,
+      "publishedAt": "2026-11-07T18:21:31Z",
+      "category": "economy",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    },
+    {
+      "title": "US offers $20m reward for information about Iran's nuclear programme",
+      "description": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities.",
+      "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo",
+      "imageUrl": "https://ichef.bbci.co.uk/ace/branded_news/1200/cpsprodpb/0b84/live/0f887590-dad0-11f1-93e1-3b657b665bcf.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-11-07T18:14:38Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "With an ode to mate, Pope Leo urges faithful in Uruguay to build bridges of fraternity and faith",
+      "description": "More than 30,000 people — many from Uruguay but also from neighboring Argentina and Brazil — had registered in advance to attend the service. The Vatican said Saturday that another 10,000 had attended",
+      "url": "https://www.pbs.org/newshour/world/with-an-ode-to-mate-pope-leo-urges-faithful-in-uruguay-to-build-bridges-of-fraternity-and-faith",
+      "imageUrl": "https://d3i6fh83elv35t.cloudfront.net/static/2026/11/2026-11-07T141913Z_663689193_RC22JOACPIOI_RTRMADP_3_POPE-LATAM-URUGUAY-1024x683.jpg",
+      "source": "PBS",
+      "authoritative": false,
+      "publishedAt": "2026-11-07T18:14:13Z",
+      "category": "tech",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    }
+  ]
+}

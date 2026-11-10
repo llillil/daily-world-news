@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-10",
+  "updatedAt": "2026-11-10T07:57:57.200Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Germany races to master electronic；Full List: US Warns Against；Trump’s back on script, suggesting。本日共收录 8 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 8,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "conflict": 1,
+      "tech": 2,
+      "politics": 4,
+      "policy": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Germany races to master electronic warfare",
+      "description": "Near NATO's eastern frontier, German troops are deploying cutting-edge electronic surveillance systems designed to locate, track and disrupt adversaries long before combat begins. DW reports from Lith",
+      "url": "https://www.dw.com/en/germany-races-to-master-electronic-warfare/video-79880003",
+      "imageUrl": "https://static.dw.com/image/79880069_6.jpg",
+      "source": "DW.com",
+      "authoritative": true,
+      "publishedAt": "2026-11-09T19:49:27Z",
+      "category": "conflict",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Full List: US Warns Against Travelling to 23 Countries, \"These Places Are Dangerous\"",
+      "description": "The United States has listed 23 countries that are no-go-area and gave reason for the restriction. You need to see the reason for the development coming from the US.",
+      "url": "https://www.legit.ng/world/us/1740450-full-list-warns-traveling-23-countries-places-dangerous/",
+      "imageUrl": "https://cdn.legit.ng/images/1200x675/543fb1f50fb664ba.jpeg?v=1",
+      "source": "Legit News",
+      "authoritative": false,
+      "publishedAt": "2026-11-09T19:48:49Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Trump’s back on script, suggesting fraud in Midterm election results",
+      "description": "United States President Donald Trump has revived baseless allegations of election fraud, reversing his initial acceptance of last week’s Midterm results...",
+      "url": "https://www.nzherald.co.nz/world/trumps-back-on-script-suggesting-fraud-in-midterm-election-results/EUVISGWVWFB7ZNXUNQVGVHQKMI/",
+      "imageUrl": "https://www.nzherald.co.nz/resizer/v2/76EWIHZCJNDR7EHA2M3Q4GXSEA.jpg?auth=a8d9606f39c5238881d3727d6c4e1938cfa86b652da3668a071e636a37219d17&width=1200&height=675&quality=70&focal=909%2C428&smart=false",
+      "source": "NZ Herald",
+      "authoritative": false,
+      "publishedAt": "2026-11-09T19:48:08Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Trump has finally decided the midterms were rigged. It smacks of desperation",
+      "description": "'Trump’s intervention on Monday was once again rooted in the proven falsehood that there is a problem with the nation’s voting machines'",
+      "url": "https://inews.co.uk/news/world/trump-decided-midterms-rigged-desperation-4885274",
+      "imageUrl": "https://inews.co.uk/wp-content/uploads/2026/10/SEI_317770576.jpg?crop=0px,51px,1920px,1085px&resize=1200,675",
+      "source": "The i Paper",
+      "authoritative": false,
+      "publishedAt": "2026-11-09T19:46:59Z",
+      "category": "tech",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "German Chancellor Merz threatens to block EU budget unless four holdouts - Hungary, Slovakia, Bulgaria, and the Czech Republic - commit to funding Ukraine - Meduza",
+      "description": "German Chancellor Friedrich Merz has pledged to block adoption of the EU’s 2028–2034 budget unless all member states commit to long-term financial support for Ukraine, the Financial Times reported, ci",
+      "url": "https://meduza.io/en/news/2026/11/09/german-chancellor-merz-threatens-to-block-eu-budget-unless-four-holdouts-hungary-slovakia-bulgaria-and-the-czech-republic-commit-to-funding-ukraine",
+      "imageUrl": "https://meduza.io/imgly/share/1794253441/en/news/2026/11/09/german-chancellor-merz-threatens-to-block-eu-budget-unless-four-holdouts-hungary-slovakia-bulgaria-and-the-czech-republic-commit-to-funding-ukraine",
+      "source": "Meduza",
+      "authoritative": false,
+      "publishedAt": "2026-11-09T19:44:00Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "NCLA to SCOTUS: Restore Court Hearings in Regulatory Cases, Toss \"Public Rights” Exception",
+      "description": "Sligo Creek Center v. U.S. Department of Health and Human Services",
+      "url": "https://www.manilatimes.net/2026/11/10/tmt-newswire/globenewswire/ncla-to-scotus-restore-court-hearings-in-regulatory-cases-toss-public-rights-exception/2465655",
+      "imageUrl": "https://manilatimes.net/manilatimes/uploads/images/2026/11/10/1299265.png",
+      "source": "The Manila Times",
+      "authoritative": false,
+      "publishedAt": "2026-11-09T19:43:45Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Republican Congressman Thomas Massie files resolution against US Defence Secretary",
+      "description": "Thomas Massie accused Hegseth of ignoring laws that minimise civilian casualties, conducting extrajudicial killings, suppressing free speech and kidnapping a foreign leader in eight articles of impeac",
+      "url": "https://www.brisbanetimes.com.au/world/north-america/republican-congressman-files-resolution-to-impeach-pete-hegseth-20261110-p61crg.html",
+      "imageUrl": "https://static.ffx.io/images/$zoom_0.2595%2C$multiply_0.7554%2C$ratio_1.777778%2C$width_1059%2C$x_0%2C$y_0/t_crop_custom/q_86%2Cf_auto/7c0c40e5df6ef971e108c5a085cb12e79d359ed7",
+      "source": "Brisbane Times",
+      "authoritative": false,
+      "publishedAt": "2026-11-09T19:41:52Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Australia Sets Minimum Age Foreigners Must Reach to Apply for Citizenship",
+      "description": "Australia has outlined the minimum age requirement for foreign nationals seeking to become Australian citizens through its citizenship application process.",
+      "url": "https://www.legit.ng/people/1740448-australia-sets-minimum-age-foreigners-reach-apply-citizenship/",
+      "imageUrl": "https://cdn.legit.ng/images/1200x675/286a3a2272d5fa50.jpeg?v=1",
+      "source": "Legit News",
+      "authoritative": false,
+      "publishedAt": "2026-11-09T19:38:44Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

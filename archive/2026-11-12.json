@@ -1,0 +1,126 @@
+{
+  "date": "2026-11-12",
+  "updatedAt": "2026-11-12T07:55:22.065Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：‘The only way to get；Millions of Spaniards demand housing；Ukraine talks in Abu Dhabi。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "tech": 2,
+      "politics": 6,
+      "conflict": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "‘The only way to get this done’: Why the US wants Europe at Ukraine talks next time",
+      "description": "The truth is, it was never just about Ukraine for Putin. Washington now understands this – and that’s both good for Europe, and potentially terrifying as well.",
+      "url": "https://www.politico.eu/article/why-the-us-wants-europe-at-ukraine-talks-next-time/",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/11/GettyImages-2304000470-scaled.jpg",
+      "source": "POLITICO.eu",
+      "authoritative": false,
+      "publishedAt": "2026-11-11T19:53:00Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Millions of Spaniards demand housing reform during nationwide strike",
+      "description": "Ahead of a Nov. 29 snap election, workers took to the streets to protest rising costs and stagnant wages",
+      "url": "https://www.theglobeandmail.com/world/article-spain-nationwide-strike-housing-reform-protest/",
+      "imageUrl": "https://www.theglobeandmail.com/resizer/v2/5NDLKYSATZFTFNGLELYE6F3PEI.JPG?auth=3e1b81eaaf08a6177be78653ff352b1c13e1d5aff0e7f7004ed32884c63bdf35&width=1200&height=800&quality=80&smart=true",
+      "source": "The Globe and Mail",
+      "authoritative": false,
+      "publishedAt": "2026-11-11T19:48:23Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Ukraine talks in Abu Dhabi bring progress on prisoners but not on peace",
+      "description": "US envoys to visit Moscow and Dublin on Thursday for talks with Vladimir Putin and Volodymyr Zelenskyy respectively",
+      "url": "https://www.theguardian.com/world/2026/nov/11/ukraine-talks-in-abu-dhabi-bring-progress-on-prisoners-but-not-on-peace",
+      "imageUrl": "https://i.guim.co.uk/img/media/0a4818254a2d1f8ad06630c7b042626105bdf640/424_0_5000_4000/master/5000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e00854bc81f2e1863118fd7d52012e60",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-11-11T19:48:00Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Ukraine Strikes Russian Baltic Fleet Ship Capable of Launching Kalibr and Onyx Missiles",
+      "description": "Ukraine's Security Service struck the Russian missile ship Naro-Fominsk, a Project 21631 Buyan-M vessel launched in 2022, during a nighttime operation.",
+      "url": "https://united24media.com/war-in-ukraine/ukraine-strikes-russian-baltic-fleet-ship-capable-of-launching-kalibr-and-onyx-missiles-24295",
+      "imageUrl": "https://storage.united24media.com/og/7/99/fda6efbb47ab982b660a36de94ca3997.jpg",
+      "source": "UNITED24 Media",
+      "authoritative": false,
+      "publishedAt": "2026-11-11T19:46:15Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Mali: Wrapping up visit, United Nations (UN) relief chief announces $8 million to tackle drought before it strikes",
+      "description": "The Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator, Tom Fletcher, wrapped up a three-day visit to Mali today. Fletcher said that Mali is a country of extraordinary h",
+      "url": "https://africa.com/apo/mali-wrapping-up-visit-united-nations-un-relief-chief-announces-8-million-to-tackle-drought-before-it-strikes",
+      "imageUrl": "https://cdn.cms.africa.com/wp-content/uploads/2026/11/250-220.png",
+      "source": "Africa.com",
+      "authoritative": false,
+      "publishedAt": "2026-11-11T19:45:00Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Walliams and Brand now part of a reckoning over sexual misconduct",
+      "description": "Both household names — each with hugely popular shows in the 2000s and 2010s — has prompted questions about why it took so long for their stars to fall.",
+      "url": "https://www.1news.co.nz/2026/11/12/walliams-and-brand-now-part-of-a-reckoning-over-sexual-misconduct/",
+      "imageUrl": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/this-combo-shows-comedian-and-actor-russell-brand-left-as-he-YJGFSNX6PJDKHF3YPJ6DVZ66WE.png?auth=0cca09ab5252aab4cab5c7af6e5a5a674e097c16eeca984c2a218237a916ae15&quality=70&width=600&height=315&focal=995%2C403",
+      "source": "1News",
+      "authoritative": false,
+      "publishedAt": "2026-11-11T19:43:13Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "BBNJ COP1: Turning ambition into action for ocean conservation",
+      "description": "The ocean beyond national jurisdiction, known as the high seas, comprises nearly two-thirds of the ocean’s area and over 90% of the living space on Earth.  The high seas play a key role for many impor",
+      "url": "https://wwf.panda.org/discover/oceans/ocean_news/?16541866/BBNJ-COP1-Turning-ambition-into-action-for-ocean-conservation",
+      "imageUrl": "https://wwfeu.awsassets.panda.org/img/wwf_logo_750_x_600_741023.jpg",
+      "source": "Panda.org",
+      "authoritative": false,
+      "publishedAt": "2026-11-11T19:38:57Z",
+      "category": "politics",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Hakim Adi’s “Pan-Africanism and Communism”: A pro-Stalinist attempt to erase the Trotskyist alternative - Part Nine",
+      "description": "Part nine of a 10-part series on British historian Hakim Adi’s book on the Communist International and Africa examines how it erases Leon Trotsky’s role in founding the International and his theory of",
+      "url": "https://www.wsws.org/en/articles/2026/11/11/lrhe-n11.html",
+      "imageUrl": "https://www.wsws.org/asset/fc5028c3-a414-48a0-be92-8a6b9f88437f?rendition=1600x900",
+      "source": "World Socialist Web Site",
+      "authoritative": false,
+      "publishedAt": "2026-11-11T19:36:43Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "NASCON expands food portfolio with new Dangote seasonings",
+      "description": "NASCON Allied Industries Plc is stepping up its diversification drive with the launch of three Dangote seasoning products, deepening its",
+      "url": "https://businessday.ng/news/article/nascon-expands-food-portfolio-with-new-dangote-seasonings/",
+      "imageUrl": "https://cdn.businessday.ng/wp-content/uploads/2026/11/IMGM34411-2-scaled.jpg",
+      "source": "Business News Nigeria",
+      "authoritative": false,
+      "publishedAt": "2026-11-11T19:36:36Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

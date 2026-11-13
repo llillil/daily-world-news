@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-13",
+  "updatedAt": "2026-11-13T07:33:20.373Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：African universities urged to lead；Widespread global outages affecting Microsoft；Iran threatens US bases in。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "policy": 2,
+      "politics": 6,
+      "conflict": 1,
+      "tech": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "African universities urged to lead green transition through innovation",
+      "description": "African universities have been urged to move beyond their traditional roles of teaching and research to become centres of innovation, industrial development and policy solutions to help the continent ",
+      "url": "https://www.graphic.com.gh/lifestyle/african-universities-urged-to-lead-green-transition-through-innovation.html",
+      "imageUrl": "https://www.graphic.com.gh/images/2026/Nov/12/abor.jpg",
+      "source": "Graphic Online",
+      "authoritative": false,
+      "publishedAt": "2026-11-12T19:31:41Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Widespread global outages affecting Microsoft platforms, including Outlook",
+      "description": "A global outage has hit Microsoft platforms including Outlook, with many users encountering trouble using their email accounts and other errors across the tech giant's suite of apps.",
+      "url": "https://www.abc.net.au/news/2026-11-13/microsoft-outlook-outage/107380958",
+      "imageUrl": "https://live-production.wcms.abc-cdn.net.au/09310ea06a13172e4cb24b122eb46069?impolicy=wcms_watermark_news&cropH=2813&cropW=5000&xPos=0&yPos=269&width=862&height=485&imformat=generic",
+      "source": "ABC News & Headlines – Australian Broadcasting Corporation",
+      "authoritative": true,
+      "publishedAt": "2026-11-12T19:29:40Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Iran threatens US bases in Europe if Washington resumes war: What to know",
+      "description": "Iran is rebuilding its missile capabilities and recently said it lifted self-imposed limits on the range of its ballistic missiles.",
+      "url": "https://www.al-monitor.com/originals/2026/11/iran-threatens-us-bases-europe-if-washington-resumes-war-what-know",
+      "imageUrl": "https://www.al-monitor.com/sites/default/files/styles/social_media_share/public/2026-11/GettyImages-2304264889.jpg?h=3d024eaf&itok=8csLIbJt",
+      "source": "Al-Monitor",
+      "authoritative": false,
+      "publishedAt": "2026-11-12T19:29:00Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Panama: Earthquake in Azuero & Veraguas - Situation Report No. 09 (as of 11 November 2026, 12:30)",
+      "description": "Situation Report in English on Panama about Camp Coordination and Camp Management, Coordination, Earthquake and more; published on 12 Nov 2026 by OCHA and UNCT Panama",
+      "url": "https://reliefweb.int/report/panama/panama-earthquake-azuero-veraguas-situation-report-no-09-11-november-2026-1230",
+      "imageUrl": "https://reliefweb.int/sites/default/files/styles/large/public/previews/d4/f0/d4f004bb-c7a5-43fd-9dcd-2bd431e83564.png",
+      "source": "ReliefWeb",
+      "authoritative": false,
+      "publishedAt": "2026-11-12T19:20:44Z",
+      "category": "politics",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    },
+    {
+      "title": "Air-miles Andy (no, not that one) takes on climate change in his PJs",
+      "description": "Blink and you’ll miss him, as Burnham hops from one private jet flight to another to warn of the dangers of emissions",
+      "url": "https://www.thetimes.com/uk/politics/article/air-miles-andy-no-not-that-one-takes-on-climate-change-in-his-pjs-s8hx2dwrn",
+      "imageUrl": "https://www.thetimes.com/imageserver/image/897d0598-453e-4159-b178-69677d4150d5.jpg?strip=all&format=webp&crop=1600px%2C900px%2C0px%2C0px&resize=1200",
+      "source": "The Times",
+      "authoritative": false,
+      "publishedAt": "2026-11-12T19:20:00Z",
+      "category": "policy",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Zelenskyy and Rutte Discuss Air Defense Shortages and Starshield Disruptions at Dublin Summit",
+      "description": "Zelenskyy met NATO chief Mark Rutte in Dublin on Nov. 12 to discuss PAC-2 and PAC-3 air defense missiles.",
+      "url": "https://united24media.com/war-in-ukraine/zelenskyy-and-rutte-discuss-air-defense-shortages-and-starshield-disruptions-at-dublin-summit-24331",
+      "imageUrl": "https://storage.united24media.com/og/0/e2/8e36bfdd109004a72ae7dc2d91475e20.jpg",
+      "source": "UNITED24 Media",
+      "authoritative": false,
+      "publishedAt": "2026-11-12T19:19:37Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "U.S. no longer needs peace deal with Iran, Trump says",
+      "description": "U.S. President directs Vance to focus on alleged Democratic corruption instead of peace efforts in Middle East",
+      "url": "https://www.theglobeandmail.com/world/article-us-iran-war-trump-vance-deal/",
+      "imageUrl": "https://www.theglobeandmail.com/resizer/v2/2VL63FZSMBGLNNZYDSWFO6LLNE.jpg?auth=b627a8fd2b2c772889e46b9b5ecb9b34a95e60f6f96e578901ce19ecdd41f215&width=1200&height=800&quality=80&smart=true",
+      "source": "The Globe and Mail",
+      "authoritative": false,
+      "publishedAt": "2026-11-12T19:17:24Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "17-year-old camper in Australia is found after nearly a week missing in wilderness",
+      "description": "A missing camper is lucky to be alive after police in Australia located a teenager in the wilderness after nearly a week.",
+      "url": "https://www.foxweather.com/lifestyle/17-year-old-camper-rescued-from-australian-wilderness-after-nearly-week-missing",
+      "imageUrl": "https://images.foxweather.com/static.foxweather.com/www.foxweather.com/content/uploads/2026/11/1024/512/screenshot-2026-11-12-141604.png?ve=1&tl=1",
+      "source": "FOX Weather",
+      "authoritative": false,
+      "publishedAt": "2026-11-12T19:16:44Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Crash Involving 23 Vehicles Kills 14 in UAE",
+      "description": "A late-night traffic jam at the entrance to the Emirate of Fujairah turned disastrous Wednesday night when a driver lost control of a truck and plowed into vehicles, igniting...",
+      "url": "https://www.newser.com/story/399926/crash-involving-23-vehicles-kills-14-in-uae.html",
+      "imageUrl": "https://cdn.newser.com/image/1724130-12-20261112134404.jpeg",
+      "source": "Newser",
+      "authoritative": false,
+      "publishedAt": "2026-11-12T19:15:00Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Multiple people shot, police say",
+      "description": "Five people were shot Thursday in a trendy Washington, D.C., neighbourhood within walking distance of the White House, police said, and the suspected gunman shot himself as a swarm of officers respond",
+      "url": "https://www.cp24.com/news/world/2026/11/12/5-people-shot-in-trendy-washington-neighbourhood-including-1-killed-at-a-gym/",
+      "imageUrl": "https://www.cp24.com/resizer/v2/B4F32FQRRJHUFAN43CO7TXAW5I.jpg?smart=true&auth=4a80caed4d4aeee9a7fed959129fae33558aaa1fac8548a639ba06977298eaa7&width=1200&height=630",
+      "source": "CP24",
+      "authoritative": false,
+      "publishedAt": "2026-11-12T19:14:56Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

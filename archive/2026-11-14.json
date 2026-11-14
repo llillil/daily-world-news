@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-14",
+  "updatedAt": "2026-11-14T07:17:37.401Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Turkey, Qatar sign defense agreement,；Trump Calls on Tim Cook；Supreme Court to hear Trump’s。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "policy": 2,
+      "politics": 4,
+      "tech": 3,
+      "conflict": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Turkey, Qatar sign defense agreement, accuse Israel of violating Gaza peace plan",
+      "description": "\"Both sides expressed deep concern regarding ongoing Israeli violations in Gaza that undermine the implementation of the Gaza peace plan,\" the Qatari Foreign Ministry said.",
+      "url": "https://www.jpost.com/middle-east/article-914824",
+      "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/746231",
+      "source": "The Jerusalem Post",
+      "authoritative": false,
+      "publishedAt": "2026-11-13T19:15:46Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Trump Calls on Tim Cook to Take Over Nvidia Amid Jensen Huang Resignation Speculation",
+      "description": "President Donald Trump has called for Apple Executive Chairman Tim Cook to replace Jensen Huang as chief executive of Nvidia.",
+      "url": "https://www.tekedia.com/trump-calls-on-tim-cook-to-take-over-nvidia-amid-jensen-huang-resignation-speculation/",
+      "imageUrl": "https://www.tekedia.com/wp-content/uploads/2017/11/Tim-Cook.png",
+      "source": "Tekedia",
+      "authoritative": false,
+      "publishedAt": "2026-11-13T19:15:45Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Supreme Court to hear Trump’s asylum suspension at border",
+      "description": "The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal.",
+      "url": "https://spectrumlocalnews.com/nc/triad/politics/2026/11/13/supreme-court-trump-executive-order-suspending-asylum-southern-border",
+      "imageUrl": "https://s7d2.scene7.com/is/image/TWCNews/asylum_AP_26295509807652_NAT_1113",
+      "source": "Spectrum News",
+      "authoritative": false,
+      "publishedAt": "2026-11-13T19:14:00Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Microsoft outage: ‘Broad recovery’ for Outlook and other services around globe",
+      "description": "Microsoft has apologised for a global outage that disrupted public services and businesses around the world, as it reported a “broad recovery” for Outlook...",
+      "url": "https://www.nzherald.co.nz/world/microsoft-outage-improvements-for-outlook-and-other-services-around-globe/PZYAOUDJKVAIRBOIGXZLIOYQMA/",
+      "imageUrl": "https://www.nzherald.co.nz/resizer/v2/OQGGFNPPYJNLPI3DGIG2UDVHQY.jpg?auth=08a2714b2246b2c633eb112a1bbadcecd50b1eecb663ee2c24d6c868f38e22d7&width=1200&height=675&quality=70&focal=1984%2C1184&smart=false",
+      "source": "NZ Herald",
+      "authoritative": false,
+      "publishedAt": "2026-11-13T19:13:37Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "A Service That Has Never Existed Before Will Appear on the Estonian Island Popular with Latvians",
+      "description": "As reported by the BNS agency, on November 16, the Luutar network will open its branch in the Auriga shopping center in Kuressaare, the largest city in Saaremaa.",
+      "url": "https://news.inbox.eu/150zogs-a-service-that-has-never-existed-before-will-appear-on-the-estonian-island-popular-with-latvians?language=en",
+      "imageUrl": "https://news.inbox.eu/w/img/06/63/0663190047ae00eeff.webp",
+      "source": "Inbox.eu",
+      "authoritative": false,
+      "publishedAt": "2026-11-13T19:08:07Z",
+      "category": "tech",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "FBI Seizes Drugs, Firearm Hidden In Dog Food During Louisiana Operation",
+      "description": "The Federal Bureau of Investigation (FBI) has announced the seizure of drugs and a firearm during a coordinated operation targeting violent",
+      "url": "https://www.tvcnews.tv/fbi-seizes-drugs-firearm-hidden-in-dog-food-during-louisiana-operation/",
+      "imageUrl": "https://tvcnews.tv/wp-content/uploads/2026/11/FBI-New1.png",
+      "source": "TVC News",
+      "authoritative": false,
+      "publishedAt": "2026-11-13T19:07:00Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
+      "description": "Seven Americans on their hopes for Colom, 43, Mississippi’s first Black senator since Reconstruction",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
+      "imageUrl": "https://i.guim.co.uk/img/media/d44aa90d0059f02ead98da8901aa6963436e63ba/2_0_2624_2100/master/2624.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=a1431645714e6a4204a70e7a7222e30c",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-11-13T19:05:00Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "TechReviewAfrica - News Details",
+      "description": "Your Trusted Tech News Platform",
+      "url": "https://techreviewafrica.com/news/8295/itu-pp-26-doha-african-union-and-zimbabwe-coordinate-positions-ahead-of-itu-pp-26-elections",
+      "imageUrl": "https://techreviewafrica.com/assets/images/news/2026/11/13/6af75e4f227ac1794596431.jpg",
+      "source": "Tech Review Africa",
+      "authoritative": false,
+      "publishedAt": "2026-11-13T19:04:10Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Gulf in limbo as Trump says no Iran deal needed : NPR",
+      "description": "Trump says \"status quo\" is what Gulf Arab allies want as Iran war hits stalemate and midterms force pivot from threats of attacks to economic pressure",
+      "url": "https://www.npr.org/2026/11/13/g-s1-153578/whats-trumps-strategy-now-with-iran-to-keep-things-as-they-are",
+      "imageUrl": "https://npr.brightspotcdn.com/dims3/default/strip/false/crop/6000x3375+0+313/resize/1400/quality/85/format/webp/?url=http%3A%2F%2Fnpr-brightspot.s3.amazonaws.com%2F22%2Fb9%2F6cf90f6c4b56b83e0634229f9650%2Fap26315362362926.jpg",
+      "source": "NPR",
+      "authoritative": false,
+      "publishedAt": "2026-11-13T19:02:04Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Mountain growth spurts may have sparked complex life on Earth",
+      "description": "Mountain ranges grew higher throughout Earth's history in two distinct \"spurts\" that correlated with the flourishing of biological diversity on our planet, according to new research published in the j",
+      "url": "https://phys.org/news/2026-11-mountain-growth-spurts-complex-life.html",
+      "imageUrl": "https://scx2.b-cdn.net/gfx/news/hires/2026/mountain-growth-spurts.jpg",
+      "source": "Phys.org",
+      "authoritative": false,
+      "publishedAt": "2026-11-13T19:00:02Z",
+      "category": "tech",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    }
+  ]
+}

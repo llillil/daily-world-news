@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-15",
+  "updatedAt": "2026-11-15T07:28:59.543Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Thousands rally against COP31 as；Pope Leo urges end to；FAA ground stop live updates:。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "policy": 2,
+      "politics": 4,
+      "tech": 1,
+      "conflict": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "Thousands rally against COP31 as climate talks hit midpoint",
+      "description": "The show of dissent comes as negotiators approach the crunch final week of global climate talks in Antalya. Read more at straitstimes.com.",
+      "url": "https://www.straitstimes.com/world/middle-east/thousands-rally-against-cop31-as-climate-talks-hit-midpoint",
+      "imageUrl": "https://cassette.sphdigital.com.sg/image/straitstimes/98de9585d51de994d29ea2e5443f873e93480a10f68f092126d7f486140d6be8?t=og",
+      "source": "The Straits Times",
+      "authoritative": false,
+      "publishedAt": "2026-11-14T19:28:00Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Pope Leo urges end to violence in Peru during visit to remote Andes town",
+      "description": "In Santa Cruz de Succhabamba, the pope told people not to respond to injustice with brutality.",
+      "url": "https://www.aljazeera.com/news/2026/11/14/pope-leo-urges-end-to-violence-in-peru-during-visit-to-remote-andes-town",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6af8ab157889-1794681621.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-11-14T19:24:44Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "FAA ground stop live updates: 'Zero evidence of anything nefarious,' FAA head says",
+      "description": "The DHS secretary said there were no indications of a cyberattack.",
+      "url": "https://abcnews.com/US/live-updates/faa-ground-stop-live-updates-hundreds-flights-canceled/?id=138125140",
+      "imageUrl": "https://i.abcnewsfe.com/a/98f50973-2d87-4a05-ae84-d793716ff53a/bedford-presser-rt-jt-261114_1794673426905_hpMain_16x9.jpg?w=1600",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "authoritative": true,
+      "publishedAt": "2026-11-14T19:21:00Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Pentagon Pete’s New Project Slammed as Brazen Self-Dealing",
+      "description": "Pete Hegseth’s latest brainchild is accused of serving as a flagrant money-making scheme for billionaires.",
+      "url": "https://www.thedailybeast.com/pentagon-pete-hegseths-new-project-slammed-as-brazen-self-dealing-in-lawsuit",
+      "imageUrl": "https://media.thedailybeast.com/resizer/v2/X74XMJVOLNG6RHDQLBUYOVAGUY.jpg?auth=75500dd1822b5d45b52135933b65c8af2a67d8b04501076680acf1fcfdf7ce05&width=1200&height=630&focal=1460%2C821",
+      "source": "The Daily Beast",
+      "authoritative": false,
+      "publishedAt": "2026-11-14T19:19:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Punishment Campaign",
+      "description": "On the US midterms.",
+      "url": "https://newleftreview.org/sidecar/posts/punishment-campaign",
+      "imageUrl": "https://newleftreview.org/blog-uploads/2026/11/for-grey.jpg",
+      "source": "New Left Review",
+      "authoritative": false,
+      "publishedAt": "2026-11-14T19:11:31Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "European security plan floated by U.S. would benefit Putin, Zelenskyy says",
+      "description": "Ukrainian President Volodymyr Zelenskyy said the United States had raised the possibility of a new security framework for Europe as part of efforts to end Russia’s war in Ukraine, warning that Moscow ",
+      "url": "https://www.cbc.ca/news/world/european-security-zelenskyy-putin-9.7422273",
+      "imageUrl": "https://i.cbc.ca/ais/0b445307-3812-446b-9e80-b62d4ecf585b,1794677219777/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C271%2C4122%2C2318%29%3BResize%3D620",
+      "source": "CBC",
+      "authoritative": false,
+      "publishedAt": "2026-11-14T19:06:09Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Philippines’ Carmelle wins first Eurovision contest in Asia",
+      "description": "Philippine’s entry, pop and rap song Sobra-Sobra, takes 19-year-old to victory at grand final in Bangkok",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/nov/14/philippines-carmelle-wins-first-eurovision-contest-in-asia",
+      "imageUrl": "https://i.guim.co.uk/img/media/e086ead12105dc2c27d05464ce6db1d81b380886/300_0_3206_2564/master/3206.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=2f4f4e1e33604925a109fe90d3f5e91e",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-11-14T19:04:36Z",
+      "category": "policy",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Iran state TV says modified missile could reach US base in Britain",
+      "description": "Iranian state television has warned that modified versions of the country's Khorramshahr ballistic missile could reach American military bases in Europe, explicitly naming RAF Fairford in Britain as a",
+      "url": "https://www.iranintl.com/en/202611141458",
+      "imageUrl": "https://i.iranintl.com/images/rdk9umy0/production/ac8bf211c1d474e8cd42767b69b4a8b689f66502-800x450.jpg?rect=46,48,677,355&w=1200&h=630&q=66&fit=max&auto=format",
+      "source": "Iran International",
+      "authoritative": false,
+      "publishedAt": "2026-11-14T19:04:34Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Scientists Issue 'Words of Warning' After Strange Discovery in Danish Skeletons",
+      "description": "There's something strange about some of the skeletons buried in monasteries in Denmark.",
+      "url": "https://www.sciencealert.com/scientists-issue-words-of-warning-after-strange-discovery-in-danish-skeletons",
+      "imageUrl": "https://www.sciencealert.com/images/2026/11/skeleton.jpg",
+      "source": "ScienceAlert",
+      "authoritative": true,
+      "publishedAt": "2026-11-14T19:02:09Z",
+      "category": "conflict",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    }
+  ]
+}

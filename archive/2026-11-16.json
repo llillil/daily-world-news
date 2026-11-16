@@ -1,0 +1,115 @@
+{
+  "date": "2026-11-16",
+  "updatedAt": "2026-11-16T07:34:44.958Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：Zelensky urges US and Musk；Yemen's Houthis advance on Aden；Texas puts to death man。本日共收录 8 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 8,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 1,
+    "categories": {
+      "politics": 3,
+      "conflict": 1,
+      "policy": 2,
+      "tech": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "description": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "url": "https://www.bbc.com/news/articles/c6m25zg88k45o",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/8bb5/live/938b6e20-e114-11f1-a7db-d90284d21c62.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-11-15T19:32:39Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Yemen's Houthis advance on Aden as government forces retreat to defend their capital",
+      "description": "Houthi forces in Yemen have advanced to within 60 kilometres of Aden, the seat of the country's internationally recognised government, military and government sources said Sunday. The embattled govern",
+      "url": "https://www.france24.com/en/middle-east/20261115-yemen-houthis-advance-to-within-60-kilometres-of-aden-military-sources-say",
+      "imageUrl": "https://s.france24.com/media/display/92e0513c-e12a-11f1-8ab7-3f371022a770/w:1280/p:16x9/2026-11-15T135302Z-1473180222-RC26OOADAAUR-RTRMADP-3-IRAN-CRISIS-YEMEN-DETAINEES.jpg",
+      "source": "France 24",
+      "authoritative": true,
+      "publishedAt": "2026-11-15T19:28:54Z",
+      "category": "conflict",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
+      "description": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight year",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
+      "imageUrl": "https://i.guim.co.uk/img/media/d4d6a76c012facd782c4b989badcf7516260404c/0_69_3352_2682/master/3352.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=9d6df5f0e0cd435bef6818f5a2675c71",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-11-15T19:27:00Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Two planes collide on Miami runway",
+      "description": "Two planes collided Saturday night on the tarmac at Miami International Airport, just a day after a nationwide flight grounding caused widespread cancellations and travel chaos.",
+      "url": "https://www.cp24.com/news/world/2026/11/15/planes-collide-at-miami-runway-crossing-a-day-after-national-grounding/",
+      "imageUrl": "https://www.cp24.com/resizer/v2/KTEDZA4QCVDDXHVMEF7KIXUTIY.JPG?smart=true&auth=b691cc320d5e7efad46034504833cb4d32b44ff572094858ffaf3797203eeca8&width=1200&height=630",
+      "source": "CP24",
+      "authoritative": false,
+      "publishedAt": "2026-11-15T19:26:28Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+      "description": "Progressive US senator calling for more inclusion within Democratic caucus cites openness to change among peers",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+      "imageUrl": "https://i.guim.co.uk/img/media/6e0a2c263ff4be7091b975eef0135a62230b8800/0_103_4566_3653/master/4566.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=996617f9951975b83d95da9c2a177c8f",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-11-15T19:12:00Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "After Jensen Huang's downfall, CEOs turn to elite matchmakers",
+      "description": "After Nvidia's CEO resigned amid revelations of extramarital affairs, executives are turning to $500,000 matchmakers, background checks, secret dates and legal agreements to protect their privacy, rep",
+      "url": "https://www.ynetnews.com/business/article/r1c8bwvcmg",
+      "imageUrl": "https://ynet-pic1.yit.co.il/picserver6/crop_images/2026/11/12/HkWoopMRfl/HkWoopMRfl_0_0_1600_900_0_large.jpg",
+      "source": "Ynetnews",
+      "authoritative": false,
+      "publishedAt": "2026-11-15T19:11:14Z",
+      "category": "tech",
+      "region": "🇺🇦 乌克兰",
+      "urgent": false
+    },
+    {
+      "title": "Ukraine Donbas ask signals potential shift in Washington’s negotiation tactics",
+      "description": "Donald Trump administration trying to make a breakthrough in peace negotiations",
+      "url": "https://www.irishtimes.com/world/europe/2026/11/15/ukraine-donbas-ask-signals-potential-shift-in-washingtons-negotiation-tactics/",
+      "imageUrl": "https://www.irishtimes.com/resizer/v2/KP3UEMX7GNSYPLV7WHH3QFCA5Q.jpg?smart=true&auth=783f39b537cd41e2b0a173d988eee5619a49866fb3404c7bbf8d1cbadcc38084&width=1200&height=630",
+      "source": "The Irish Times",
+      "authoritative": false,
+      "publishedAt": "2026-11-15T19:09:19Z",
+      "category": "tech",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Africa's 3 COP31 asks meet limits",
+      "description": "Africa's adaptation finance push at COP31 won no separate agenda item after wealthy countries resisted new pledges, AFP and Climate Home News reported.",
+      "url": "https://africa.dailynewsegypt.com/adaptation-finance-africa-cop31/",
+      "imageUrl": "https://africa.dailynewsegypt.com/wp-content/uploads/2026/11/adaptation-finance-cop31-guterres.jpg",
+      "source": "DNE Africa",
+      "authoritative": false,
+      "publishedAt": "2026-11-15T19:02:00Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

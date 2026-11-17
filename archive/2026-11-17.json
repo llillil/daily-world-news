@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-17",
+  "updatedAt": "2026-11-17T08:45:46.978Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦地区冲突领域。热点议题包括：Air defenses activated in Iran's；William and Kate in India；Dezeen Awards 2026 architecture project。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "conflict": 3,
+      "tech": 2,
+      "politics": 2,
+      "policy": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "Air defenses activated in Iran's Isfahan",
+      "description": "Additionally, Iranian media outlets reported that an American MQ-1 drone had been shot down near the Strait of Hormuz by Iranian air defenses.",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-915087",
+      "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/736805",
+      "source": "The Jerusalem Post",
+      "authoritative": false,
+      "publishedAt": "2026-11-16T20:43:49Z",
+      "category": "conflict",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "William and Kate in India on 1st joint overseas trip since her cancer diagnosis",
+      "description": "The Prince and Princess of Wales' visit began in Mumbai, where they will attend the Earthshot Prize awards ceremony and several other planned events.",
+      "url": "https://globalnews.ca/news/12153168/william-and-kate-india-visit/",
+      "imageUrl": "https://globalnews.ca/wp-content/uploads/2026/11/William-and-Kate-India.jpg?quality=65&strip=all&w=720&h=379&crop=1",
+      "source": "Global News",
+      "authoritative": false,
+      "publishedAt": "2026-11-16T20:42:49Z",
+      "category": "tech",
+      "region": "🇮🇳 印度",
+      "urgent": false
+    },
+    {
+      "title": "Dezeen Awards 2026 architecture project of the year revealed",
+      "description": "Dezeen Awards 2026 architecture project of the year has been revealed, alongside all 19 architecture category winners at a party in London.",
+      "url": "https://www.dezeen.com/2026/11/16/dezeen-awards-2026-architecture-project-of-the-year-revealed/",
+      "imageUrl": "https://static-2026.dezeen.com/uploads/2026/09/DAICHI-inc.-DAICHI-silent-river-TREE-SAUNA_dezeen_2364_col_0-600x600.jpg",
+      "source": "Dezeen",
+      "authoritative": false,
+      "publishedAt": "2026-11-16T20:41:49Z",
+      "category": "politics",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Car park fees to kick in at popular tourist hotspots from December",
+      "description": "From December, people wanting to enjoy some of New Zealand's favourite locations will have to cough up $2.50 every half hour to park.",
+      "url": "https://www.1news.co.nz/2026/11/17/car-park-fees-to-kick-in-at-popular-tourist-hotspots-from-december/",
+      "imageUrl": "https://tvnz-1-news-prod.cdn.arcpublishing.com/resizer/v2/goat-island-UXXTXQJVTRDPJC2NGLNKCL3PYA.jpg?auth=2d08557f05196ed62d17b089ded77e92aa3ac7b58bd871433f4d2e4e5d76238e&quality=70&width=600&height=315&focal=926%2C506",
+      "source": "1News",
+      "authoritative": false,
+      "publishedAt": "2026-11-16T20:40:58Z",
+      "category": "tech",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "World's largest economy risks a clash with China and Saudi Arabia as US senator presses Trump to recognise breakaway territory despite their warnings",
+      "description": "The worlds largest economy faces potential foreign policy friction as U.S. Senator Ted Cruz directly challenged Washingtons official strategy by urging President Donald Trump to formally recognize Som",
+      "url": "https://africa.businessinsider.com/local/markets/worlds-largest-economy-risks-a-clash-with-china-and-saudi-arabia-as-us-senator/g0qz5p9",
+      "imageUrl": "https://ocdn.eu/pulscms-transforms/1/7MVktkpTURBXy83MTk3ZDA0ZWM1ZWNjMTE2ODc2YjAwNmMwNDI4YWU4Zi5qcGeSlQMAJs0MwM0HLJMFzQSwzQJ2",
+      "source": "Business Insider Africa",
+      "authoritative": false,
+      "publishedAt": "2026-11-16T20:37:10Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Pope Leo XIV appears struck near eye by rosary at Lima farewell Mass",
+      "description": "Pope Leo XIV appeared to be struck near the eye by a rosary tossed toward his popemobile before a farewell Mass in Lima, Peru. He showed no signs of injury.",
+      "url": "https://www.foxnews.com/world/pope-leo-xiv-hit-face-flying-rosary-farewell-mass-peru-video-shows",
+      "imageUrl": "https://static.foxnews.com/foxnews.com/content/uploads/2026/11/pope-peru-1.gif",
+      "source": "Fox News",
+      "authoritative": false,
+      "publishedAt": "2026-11-16T20:33:32Z",
+      "category": "conflict",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "How the US elections and Iran war are influencing the UN’s COP31 climate talks - and discussions around fossil fuels",
+      "description": "I have followed the talks for years as a policy expert and former climate envoy for Germany, and I’m seeing growing concern about the rising costs and harm from fossil fuels.",
+      "url": "https://theconversation.com/how-the-us-elections-and-iran-war-are-influencing-the-uns-cop31-climate-talks-and-discussions-around-fossil-fuels-296682",
+      "imageUrl": "https://images.theconversation.com/files/772054/original/file-20261115-64-3i3is.jpg?ixlib=rb-4.1.1&rect=0%2C170%2C2047%2C1023&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source": "The Conversation",
+      "authoritative": false,
+      "publishedAt": "2026-11-16T20:31:35Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "U.S. Supreme Court set to hear 3 major Trump agenda immigration cases",
+      "description": "The U.S. Supreme Court made at least two significant rulings to shape immigration policy last year. In the coming months, there will at least three more opinions that could be impactful, as U.S. Presi",
+      "url": "https://www.cbc.ca/news/world/us-scotus-major-immigration-cases-9.7423295",
+      "imageUrl": "https://i.cbc.ca/ais/cf928dd0-cdfc-4ebc-8512-424d2b6fe65d,1794850952207/full/max/0/default.jpg?im=Crop%2Crect%3D%280%2C0%2C4995%2C2809%29%3BResize%3D620",
+      "source": "CBC",
+      "authoritative": false,
+      "publishedAt": "2026-11-16T20:27:09Z",
+      "category": "policy",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Did Paleolithic Arabians Poison Their Weapons?",
+      "description": "QUEENSLAND, AUSTRALIA—According to a Gizmodo report, people living at Uruq Aljelibah, a 125,000-year-old site in […]",
+      "url": "https://archaeology.org/news/2026/11/16/did-paleolithic-arabians-poison-their-weapons/",
+      "imageUrl": "https://archaeology.org/wp-content/uploads/2026/11/News-20261116-Saudi-Arabia-Uruq-Aljelibah-Excavation.jpg",
+      "source": "Archaeology Magazine",
+      "authoritative": false,
+      "publishedAt": "2026-11-16T20:26:15Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

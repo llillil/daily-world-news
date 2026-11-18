@@ -1,0 +1,139 @@
+{
+  "date": "2026-11-18",
+  "updatedAt": "2026-11-18T08:09:36.435Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦地区冲突领域。热点议题包括：Oxford protest against talk by；Christopher Nolan's 'The Odyssey' to；Fani。本日共收录 10 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 10,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "politics": 2,
+      "conflict": 4,
+      "tech": 3,
+      "policy": 1
+    }
+  },
+  "articles": [
+    {
+      "title": "Oxford protest against talk by academic who made Arday plagiarism claim",
+      "description": "Nathan Cofnas accused late Cambridge professor Jason Arday of plagiarism.",
+      "url": "https://www.bbc.com/news/articles/c61md50k8vx4o",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/9251/live/1bc07800-e2c1-11f1-a9da-01a195e70ea0.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-11-17T20:09:03Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Christopher Nolan's 'The Odyssey' to receive Palm Springs film award",
+      "description": "Cast members Matt Damon, John Leguizamo, Samantha Morton and casting director John Papsidera are expected to attend the Palm Springs Film Awards.",
+      "url": "https://www.yahoo.com/entertainment/articles/christopher-nolans-odyssey-receive-palm-200114932.html",
+      "imageUrl": "https://s.yimg.com/lo/mysterio/api/636091a155c728d052af8f4c02a5c38b6e69d6122407c1f5d9bf3555a1fae5ec/lightyear_networkapi/resizefill_w1200%3Bquality_80%3Bformat_jpg/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fthe-desert-sun%2F017a7d1638344716e1cf116a7cc9d293.jpg",
+      "source": "Yahoo",
+      "authoritative": false,
+      "publishedAt": "2026-11-17T20:01:14Z",
+      "category": "conflict",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Fani-Kayode Raises Concerns Over Safety Of Nigerians In South Africa",
+      "description": "Nigeria's High Commissioner to South Africa, Ambassador Femi Fani-Kayode, meets with the Director-General of South Africa's Department of International Relations and Cooperation, Zane Dangor, amid con",
+      "url": "https://www.tvcnews.tv/fani-kayode-raises-concerns-over-safety-of-nigerians-in-south-africa/",
+      "imageUrl": "https://tvcnews.tv/wp-content/uploads/2026/11/Femi-Fani-Kayode-510x340-1.jpg",
+      "source": "TVC News",
+      "authoritative": false,
+      "publishedAt": "2026-11-17T19:57:00Z",
+      "category": "tech",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "What do the SAF's latest advances mean for the RSF?",
+      "description": "Ali Mahmoud Ali, ACLED’s Sudan Analyst, comments on the SAF’s recent gains in West Kordofan, growing defections from the RSF, and the implications for the balance of power in Sudan.",
+      "url": "https://acleddata.com/expert-comment/what-do-safs-latest-advances-mean-rsf",
+      "imageUrl": "https://acleddata.com/sites/default/files/styles/og_image/public/2026-06/Expert-comments-6.jpg?itok=elTxuV5v",
+      "source": "ACLED",
+      "authoritative": false,
+      "publishedAt": "2026-11-17T19:54:57Z",
+      "category": "tech",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Colombian chef claims gang forced him to cook, eat human flesh",
+      "description": "A Colombian chef, Oscar Rosas, has recounted how he was allegedly held captive for three years by a criminal gang in Bogotá and forced to cook and eat human flesh for drug dealers and international cr",
+      "url": "https://punchng.com/colombian-chef-claims-gang-forced-him-to-cook-eat-human-flesh/",
+      "imageUrl": "https://cdn.punchng.com/wp-content/uploads/2026/11/17205203/images-43_1794945123.webp",
+      "source": "Punch Newspapers",
+      "authoritative": false,
+      "publishedAt": "2026-11-17T19:54:15Z",
+      "category": "politics",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "US strikes Iranian IRGC missile launch site on Qeshm Island",
+      "description": "The strike was in response to IRGC aggression targeting US personnel and assets.",
+      "url": "https://www.jpost.com/middle-east/iran-news/article-915235",
+      "imageUrl": "https://images.jpost.com/image/upload/f_auto,fl_lossy/q_auto/c_fill,g_faces:center,h_720,w_1280/709867",
+      "source": "The Jerusalem Post",
+      "authoritative": false,
+      "publishedAt": "2026-11-17T19:54:10Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "US scolds Ukraine over deep strikes ahead of fresh Russia peace talks",
+      "description": "German Defense Minister Boris Pistorius slammed the U.S. criticism as a “stupid thing.”",
+      "url": "https://www.politico.eu/article/us-scold-ukraine-strikes-russia-peace-talks-elbridge-colby/",
+      "imageUrl": "https://www.politico.eu/cdn-cgi/image/width=1200,height=630,fit=crop,quality=80,onerror=redirect/wp-content/uploads/2026/11/17/GettyImages-2305565289-scaled.jpg",
+      "source": "POLITICO.eu",
+      "authoritative": false,
+      "publishedAt": "2026-11-17T19:53:00Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Huge Drone Raid on Ust-Luga Covered an Attack on Russian Corvette",
+      "description": "The Russian oil and gas terminal at Ust-Luga was on the receiving end of a massive Ukrainian drone strike in the early hours of November 11. The port...",
+      "url": "https://maritime-executive.com/article/huge-drone-raid-on-ust-luga-covers-attack-on-russian-corvette",
+      "imageUrl": "https://maritime-executive.com/media/images/article/1794944303_6afcad2f71694.jpg",
+      "source": "The Maritime Executive",
+      "authoritative": false,
+      "publishedAt": "2026-11-17T19:52:00Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Jeffries shifts strategy amid growing Democratic divisions in US House",
+      "description": "The lawmaker is opting to put progressive opponents on record as he vies to become the chamber’s first Black speaker.",
+      "url": "https://www.aljazeera.com/news/2026/11/17/jeffries-shifts-strategy-amid-growing-democratic-divisions-in-us-house",
+      "imageUrl": "https://www.aljazeera.com/wp-content/uploads/2026/11/afp_6afc9cd0e3c1-1794940112.jpg?resize=1920%2C1440",
+      "source": "Al Jazeera",
+      "authoritative": true,
+      "publishedAt": "2026-11-17T19:49:21Z",
+      "category": "policy",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Fighting in Yemen has made crossing the Bab el-Mandeb even more dangerous",
+      "description": "Escalating violence in the Horn of Africa and Yemen puts greater pressure on this key humanitarian corridor.",
+      "url": "https://theconversation.com/fighting-in-yemen-has-made-crossing-the-bab-el-mandeb-even-more-dangerous-jeopardizing-aid-and-refuge-for-millions-295106",
+      "imageUrl": "https://images.theconversation.com/files/772042/original/file-20261115-64-se9rka.jpg?ixlib=rb-4.1.1&rect=0%2C658%2C5000%2C2500&q=45&auto=format&w=1356&h=668&fit=crop",
+      "source": "The Conversation",
+      "authoritative": false,
+      "publishedAt": "2026-11-17T19:48:54Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    }
+  ]
+}

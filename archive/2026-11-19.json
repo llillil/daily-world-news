@@ -1,0 +1,127 @@
+{
+  "date": "2026-11-19",
+  "updatedAt": "2026-11-19T08:19:59.603Z",
+  "sources": "GNews",
+  "aiSummary": "今日聚焦国际政治领域。热点议题包括：'Russia will achieve none of；What COP31 Missed About Global；Israeli military launches rare ground。本日共收录 9 条重要国际新闻。",
+  "stats": {
+    "totalArticles": 9,
+    "urgentCount": 0,
+    "estimatedReadMinutes": 2,
+    "categories": {
+      "tech": 2,
+      "conflict": 2,
+      "politics": 3,
+      "policy": 2
+    }
+  },
+  "articles": [
+    {
+      "title": "'Russia will achieve none of its objectives' - Zelensky details upcoming allies meeting",
+      "description": "The primary objective of the Coalition of the Willing meeting on Nov. 19 in Berlin is to secure additional support for Ukraine's air defenses and energy sector, Zelensky said.",
+      "url": "https://kyivindependent.com/russia-will-achieve-none-of-its-objectives-zelensky-details-upcoming-allies-meeting/",
+      "imageUrl": "https://assets.kyivindependent.com/content/images/2026/11/GettyImages-2304757753_20261118-201437.jpg",
+      "source": "The Kyiv Independent",
+      "authoritative": false,
+      "publishedAt": "2026-11-18T20:19:10Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "What COP31 Missed About Global Food Security",
+      "description": "In 2018, the UN Security Council unanimously condemned the intentional starvation of civilians as a method of warfare. Yet the practice persists—and COP31 missed an opportunity to advance the conversa",
+      "url": "https://www.cfr.org/articles/what-cop31-missed-about-global-food-security",
+      "imageUrl": "https://assets.cfr.org/images/t_og_image_landscape/v1795034698/GettyImages-2226366637/GettyImages-2226366637.jpg",
+      "source": "Council on Foreign Relations",
+      "authoritative": false,
+      "publishedAt": "2026-11-18T20:17:42Z",
+      "category": "conflict",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Israeli military launches rare ground operation in Gaza beyond Yellow Line",
+      "description": "Hamas condemns the incursion, which the Israeli military says is dismantling a \"terror tunnel\", as a \"flagrant\" ceasefire violation.",
+      "url": "https://www.bbc.com/news/articles/cw8r7510degno",
+      "imageUrl": "https://ichef.bbci.co.uk/news/1024/branded_news/ee79/live/56061990-e382-11f1-a094-5fdc692f3e33.jpg",
+      "source": "BBC",
+      "authoritative": true,
+      "publishedAt": "2026-11-18T20:14:57Z",
+      "category": "conflict",
+      "region": "🇩🇪 德国",
+      "urgent": false
+    },
+    {
+      "title": "Two ABC News journos put on paid leave following botched Donald Trump Jr. article: report",
+      "description": "ABC News reportedly put two of its journos on paid leave over a botched story about Donald Trump Jr.s' business dealings -- and they may soon get the ax.",
+      "url": "https://nypost.com/2026/11/18/media/two-abc-news-journos-put-on-paid-leave-following-botched-donald-trump-jr-article-report/",
+      "imageUrl": "https://nypost.com/wp-content/uploads/sites/2/2026/11/abc-news-don-trump-jr-comp.jpg?quality=75&strip=all&w=1200",
+      "source": "New York Post",
+      "authoritative": false,
+      "publishedAt": "2026-11-18T20:13:00Z",
+      "category": "tech",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Fufeyin's Ghana Invasion Draws Worshippers From Ghana, Togo",
+      "description": "Thousands of worshippers from Ghana and neighbouring Togo attended a worship gathering organised by the founder of Christ Mercyland Deliverance Ministry",
+      "url": "https://leadership.ng/fufeyins-ghana-invasion-draws-worshippers-from-ghana-togo/",
+      "imageUrl": "https://leadership.ng/wp-content/uploads/2026/11/3e5a91fe-6fa7-436b-8275-0f11ae6e046b.jpeg",
+      "source": "LEADERSHIP Newspapers",
+      "authoritative": false,
+      "publishedAt": "2026-11-18T20:06:01Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Britain, EU drop 'trusted partnership' term from summit draft",
+      "description": "Britain and ​the European Commission have dropped references to forming a \"trusted partnership' in the latest draft ‌of a joint summit statement, implying that talks for the EU to grant Britain specia",
+      "url": "https://www.reuters.com/world/uk/britain-eu-drop-trusted-partnership-term-summit-draft-2026-11-18/",
+      "imageUrl": "https://www.reuters.com/resizer/v2/PTZBEO3VRVJELBS6HWT6EEHOKA.jpg?auth=25c5d2d2eb7aa514ee51891b76f752799a9841e00be65ea55d1e9923345b51d6&height=1005&width=1920&quality=80&smart=true",
+      "source": "Reuters",
+      "authoritative": true,
+      "publishedAt": "2026-11-18T20:02:37Z",
+      "category": "politics",
+      "region": "🇺🇸 美国",
+      "urgent": false
+    },
+    {
+      "title": "Pope Jokes About Being Hit in Eye With a Rosary",
+      "description": "Pope Leo XIV has forgiven the person who threw a rosary that nailed him in the eye before his final Mass in Peru, saying it was merely a sign of the person's profound faith....",
+      "url": "https://www.newser.com/story/400215/pope-isnt-angry-about-being-hit-in-eye-by-flying-rosary.html",
+      "imageUrl": "https://cdn.newser.com/image/1725324-12-20261118143017.jpeg",
+      "source": "Newser",
+      "authoritative": false,
+      "publishedAt": "2026-11-18T20:00:00Z",
+      "category": "policy",
+      "region": "🇷🇺 俄罗斯",
+      "urgent": false
+    },
+    {
+      "title": "Morning Mail: Bancroft sparks fresh sandpaper crisis; Albanese’s photo call; and GTA VI launches",
+      "description": "Batter breaks his long silence on sandpaper scandal by saying the whole team knew about it; prime minister goes along with ‘family photo’",
+      "url": "https://www.theguardian.com/australia-news/2026/nov/19/morning-mail-thursday-ntwnfb",
+      "imageUrl": "https://i.guim.co.uk/img/media/f04cba8a414a8302fce28338e29f89e50a59c6c8/491_0_4712_3770/master/4712.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&precrop=40:21,offset-x50,offset-y0&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=78ec1ed2e2ee2407f850abdd0d80a6d5",
+      "source": "The Guardian",
+      "authoritative": true,
+      "publishedAt": "2026-11-18T20:00:00Z",
+      "category": "policy",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    },
+    {
+      "title": "Op-Ed | Late Means Never: The Hormuz Shock Exposed How Little Africa Grows for Itself",
+      "description": "The Hormuz shock reached Africa's farm shops this year. Homegrown seed and inputs can blunt the next one.",
+      "url": "https://foodtank.com/news/2026/11/op-ed-late-means-never-the-hormuz-shock-exposed-how-little-africa-grows-for-itself/",
+      "imageUrl": "https://foodtank.com/wp-content/uploads/2026/11/Social-Image_-Example-3-1.png",
+      "source": "Food Tank",
+      "authoritative": false,
+      "publishedAt": "2026-11-18T19:53:35Z",
+      "category": "politics",
+      "region": "🇫🇷 法国",
+      "urgent": false
+    }
+  ]
+}
